@@ -3,13 +3,12 @@
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:0,<<<<<< Rev 3.0 ~ 17.3.2017 >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<< פליילסטים ישראלים ולועזיים מאתרים כאן , גלגל"צ , רדיוס ואקו99 >>
+#EXTINF:0,<< פליילסטים ישראלים ולועזיים מאתרים: תאגיד כאן גלגל"צ רדיוס ואקו99 >>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<https://goo.gl/EaERCt ~ למידע >>
+#EXTINF:0,<<https://goo.gl/EaERCt ~ למידע >> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<תבלו :)>>
+#EXTINF:0,<<תבלו :)>> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-
 
 #EXTINF:0, <<<<<< תאגיד כאן דיגטל >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
@@ -34,6 +33,28 @@ http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA
 	
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kan.org.il/images/classic.jpg",אן - כאן - קלאסי
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA
+
+#EXTINF:0, <<<<<< גלגל"צ דיגיטל >>>>>>
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/Sip_Storage/FILES/2/2652.png",גלגל"צ - שידור חי
+http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glglz
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/2/3072.jpg",גלגל"צ - סופשבוע רגוע
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_sofshavua/ICE-live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/4/3074.jpg",גלגל"צ - להיטים חמים
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_hits/ICE-live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/9/3079.jpg",גלגל"צ - גל עברי
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_classicil/ICE-live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/0/3080.jpg",גלגל"צ - ים תיכוני
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_med/ICE-live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/1/3081.jpg",גלגל"צ - רוק קלאסי
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_rock/ICE-live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/2/3082.jpg",גלגל"צ - אלטרנטיבי
+http://player.gl.bynetcdn.com/Redirector/glz/glglz_alt/ICE-live
+
+#EXTINF:0, <<<<<< רדיוס דיגיטל >>>>>>
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://digital.100fm.co.il/img/pic-16.jpg",רדיוס - Radios 100FM
@@ -93,21 +114,10 @@ http://audio.100fm.co.il/100Special
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://digital.100fm.co.il/img/pic_gamer.jpg",רדיוס - Gamer
 http://audio.100fm.co.il/100Gamer
 
+#EXTINF:0, <<<<<< תחנות רדיו >>>>>>
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/Sip_Storage/FILES/2/2652.png",גלגל"צ - שידור חי
-http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glglz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/2/3072.jpg",גלגל"צ - סופשבוע רגוע
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_sofshavua/ICE-live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/4/3074.jpg",גלגל"צ - להיטים חמים
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_hits/ICE-live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/9/3079.jpg",גלגל"צ - גל עברי
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_classicil/ICE-live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/0/3080.jpg",גלגל"צ - ים תיכוני
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_med/ICE-live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/1/3081.jpg",גלגל"צ - רוק קלאסי
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_rock/ICE-live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://glglz.co.il/SIP_STORAGE/files/2/3082.jpg",גלגל"צ - אלטרנטיבי
-http://player.gl.bynetcdn.com/Redirector/glz/glglz_alt/ICE-live
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rlive.co.il/up/glgltz.png",רדיו - גלגלצ
 https://api.bynetcdn.com/Redirector/glz/manifest/glglz/HLS-LIVE/playlist.m3u8
@@ -504,6 +514,8 @@ http://switch2-streaming-212-83-eu.ilcast.com:8812/;livestream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rlive.co.il/up/channel-10.png",רדיו - ערוץ 10 - אודיו
 http://switch2-streaming-212-83-eu.ilcast.com:8810/;livestream.mp3
 
+#EXTINF:0, <<<<<< ECO99 fm דיגיטל >>>>>>
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/eco_two_thousands_09new_unsplash.jpg",eco 2000 - Reggae in the 2000 eco99fm רגאיי 2000
 http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_09.mp3/playlist.m3u8
