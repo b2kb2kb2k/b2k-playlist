@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lbcnewscorp.weebly.com/favicon.ico", BLITZ RADIO 2000
+http://198.27.80.205/stream/lewisbro.pls?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fame95fm.com/content/themes/bones/library/images/win8-tile-icon.png", Fame 95 FM
+http://s1.voscast.com:7446/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiohitz92fm.com//sites/default/files/hitz_favicon_1.ico", Hitz 92 FM
+http://s6.voscast.com:8100;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://jointil.com/broadcast/images/joint.radio330X330.png", Joint Radio Reggae
+http://www.jointil.com/broadcast/jointil_quicktime_player.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.klassportsradio.com///templates/theme3040/favicon.ico", KLAS Sports Radio 89.5 Kingston
+http://ice6.securenetsystems.net/KLAS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kool97fm.com///favicon.ico", Kool 97 FM
+http://72.27.221.23:8000/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://krushyaad.com/favicon.ico", Krush Yaad
+http://st2.zenorad.io:15624
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/12417703_1264479006902799_3862646669783738437_n.jpg?oh=0f01557fa5bafa4935e33a0e8202064c&amp;oe=58DFEA66", Mello Radio 88 FM
+http://peridot.streamguys.com:5660/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nationwideradiojm.com/wp-content/uploads/2014/02/NATIONWIDE-WEBSITE-BANNER-e1428561476245.jpg", Nationwide 90 FM Kingston
+http://mixlr.com/broadcasts/d46e4d37a290abac8801be09ca9ed0b8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://go-jamaica.com/favicon.ico", Power 106 Jamaica
+http://war.str3am.com:7550/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rjr94fm.com//sites/default/files/rjr94_favicon.ico", RJR 94 FM
+http://s6.voscast.com:8104/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/206187_10150242409332030_7388923_n.jpg?oh=33a9dd1b1a4fa8cf204a98928f4c63b3&amp;oe=58D85FBF", Stylz FM 96.1
+http://ice6.securenetsystems.net/STYLZFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://tbcradio.org/favicon.ico", TBC Radio 88.5
+http://icy2.abacast.com/tbcradio-tbcradio-32
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/295522_10151504696199482_856760496_n.png?oh=2012b1107b17f2d01b2712b1a5f54239&amp;oe=58EAF0FD", Zip FM 103
+http://174.132.16.106:22635/;

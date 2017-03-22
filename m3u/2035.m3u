@@ -1,0 +1,139 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://acikradyo.com.tr/sites/all/themes/newsplus/logo.png", Açık Radyo
+http://stream.34bit.net/ar64.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://dl.dropboxusercontent.com/u/49205355/Catzmusic.jpg", Catz Music Türkiye
+http://usa6.fastcast4u.com:5157/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://dl.dropboxusercontent.com/u/49205355/Catzmusic2.jpg", Catzmusic World Radio
+http://usa5.fastcast4u.com:6058/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ereglidemokratmedya.com/image/assets/logolar/canli_dinle.jpg", Demokrat FM Eregli 92.4
+http://yayin1.yayindakiler.com:3122/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dostfm.com/wp-content/uploads/2016/03/dost-fm-2.png", Dost
+http://yayin1.yayindakiler.com:3156
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyodinleyin.net/radyo-resim/hamsi.jpg", Hamsi FM
+http://radyo.hamsi.fm:8050/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hayatmix.com/ico/apple-icon-57x57.png", HAYATMIX
+http://hayatmix.com:8330/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.isimsizfm.com/img/favicon.ico", Isimsiz FM - Hamburg
+http://www.isimsizfm.com:8888
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://twimg0-a.akamaihd.net/profile_images/1793001100/logo.png", Istabulun Sesi Radyosu
+http://shoutcast.gostream.nl:8110/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyo.itu.edu.tr/images/ituradio.pn", ITU College Radio
+http://160.75.86.29:8088/stream/5/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediacdn.karnaval.com/assets/styles/karnaval/images/logo_karnaval_black.png?v=2", Joy FM
+http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://justt.fm/assets/img/share_facebook_lg.jpg", Justt.FM Rock
+http://jstrm.com/rockturk
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://justt.fm/assets/img/share_facebook_lg.jpg", Justt.FM Turk
+http://jstrm.com/turk
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kardelenfm.com/images/logo1.gif", Kardelen FM Zonguldak
+http://dinle.kardelenfm.com:2000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kentfm.com.tr/img/favicon.ico", Kent FM
+http://37.187.79.93:8464/;stream.nsv&amp;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.724canliradyodinle.com/wp-content/uploads/Kolej-FM.jpg", Kolej FM
+http://yayin2.yayindakiler.com:4130
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://d1i6vahw24eb07.cloudfront.net/s8210.gif", Lokum FM
+http://sunucu2.radyolarburada.com:9070/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyodinler.org/wp-content/uploads/magic-fm.jpg", Magic FM
+http://yayin1.yayindakiler.com:3032/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mamasfm.de/wp/wp-content/uploads/2013/11/cropped-ultralogo.png", MAMAS FM POP RADYOSU
+http://www.mamasfm.com:4500/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.haberkultur.net/upload/02_Ocak_2011_16_00_40_2868615985.jpg", Marmara FM
+http://marmarafm.canliyayinda.com:8008
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.maxfm.com.tr/favicon.ico", Max Fm 95.8 Maximum Music
+http://live2.radyotvonline.com:8025/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyodinle.us/radyo_ikonlar/medyafm.jpg", Medya FM
+http://live2.radyotvonline.com:9390/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d1i6vahw24eb07.cloudfront.net/s108471d.png", MERCAN FM   101.5
+http://yayin1.yayindakiler.com:3190//;stream.nsv&amp;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.metropolfm.de/sites/all/themes/metropolfm/css/img/stream-alaturka.png", Metropol FM Alaturka
+http://simplebroadcast.de:8200/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.metropolfm.de/sites/all/themes/metropolfm/css/img/stream-arabesk.png", Metropol FM Arabesk
+http://simplestreaming.de:8200/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.metropolfm.de/sites/all/themes/metropolfm/css/img/stream-rock.png", Metropol FM Rock
+http://simplestreaming.de:8100/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.metropolfm.de/sites/all/themes/metropolfm/css/img/stream-slow.png", Metropol FM Slow
+http://simplestream.de:8200/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ntvradyo.com.tr/favicon.ico", NTV Radyo
+http://46.20.3.207/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.numberone.com.tr/wp-content/uploads/2015/12/N1_FM-1.jpg", Number One FM
+http://46.20.4.60:80/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.numberone.com.tr/wp-content/uploads/2015/12/N1_SlowS.jpg", Number One Slow
+http://sh.mncdn.com:8096/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.olayfm.com.tr/images/logo.png", Olay FM Bursa
+http://yayin5.yayindayiz.biz:8195/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://palfm.com.tr//Skin/favicon.ico", PAL FM 99.2 Istanbul
+http://46.20.13.51:1230/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.postrockmusic.com/img/favicon.png", Post Rock Radio
+http://5.2.81.131:9996
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://asset.ipower.com.tr/channels/medium/powerFM.png?v=15", POWER FM
+http://icast.powergroup.com.tr/PowerFM/mpeg/128/home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://asset.ipower.com.tr/channels/medium/powerLove.png?v=15", Power Love FM
+http://icast.powergroup.com.tr/PowerLove/mpeg/128/home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://asset.ipower.com.tr/channels/medium/powerRocks.png?v=15", Power Rocks
+http://icast.powergroup.com.tr:80/PowerRocks/mpeg/128/home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://asset.ipower.com.tr/channels/medium/powerJazz.png?v=15", Power Smooth Jazz
+http://icast.powergroup.com.tr/PowerJazz/mpeg/128/home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://asset.ipower.com.tr/channels/medium/powerXL.png?v=15", Power XL
+http://sc.powergroup.com.tr:80/PowerXL/mpeg/128/home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.powerturk.com//favicon.ico", PowerTürk
+http://195.142.3.35/power/PowerTurk_mpeg_128_home/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.powerturk.com/favicon.ico", PowerTürk Rock
+http://195.142.3.82/power/PowerTurkRock_mpeg_128_home/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyoa.anadolu.edu.tr/wp-content/uploads/2013/07/sosyal-ikon-e1373013765169.jpg", Radyo A (Radyo Anadolu Üniversitesi)
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radioradio7.com/radio-images/Turkey-Radyo-B-1060-FM.gif", Radyo B FM 106.0
+http://92.42.36.188:8057/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyod.com.tr/img/radyoDLogo3.png", Radyo D 104
+http://radyo.dogannet.tv/radyod
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioeksen.com/assets/i/header-logo.png", Radyo Eksen 96.2
+http://eksenwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyoerkan.com.tr/wp-content/themes/erkan/images/logo.png", Radyo Erkan
+http://sunucu2.radyolarburada.com:8095/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://gabile.com/resim/haber/1229.jpg", Radyo Gabile
+http://radyo.gabile.com:2006/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://canliradyodinle.info.tr/wp-content/uploads/2013/04/Radyo-Hayat.jpg", Radyo Hayat
+http://live4.radyotvonline.com:9450/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.canliradyodinlemek.com/radyo_kilim_dinle/radyo_kilim_canli_dinle.htm/favicon.ico", Radyo Kilim
+http://sunucu.radyodinle.com:2727
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Radyo Mega Fatsa
+http://sunucu.radyodinle.com:9944/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.pratikhaber.com/images/metropolfm.jpg", Radyo Metropol
+http://radyometropol.radyolarburada.com:5544/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh5.ggpht.com/Ze_JIF0Wdoint2aXqatrBop1zZOF0rtpziEL-qCWiiulJEnxiE8TUoYD1W2OlVDSJa4=w300", Radyo Munzur 97.7
+http://yayin1.yayindakiler.com:3002/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyopop.com/logo.gif", Radyo Pop
+http://yayin2.yayindayiz.biz:9010/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radyospor.com/img/logo.png", Radyo Spor
+http://46.20.4.5:8170
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg", Radyo Trafik 104.2 Ankara
+http://live2.radyotvonline.com:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyo-dinle.biz.tr/wp-content/uploads/2013/04/Renk-FM.jpg", RENK FM
+http://sunucu2.radyolarburada.com:9025/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rockfm.com.tr/images/rockfm_logo_siyah-bg.png", Rock FM TR
+http://rockfm.rockfm.com.tr:9450/;stream.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.showradyo.com.tr/favicon.ico", Show Radyo
+http://46.20.3.229/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://2.bp.blogspot.com/_eQvnECtJBts/SRtnzKycVtI/AAAAAAAAAAU/ZGq7GGpvHVw/S1600-R/SkyRadyo-F0486.JPG", Sky Radyo
+http://skyradyo.org:8300/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d1i6vahw24eb07.cloudfront.net/s110604d.png", Süper Show Radyo
+http://sunucu4.radyolarburada.com:6065/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d1i6vahw24eb07.cloudfront.net/s154501q.png", Taksim FM
+http://cast1.taksim.fm:8000/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.taksim.fm/streaming/logoarabesk.png", Taksim FM Arabesk
+http://cast1.taksim.fm:8008/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://canliradyofmdinle.com/wp-content/uploads/2012/06/taksim-fm-pop.png", Taksim FM Pop
+http://cast1.taksim.fm:8014/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://taksim.fm/images/taksimfm-logo-main.png", Taksim FM Slow
+http://cast1.taksim.fm:8002/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.aktifradyo.com.tr/index_dosyalar/image001.jpg", Trabzon Radyo Aktif
+https://radyo.yayin.com.tr/tunein/aktifrad.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyo.trt.net.tr/Data/Arsiv/Kanal/1aab6bb6-390d-428a-9f67-745cda9b224a.png", TRT Radyo 1
+http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radyo.trt.net.tr//Data/Arsiv/Kanal/7347ac2b-9b52-4eb3-a3ab-6b04034a2289.png", TRT Radyo 3
+http://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.turkiyemfm.de/images/logo414.png", Türkiyem FM
+http://turkiyemfm.canliyayinda.com:8032/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tutkufm.net/img/logo.png", Tutku FM
+http://yayin2.yayindakiler.com:4038/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.yonradyo.com.tr/images/logo.png", Yön Radyo
+http://yonradyo.radyolarburada.com:8020/

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dzrhnews.com/wp-content/uploads/2016/08/DZRH_Logo2.jpg", DZRH 666
+http://icecast.eradioportal.com:8000/dzrh
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://oneradiotabaco.com/favicon.ico", One Radio 91.3
+http://173.192.207.51:7059/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.zagitsit.com/favicon.ico", Zagitsit 100.3 News FM
+http://192.99.4.210:3054/live

@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://8Radio.com/wp-content/uploads/2015/10/cropped-8-Logo-Colour-Splash-270x270.jpg", 8 Radio 94.3 Dublin
+http://8radiohq.serverroom.us:7532/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i2.wp.com/8Radio.com/wp-content/uploads/2015/10/cropped-8-Logo-Colour-Splash.jpg?fit=32%2C32", 8Radio
+http://176.31.239.83:9035/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102644/resized/140x134c/abc50.jpg", ABC 50&#039;s
+http://streaming.radionomy.com/ABC50s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102651/resized/140x134c/abc60.jpg", ABC 60&#039;s
+http://streaming.radionomy.com/ABC60sIreland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102658/resized/140x134c/abc70.jpg", ABC 70&#039;s
+http://streaming.radionomy.com/ABC70-sIreland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102725/resized/140x134c/abc80s.jpg", ABC 80&#039;s
+http://streaming.radionomy.com/ABC80sIreland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110404/resized/140x134c/all_irish_radio.jpg", All Irish Radio
+http://streaming.radionomy.com/AllIrishRadioIreland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101316/resized/140x134c/athlone_community_radio.jpg", Athlone Community Radio
+http://46.7.97.5:88/broadwave.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.beat102103.com/wp-content/themes/beat/images/favicon.png", Beat 102 103
+http://184.154.145.114:8013/beatmp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.c103.ie/icons/c103-android-normal.png", C103 North Cork (Mallow)
+http://stream3.radiomonitor.com/C103-North
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.c103.ie/icons/c103-android-normal.png", C103 West Cork (Bandon)
+http://stream3.radiomonitor.com/C103-West
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.charityradio.ie/wp-content/uploads/2013/12/Thumbnail-Logo3.png", Charity Radio
+http://37.187.79.93:8640/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://christmasfm.com/wp-content/uploads/2015/11/cropped-siteicontemplate-32x32.png", Christmas FM [AAC+]
+http://www.christmasfm.com/streams/xmasfm128mp3.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://christmasfm.com/wp-content/uploads/2015/11/cropped-siteicontemplate-32x32.png", Christmas FM [MP3]
+http://www.christmasfm.com/streams/xmasfm64aac.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.clare.fm//sites/all/themes/clarefm/favicon.ico", Clare.FM [AAC+]
+http://icy-e-04.sharp-stream.com/clarefm.aac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://clare.fm//sites/all/themes/clarefm/favicon.ico", Clare.FM [MP3]
+http://tx.sharp-stream.com/http_live.php?i=clarefm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ccr946.ie/wp-content/uploads/2013/01/CCR-Icon.png", Claremorris Community Radio
+http://198.105.220.12:7983/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.classichits.ie/wp-content/uploads/2016/09/4fmsitelogo-purple.png", Classic Hits 4FM
+http://sirius.shoutca.st:8166/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.classix.ie/images/favicon.ico", Classix.ie
+http://stream.classix.ie:81/live/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s0.wp.com/i/blank.jpg", Community Radio Youghal (CRY 104FM)
+http://99.198.118.250:8096/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110011/resized/140x134c/connemara_community_radio.jpg", Connemara Community Radio
+http://78.129.196.32:21000/stream.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.96fm.ie//App_Themes/96FM/icons/apple-touch-icon.png", Cork&#039;s 96FM
+http://webradio.radiomonitor.com/stream/96FM/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.redfm.ie/favicon.ico", Cork&#039;s Red FM
+http://tx.sharp-stream.com/icecast.php?i=redfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/111427/resized/140x134c/crcfm.jpg", CRCfm
+http://91.121.91.172:8555/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/114834/resized/180x172c/cry_104fm.jpg", CRY 104fm
+http://99.198.118.250:8096/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110140/resized/140x134c/dublins_dance_machine_ddm.jpg", DDM Radio Ireland
+http://109.255.44.249:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/112436/resized/140x134c/dublin_city_fm.jpg", Dublin City FM
+http://stream.bts.ie:8081/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115733/resized/180x172c/dublin_south_fm.jpg", Dublin South FM
+http://uk1.internet-radio.com:15047/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.98fm.com/assets/graphics/98fm_logo.png", Dublin&#039;s 98FM
+http://ice1.gocaster.net/98
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110301/resized/140x134c/dublin_s_abc.jpg", Dublin&#039;s ABC
+http://cabhs30.sonixcast.com:9722/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.q102.ie/icons/q102-android-normal.png", Dublin&#039;s Q102
+http://webradio.radiomonitor.com/stream/Q102/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg", Dundalk FM
+http://80.249.249.245:8000/;?1485109331489
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.eastcoast.fm/images/ecfm_logo_web2.png", East Coast FM
+http://livefeed.eastcoast.fm:8461/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110901/resized/140x134c/event_fm.jpg", Event FM
+http://5.63.151.52:8037/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.flirtfm.ie/img/flirtfm_fb_norm.png", Flirt FM
+http://brockman.nuigalway.ie:8000/stream.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fb2%2FFm104dublin.jpg&amp;sp=16eb7916832dd7f6ae7467629622e9b1", FM104 (Dublin, Ireland)
+http://31.14.40.241:6184/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.frq.fm/favicon.ico", FRQ
+http://nodec.gocaster.net/fq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://galwaybayfm.ie/wp-content/uploads/2016/01/GBFM-150x150.png", Galway Bay FM
+http://91.121.0.110:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110029/resized/140x134c/garden_county_radio.jpg", Garden County Radio
+http://5.63.151.52:7044/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://gnl.fm/wp-content/uploads/2015/08/GNL-Logo.png", GNL
+http://gnl.fm:8000/GNL-MP3-HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110066/resized/140x134c/heartbeat_fm.jpg", Heartbeat FM
+http://heartbeatfm.net/wp-content/plugins//media-buttons/playlist.php?ip=188.165.201.120:8003&amp;mountpoint=/&amp;format=PLS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101245/resized/140x134c/highland_radio.jpg", Highland Radio
+http://www.highlandradio.com/highland.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hotfmireland.com/favicon.ico", Hot FM Ireland
+http://myradiostream.com/hotfmireland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://dr4uvk36izxwu.cloudfront.net/clients/iradio/assets/img/meta-image.jpg", iRadio Midlands &amp; Northeast
+http://iradio.iceca.st/i105107.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://dr4uvk36izxwu.cloudfront.net/clients/iradio/assets/img/meta-image.jpg", iRadio West &amp; Northwest
+http://iradio3.iceca.st/i102104.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102755/resized/140x134c/kissfm.jpg", Ireland&#039;s KISS FM
+http://listen.radionomy.com/kissfm-ireland-.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.irishcountrymusicradio.com/main/linkicon.jpg", Irish Country Music Radio
+http://46.28.49.164:7502/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110058/resized/140x134c/irish_pub_radio.jpg", Irish Pub Radio
+http://www.irishpubradio.com/streams1/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kclr96fm.com/favicon.ico", KCLR 96FM
+http://majestic.wavestreamer.com:8926/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/112500/resized/180x172c/kfm_radio.jpg", Kfm (County Kildare, Ireland)
+http://cty.gocaster.net:8000/kfm_web
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/114844/resized/140x134c/kiss_90_s_ireland.jpg", KISS 90&#039;s
+http://listen.radionomy.com/kiss90s.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/111950/resized/140x134c/kiss_classical_ireland.jpg", KISS Classical
+http://listen.radionomy.com/irelandskissclassical
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102761/resized/140x134c/kiss_country_hat.jpg", KISS Country
+http://listen.radionomy.com/ireland-skisscountry
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102745/resized/140x134c/kisshitseurope.jpg", KISS Hits
+http://streaming.radionomy.com/KISSHitsIreland
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/112814/resized/140x134c/kiss_jazz.jpg", KISS Jazz
+http://streaming.radionomy.com/KISSJazz
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101764/resized/140x134c/life_fm.jpg", Life FM (Cork, Ireland)
+http://79.170.198.170:8000/radio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/112418/resized/140x134c/liffey_sound_fm.jpg", Liffey Sound FM
+http://stream.liffeysoundfm.ie:8000/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.limerickcitycommunityradio.org/images/lccr-fb-share-lq.jpg", Limerick City Community Radio
+http://server5.hostingenergy.com:7016/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.live95fm.ie/icons/live95-android-normal.png", Limerick&#039;s Live 95fm
+http://webradio.radiomonitor.com/stream/Live95/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://liveireland.com/wp-content/uploads/2015/10/fav.png", liveIreland [AAC+]
+http://www.liveireland.com/liveAACplus.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://liveireland.com/wp-content/uploads/2015/10/fav.png", liveIreland [MP3]
+http://www.liveireland.com/live.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lmfm.ie/icons/lmfm-android-normal.png", LMFM
+http://webradio.radiomonitor.com/stream/LMFM/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115654/resized/180x172c/midlands_103.jpg", Midlands 103
+http://icy-e-04.sharp-stream.com/midlands103.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg", Midwest Radio [AAC]
+http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg", Midwest Radio [MP3]
+http://direct.sharp-stream.com/midwestfmie.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nearfm.ie/wp-content/uploads/2014/05/NearLogoBIG3final-1.gif", Near FM 90.3
+http://37.187.193.36:8024/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/112816/resized/140x134c/newstalk.jpg", Newstalk
+http://176.124.246.11/nt
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/116129/resized/140x134c/northern_sound.jpg", Northern Sound
+http://radiokerry.mp3.miisolutions.net:8050/radiokerry/northernsound_128kMP3_website
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://oceanfm.ie/wp-content/uploads/2014/03/OceanFM_Favicon-57x571.png?e42a32", Ocean FM
+http://direct.sharp-stream.com/oceanfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.oymradio.com///templates/theme5/favicon.ico", Open Your Mind Radio
+http://eu3.fastcast4u.com:5624/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.opentempofm.com/favicon.ico", OpenTempoFM
+http://eu7.fastcast4u.com:2199/tunein/opentemp.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/111404/resized/140x134c/owenea_fm.jpg", Owenea FM
+http://eu3.radioboss.fm:8226/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.oymradio.com///templates/theme5/favicon.ico", Peoples Internet Radio
+http://37.187.90.121:3856/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.phoenixfm.ie/templates/fitness_center/favicon.ico", Phoenix FM
+http://87.117.201.167/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101409/resized/140x134c/pure_classic.jpg", Pure Classic
+http://209.95.50.189:8036/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiokerry.ie/wp-content/themes/radiokerry/images/devices/radiokerry-icon-ipad.png", Radio Kerry
+http://radiokerry.mp3.miisolutions.net:8050/radiokerry/radiokerry_128kMP3_website
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiomaria.ie/wp-content/uploads/2015/09/RadioMaria1.jpg", Radio Maria Ireland
+http://cloudrad.io/radiomariaireland/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova 00s
+http://31.14.40.241:9752/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova 100FM
+http://31.14.40.241:9752/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova 70s
+http://31.14.40.241:9750/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova 90s
+http://31.14.40.241:9752/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova Chill
+http://31.14.40.241:9762/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova Classic Rock
+http://31.14.40.241:9752/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiovera.ie//communities/3/004/013/024/013/icons/4618775848.ico", Radio Vera
+http://listen.radionomy.com/radio-vera-ireland.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rcb.ie/favicon.ico", Raidi?? Corca Baiscinn
+http://37.187.90.121/stream/raidioco.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.raidionalife.ie/favicon.ico", Raidi?? na Life
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rrr.ie/wp-content/themes/replay/framework/admin/images/favicon.ico", Raidi?? R??-R??
+http://185.80.220.12:8166/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/114812/resized/140x134c/rte_2fm.jpg", RT?? 2FM
+http://av.rasset.ie/av/live/radio/2fm.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115626/resized/140x134c/rte_2xm.jpg", RT?? 2XM
+http://av.rasset.ie/av/live/radio/2xm.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115762/resized/140x134c/rte_gold.jpg", RT?? Gold
+http://av.rasset.ie/av/live/radio/gold.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115764/resized/140x134c/rtejr.jpg", RT?? Junior / RT?? Chill
+http://av.rasset.ie/av/live/radio/junior.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png", RT?? Lyric FM
+http://av.rasset.ie/av/live/radio/lyric.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101109/resized/140x134c/rte_pulse.jpg", RT?? Pulse
+http://av.rasset.ie/av/live/radio/pulse.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/117585/resized/140x134c/rte_radio_1.jpg", RT?? Radio 1
+http://av.rasset.ie/av/live/radio/radio1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115731/resized/140x134c/rte_radio_1_extra.jpg", RT?? Radio 1 Extra
+http://av.rasset.ie/av/live/radio/radio1extra.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115732/resized/140x134c/rte_raidio_na_gaeltachta.jpg", RT?? Raidi?? na Gaeltachta
+http://av.rasset.ie/av/live/radio/rnag.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101461/resized/140x134c/shannonside_fm.jpg", Shannonside
+http://radiokerry.mp3.miisolutions.net:8050/radiokerry/shannonside_128kMP3_website
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101467/resized/140x134c/south_east_radio.jpg", South East Radio [AAC+]
+http://31.14.40.241:9728/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101467/resized/140x134c/south_east_radio.jpg", South East Radio [MP3]
+http://31.14.40.241:9726/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/116469/resized/140x134c/spin_south_west.jpg", SPIN South West
+http://vice02.lhr.xpc-mii.net/communicorp/SpinSW_high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101036/resized/140x134c/spirit_radio.jpg", Spirit Radio
+http://st2.webradioworld.net/tunein.php/spiritradio01/playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/109615/resized/140x134c/sunshine.jpg", Sunshine 106.8
+http://sirius.shoutca.st:8291/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tcrfm.ie//wp-content/uploads/fbrfg/favicon-32x32.png", TCR FM
+http://5.152.208.98:8102/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://the90snetwork.com/wp-content/uploads/2015/09/90s-net.jpg", The 90s Network
+http://the90snetwork.com/wp-content/plugins//media-buttons/playlist.php?ip=188.165.201.120:8058&amp;mountpoint=/&amp;format=PLS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://thefreakradio.files.wordpress.com/2011/09/button-play-icon2-e1315561625766.png", The Freak
+http://streaming.radionomy.com/The-Freak?lang=pt_BR%2cpt%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tippfm.com/favicon.ico", Tipp FM
+http://tx.sharp-stream.com/http_live.php?i=tippfm1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110226/resized/140x134c/tipperary_mid_west.jpg", Tipp Mid West Radio
+http://184.154.145.114:8007/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tippmidwestradio.com/images/tmwrfblogo.png", Tipperary Mid West
+http://184.154.145.114:8007/stream.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.todayfm.com/favicon.ico", Today FM
+http://176.124.246.11/td4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.trancepulsefm.com/files/theme/favicon.ico", TrancePulse FM
+http://trancepulsefm.com/128/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.triplag.com/images3/triplag_fb_logo.jpg", Triplag Chill Trip
+http://www.triplag.com/webradio/chilltrip/triplag-chilltrip-playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.triplag.com/images3/triplag_fb_logo.jpg", Triplag Dark Psy
+http://www.triplag.com/webradio/darkpsy/triplag-darkpsy-playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/110035/resized/140x134c/ucb_ireland.jpg", UCB Ireland
+http://tx.sharp-stream.com/http_live.php?i=ucbireland.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ucc.ie/favicon.ico", UCC 98.3FM
+http://143.239.169.110:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://udmiradio.com/wp-content/uploads/2015/05/UMDI-Facebook-Profile-Pic-1.jpg", UDMI
+http://142.4.215.64:8008/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.oymradio.com///templates/theme5/favicon.ico", United We Strike Radio
+http://s9.voscast.com:7530/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.uradio.ie/./images/favicon.ico", URadio
+http://uradiotherock.ice.infomaniak.ch/uradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/111471/resized/140x134c/uradio.jpg", URadio [MP3]
+http://uradiotherock.ice.infomaniak.ch/uradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wiredfm.ie/favicon.ico", Wired FM
+http://198.105.220.12:9956/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wlrfm.com/favicon.ico", WLR FM
+http://184.154.145.114:8013/wlrmp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.zenradio.ie/wp-content/uploads/2014/05/Zen-Logo.jpg", Zen [AAC+]
+http://iradio.iceca.st/zenradio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.zenradio.ie/wp-content/uploads/2014/05/Zen-Logo.jpg", Zen [MP3]
+http://iradio3.iceca.st/zenradio.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101436/resized/140x134c/zenith_classic_rock.jpg", Zenith Classic Rock [AAC+]
+http://148.163.81.10:8002/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101436/resized/140x134c/zenith_classic_rock.jpg", Zenith Classic Rock [MP3]
+http://148.163.81.10:8006/listen.pls

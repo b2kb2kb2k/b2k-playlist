@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://thumbs.web.sapo.io/?W=300&amp;H=150&amp;crop=center&amp;tv=1&amp;delay_optim=1&amp;epic=V2%3AtQDEQVR%2FI2K07%2FvO%2BJaiWTUgEmmbiwTlWvMlObumKUMgcbnDXnVNTiQCSlb0sl5fR760Pot4NusJRX%2Fs4MUhLFCULo8ExkKRah42hoe4mmBHeJGu%2BwCoh8P4da988oP3", Crioula FM
+http://radios.vpn.sapo.pt/CV/radio5.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://praiafm.sapo.cv//favicon.ico", Praia FM
+http://radios.vpn.sapo.pt/CV/radio4.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://2.fotos.web.sapo.io/i/Nf40265f0/4381803_ie1vE.jpeg", Radio Cidade
+http://radios.vpn.sapo.pt/CV/radio1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radioeducativa.cv//templates/simpletemplate/favicon.ico", Radio Educativa
+http://radios.vpn.sapo.pt/CV/radio11.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rffadvogados.com/xms/img/720x/8d3bd/cT04NiZmbHRyW109dXNt/L08zbS8tME0zWnJTbS9MczFzcDNaclNKbXNnajdNS01abS9uWi1NanMzam5aMFNFWnR6dGRrcg.jpg", Radio Morabeza
+http://radios.vpn.sapo.pt/CV/radio8.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/8/6/5/18655999/18655999,192x192,r:2.jpg", Radio Nova
+http://radios.vpn.sapo.pt/CV/radio10.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtc.cv/images/rtc.ico", RCV
+http://radios.vpn.sapo.pt/CV/radio7.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtc.cv/images/rtc.ico", RCV+
+http://radios.vpn.sapo.pt/CV/radio6.mp3

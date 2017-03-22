@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiocolor.cz/image/topic/color-rubrika.png", Color Music Radio
+http://icecast8.play.cz:443/color128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://heyradio.cz/image/freestyle//hey_logo-seda.png", HEY rádio
+http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.abradio.cz/data/s/34/logo_page.png", Radio Metallica
+http://ice3.abradio.cz/metallica128.mp3

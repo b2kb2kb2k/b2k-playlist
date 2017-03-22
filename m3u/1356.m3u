@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://unionradio.net/wp-content/themes/UnionRadio-R1-2015/favicon.ico?x19974", Actualidad 90.3
+http://ur58.lorini.net:2080/ACTUALIDAD.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://b96fm.com.ve/cw_site/1/images/logo.png", B96FM  Barquisimeto
+http://lortel58.lorini.net:63100/B96FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://formato21.mx/favicon.ico", Formato 21
+http://ice21.securenetsystems.net/F21AAC?&amp;playSessionID=C19CAF68-A4D1-DB6D-72CA1D0AA71CE1D8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://la69.mx/favicon.ico", La 69 Radio Centro 690 Mexico, DF
+http://ice21.securenetsystems.net/LA69AAC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 103.3 Barquisimeto
+http://ur58.lorini.net:35000/LAMEGA1033FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mariskalrock.com/wp-content/themes/mariskalrock/img/icons/favicon.ico", Mariskalrock
+http://radioserver9.profesionalhosting.com:8216/;stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioformula.com.mx//images/gflogo.ico", Radio Fórmula 103.3
+http://streamingmovil.radioformula.com:8000/m1033
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioformula.com.mx//images/gflogo.ico", Radio Formula 104.1
+http://streamingmovil.radioformula.com:8000/m1041
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://3.bp.blogspot.com/-6HQBwesyGkA/UsijZaOkLtI/AAAAAAAAJH8/N6qv-1OYkwA/s1600/Radio+Galicia.jpg", Radio Galicia - Cadena Ser
+http://18973.live.streamtheworld.com:3690/SER_GALICIA.mp3?csegid=2000&amp;tdsdk=js-2.9&amp;pname=TDSdk&amp;pversion=2.9&amp;banners=none&amp;streamtheworld_user=1&amp;sbmid=d5ccc0dd-b042-4788-8838-4d04f9060b65
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio.uns.edu.ar/favicon.ico", Radio Universidad Nacional del Sur 1240 Bahia Blanca
+http://46.4.33.73:7104/;aacp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiouruguay.com.uy/mecweb/img/favicon.ico", Radio Uruguay
+http://radio.sodreuruguay.com:9120/listen.pls

@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.net/images/broadcasts/ac/f7/15374/c175.png", 1 FM
+http://sc-atr.1.fm:7700
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://watiseropderadio.nl/img/radio-thumbnails/100-procent-nl.jpg", 100% NL
+http://stream.100p.nl:8000/100pctnl.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://40upradio.nl/wp-content/uploads/2016/05/40upRadio_website_Logo_Header.png", 40up radio
+http://radio.40up.nl/40up1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://50pluspartij.nl/images/algemeen/logo_50PLUS.png", 50 Plus Partij Radio
+http://stream.surfradio.nl/50plus128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.allesplat.nl/_sysimg/alles-plat.png", Alles Plat
+http://icecast.omroep.nl/rtvoost-allesplat-aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://angelicfm.nl/favicon.ico", AngelicFM 320kbps
+http://angelicfm.nl/stream-hq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.arrow.nl/images/logo.jpg", Arrow Classic Rock
+http://91.221.151.155
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.baarsclassicrock.nl/wp-content/uploads/2017/02/logo-BCR-150x150.jpg", Baars classic Rock
+http://server-66.stream-server.nl:8840/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://hamwaves.com/streams/images/bnr.png", BNR Nieuwsradio
+http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_96_06
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://carnaval-radio.nl/themes/CarnavalRadio/img/fav32.png", Carnaval-Radio
+http://185.80.220.12:2199/tunein/scarna00.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img2.radioforest.net/uploads/radio/755/755270/44897/thumb-large.jpg", CeltCast
+http://178.20.171.32:8086/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.classicfm.nl/css/images/logo_website_round.svg", Classic FM Netherlands
+http://8543.live.streamtheworld.com/CLASSICFM.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dance.fm/img/face.jpg", Dance.FM
+http://dance.fm/aacplus.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dancegrooveradio.com/images/favicon.ico", DanceGrooveRadio
+http://server3.digital-webstream.de:12160
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.concertzender.nl/favicon.ico", De Gehoorde Stilte
+http://www.concertzender.nl/streams/gehoordestilte
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.deep.fm/images/favicon.gif", DeepFM
+http://sc-01.deep.fm/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deltaradio90.nl/images/img0022.png", Delta Radio Nijmegen
+http://80.100.204.145:9005/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dfm.nu/favico.ico", DFM RTV INT
+http://stereo.dfm.nu
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dfm.nu/favico.ico", DFM RTV INT [HIFI MONO]
+http://mono.dfm.nu
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.efteling.com/Assets/Redesign/i/icons/favicon.ico", Efteling Kids Radio
+http://vip-icecast.538.lw.triple-it.nl/WEB07_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tvenschedefm.nl/favicon.ico", Enschede FM
+http://stream1.icehosting.nl:8126/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.freezfm.nl/wp-content/themes/freez/images/favicon.ico", Freez FM
+http://www.freezfm.nl/stream/default/listen.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl///templates/funx/img/xtouch-icon.png", FunX Slow Jamz
+http://icecast.omroep.nl/funx-slowjamzfb-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.grootnieuwsradio.nl//ui/groot-nieuws-radio-2013/img/apple-touch-icon-76x76.png", Groot nieuws radio
+http://media02.streampartner.nl:8050/stream?type=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i3.radionomy.com/radios/400/b9319af4-10c6-43f9-8e71-c56d03e23f2f.jpg", Hardcore Radio
+http://stream1.hardcoreradio.nl/hcr
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.heemskerk.fm//fileadmin/templates/favicon.ico", Heemskerk FM
+http://stream.rodney.it/heemskerkfm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line Classic Radio
+http://82.94.166.107:8088/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line Latin Radio
+http://mediaserv33.live-streams.nl:8034
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line World Radio
+http://mediaserv38.live-streams.nl:8027/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-1/p200x200/45823_109616119097364_8110685_n.jpg?oh=1b2c6b222dc342b436a75cc4e6d9d524&amp;oe=59699A54", House Radio
+http://stream.house-radio.com:8000/premium.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i-turnradio.nl/images/logo200.png", i-turn radio
+http://live.i-turnradio.nl:80/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.intergalactic.fm/images/CLASSIX.png", Intergalactic FM Classix
+http://radio.intergalacticfm.com/2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.intergalactic.fm/images/IFM4SQ.png", Intergalactic FM Dream Machine
+http://radio.intergalacticfm.com/4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.intergalactic.fm//favicon.ico", Intergalactic FM Main
+http://radio.intergalacticfm.com/1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.intergalactic.fm/images/garden.png", Intergalactic FM The Garden
+http://radio.intergalacticfm.com/5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.radionomy.com/radio/110/38c421d1-1692-4033-97da-440dcce99640.png", J-Last
+http://listen.radionomy.com/j-last.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/205545683/logo_final_003_bw.png", Jungletrain.net
+http://jungletrain.net/128kbps.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.keizerstad.nl/wp-content/uploads/KZR-player-80s.png", Keizerstad Radio 80s
+http://server-06.stream-server.nl:8800
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kinderradio.fm/templates/peuterradio_front/favicon.ico", Kinderradio FM
+http://kinderradio.ic-stream.nl:30039/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kxclassics.nl/images/kx_classics_logo.png", KX Classics
+http://stream.kxclassikx.nl
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kxradio.3fm.nl/static/img/header/logo.png", KX Radio
+http://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://l1.nl/static/img/logo.svg", L1 Radio
+http://icecast.omroep.nl/l1-radio-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lxclassics.com/favicon.ico", LX Classics
+http://www.lxclassics.com/playlist/LXClassics.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.maaslandradio.nl/wp-content/uploads/2016/11/MAASLAND-400.jpg", Maasland Radio
+http://panel.beheerstream.com:2199/tunein/maaslandradio.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.n1.nl/views/n1/images/favicon.ico", N1 - altijd Nijmegen
+http://icecast.streamone.nl/jM45nMkqZt
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nashvilletv.nl/wp-content/uploads/2016/04/cropped-nashvilletv-logo-favicon-270x270.png", NashvilleFM
+http://server-24.stream-server.nl:8300/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nauticradio.net/images/ogimage.png", Nautic Radio Groningen
+http://stream.nauticradio.net:14260/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i79.fastpic.ru/big/2016/0811/ff/c65f7fe862a43c690ccf8a6227bd78ff.png", North Sea Surf Radio
+http://server-23.stream-server.nl:8426/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kxradio.3fm.nl//static/img/favicon.ico", NPO 3FM KXradio
+http://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.3fm.nl//static/img/favicon/favicon.ico", NPO 3FM Serious Radio
+http://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO Funx Arab
+http://icecast.omroep.nl/funx-arabfb-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX Dance
+http://icecast.omroep.nl:80/funx-dancefb-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX Hip Hop
+http://icecast.omroep.nl:80/funx-hiphopfb-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX Latin
+http://icecast.omroep.nl:80/funx-latinfb-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX NL
+http://icecast.omroep.nl/funx-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX Reggae
+http://icecast.omroep.nl:80/funx-reggaefb-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kxclassics.com/favicon.ico", NPO KX Classics
+http://stream.kxclassikx.nl/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b0/df/2218/c175.png", NPO Radio 1
+http://icecast.omroep.nl/radio1-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/13/11/2219/c175.png", NPO Radio 2
+http://icecast.omroep.nl/radio2-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/13/11/2219/c175.png", NPO Radio 2 (AAC - Low Bitrate)
+http://icecast.omroep.nl:80/radio2-sb-aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/d2/a2/2220/c175.png", NPO Radio 4
+http://icecast.omroep.nl/radio4-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio4.nl/image/rm/29281/NPO-Radio-4-Concerten.jpg", NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/0f/6c/36730/c175.png", NPO Radio 5
+http://icecast.omroep.nl/radio5-bb-mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/93/4b/2222/c175.png", NPO Radio 6 Soul &amp; Jazz
+http://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.omroepbrabant.nl/Graphics/Images/touch-icon.png", Omroep Brabant
+http://streaming.omroepbrabant.nl/mp3hq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.omroepgelderland.nl/Content/Images/gelderland/favicon.ico", Omroep Gelderland
+http://web.omroepgelderland.nl/live/liveradio.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.omroepvenray.nl//sites/all/themes/lov/favicon.ico", Omroep Venray
+http://icecast.omroepvenray.nl/lov.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.hobbyscoop.nl/wp-content/uploads/2016/04/favicon-144.png", PI2NOS
+http://icecast.pe1rjv.nl:8000/pi2nos
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pinguinradio.com/wp-content/uploads/Aardschok-Radio-Covert-Art.jpg", Pinguin Aardschok
+http://as192.pinguinradio.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pinguinradio.com/sidebar/internal/assets/images/logos/pinguin-logo.png", Pinguin Classics
+http://pc192.pinguinradio.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.pinguinradio.com//_assets/img/global/pinguinradiocomlogo-square.png", Pinguin radio
+http://pr320.pinguinradio.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.q-dance.com/netherlands/en//favicon.ico", Q-dance
+http://stream01.platform02.true.nl:8000/qdance-hard
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.q-music.nl/favicon.ico", Q-music
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic 90s
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_classics_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic Het Foute Uur
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_fouteuur_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic hot now
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_new_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic Limburg
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_qlmb_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic nonstop
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_nonstop_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/wp-content/files_flutter/2014/08/101.jpg", Radio 10
+http://stream.radio10.nl/radio10aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/wp-content/files_flutter/2014/08/60701.jpg", Radio 10 60&#039;s &amp; 70&#039;s Hits
+http://stream.radiocorp.nl/r10_6070s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/favicon.ico", Radio 10 80&#039;s Hits
+http://stream.radiocorp.nl/r10_80s_mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/wp-content/files_flutter/2014/08/90s1.jpg", Radio 10 90&#039;s Hits
+http://stream.radiocorp.nl/r10_90s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/wp-content/files_flutter/2014/08/disco1.jpg", Radio 10 Disco Classics
+http://538hls.lswcdn.triple-it.nl/content/web23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio10.nl/wp-content/files_flutter/2014/08/zomer1.jpg", Radio 10 Zomer Hits
+http://stream.radiocorp.nl/r10_zomer_mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio4.nl//assets/images/favicon_32.png", Radio 4
+http://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.538.nl/social_share.png", Radio 538
+http://vip-icecast.538.lw.triple-it.nl/RADIO538_MP3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538dancedepartment.png", Radio 538 Dance Department
+http://vip-icecast.538.lw.triple-it.nl/WEB01_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538danceradio.png", Radio 538 Dance Radio
+http://vip-icecast.538.lw.triple-it.nl/WEB10_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538globaldancechart.png", Radio 538 Global Dance Chart
+http://vip-icecast.538.lw.triple-it.nl/WEB05_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538hitzone.png", Radio 538 Hitzone
+http://vip-icecast.538.lw.triple-it.nl/WEB11_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538ibiza.png", Radio 538 Ibiza
+http://vip-icecast.538.lw.triple-it.nl/WEB19_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538nonstop.png", Radio 538 Nonstop
+http://vip-icecast.538.lw.triple-it.nl/WEB09_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538party.png", Radio 538 Party
+http://vip-icecast.538.lw.triple-it.nl/WEB16_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538top40.png", Radio 538 Top 40
+http://vip-icecast.538.lw.triple-it.nl/WEB02_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538verrucktestunden.png", Radio 538 Verr??ckte Stunden
+http://vip-icecast.538.lw.triple-it.nl/WEB21_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo9wtz2Kw4Z4717r757VyMiuQPF1pvJxzMxy7bEd3ZVpvFz8OX9A", Radio 8FM Brabant
+http://server-33.stream-server.nl:8416/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiocaroline259.nl/images/happy%20caroline-259%20gold-225%20a.jpg", Radio Caroline 259 Gold
+http://radiocaroline259.nl/winamp_rc259_320.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiolimburgia.eu/favicon.ico", Radio Limburgia
+http://listen.radionomy.com/limburgia.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtvutrecht.nl/favicon.ico", Radio M Utrecht
+http://icecast.omroep.nl/rtvutrecht-radio-m-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioseagull.nl/favicon.ico", Radio Seagull
+http://radioseagull.net:8000/seagull.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiostaddenhaag.com//favicon.ico", Radio Stad Den Haag
+http://94.228.133.3:80
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioveronica.nl/ico/favicon.png", Radio Veronica
+http://provisioning.streamtheworld.com/pls/VERONICA.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionl.fm/wp-content/themes/radionl2/favicon.ico", RADIONL
+http://178.19.127.5:80
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://redlightradio.net/wp-content/themes/rl3/images/favicon.ico", Red Light Radio
+http://redlightradio.net/player/listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://redlightradio.net/wp-content/themes/rl3/images/og_share_desktop.jpg", Redlight Radio
+http://www.michielgardner.nl:8000/redlightradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.reformatorischeomroep.nl/img/sociallogo.jpg", Reformatorische Omroep
+http://cdn15.streampartner.nl:1935/refomroep_bb/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.reindonk.nl/views/reindonk/images/favicon.ico", Reindonk
+http://icecast.streamone.nl/F2oUkL9AwwQ1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtvmaastricht.nl//files/5414/4059/9812/Windows_RTV.png", RTV Maastricht
+http://luister.maastrichtfm.nl:8088/;?icy=http
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio-00s.png", Sky Radio 00&#039;s Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR06.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio 80&#039;s Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR04.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio-90s.png", Sky Radio 90&#039;s Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR05.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio Christmas
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR08.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR01.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio Lounge
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR07.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl//favicon.ico", Sky Radio Lovesongs
+http://www.skyradio.nl/player/skyradio-lovesongs.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio Non-stop Adele
+http://8503.live.streamtheworld.com/SRGSTR28.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio.png", Sky Radio SummerHits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR02.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/favicon.ico", Skyradio NL
+http://8623.live.streamtheworld.com/SKYRADIOAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.slam.nl/uploads/2016/12/SLAM-live.png", SLAM!
+http://vip-icecast.538.lw.triple-it.nl/SLAMFM_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://en.slowradio.com/img/ico/slow.ico", Slow Radio
+http://streaming.radionomy.com/SlowRadioCom?lang=en-US%2cen%3bq%3d0.5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.soulshow.nl//wp-content/uploads/favicon.png", Soulshowradio
+http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqACcPB6EHVWY3wTkrlN2PGR9tript3iKodh941FU4JS5X6gKGIw", Studio040
+http://stream.studio040.nl:8000/studio040.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://sublimefm.nl/wp-content/uploads/2015/07/sublime.png", Sublime FM
+http://stream.sublimefm.nl/SublimeFM_aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.greatamericansongbook.info/favicon.ico", The Great American Songbook
+http://tgas.dyndns.org:8001/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.k-po.com/img/kbcradiobanner.png", The Mighty KBC 1602 AM &amp; 6095 SW
+http://stream02.audisi.nl/kbc-high
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/CBM_Logo.svg/600px-CBM_Logo.svg.png", The SID Station
+http://185.80.220.12:8054/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ujala.nl///templates/theme1776/favicon.ico", Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioveronica.nl/cdn/logo-radio-veronica-5403.jpg", Veronica 80s Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR12.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioveronica.nl/cdn/logo-radio-veronica-5403.jpg", Veronica Comdey Radio
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR19.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioveronica.nl/ico/favicon.ico", Veronica Rockradio
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR11.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioveronica.nl/cdn/logo-radio-veronica-5403.jpg", Veronica TOP1000 AllerTijden
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR10.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.waterstadfm.nl/waterstadfm_fb.jpg", waterstad fm
+http://178.19.127.7:80
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.engelsekoormuziek.nl//favicon.ico", Webradio Continu Klassiek
+http://94.212.152.89:1094/

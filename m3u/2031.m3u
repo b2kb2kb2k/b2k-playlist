@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dmc.tv//images/icons/favicon.ico", DMC TV
+http://dmc072.net:443
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://listenmetro.com/images/bg.png", Metro Radio 90.5 Khon Kaen
+http://radio4.thzhost.com:4114/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://phuketfmradio.com/wp-content/uploads/2015/12/favicon.png", Phuket Island Radio 91.5 &amp; 102.5
+http://148.251.4.92/pfmMP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ubradio.net/fbnew.gif", Underground Bangkok
+http://23.254.128.128:8300/stream

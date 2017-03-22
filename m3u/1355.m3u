@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://b96fm.com.ve/cw_site/1/images/logo.png", B96FM  Barquisimeto
+http://lortel58.lorini.net:63100/B96FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 103.3 Barquisimeto
+http://ur58.lorini.net:35000/LAMEGA1033FM

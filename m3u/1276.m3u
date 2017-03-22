@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static-media.streema.com/media/object-images/a49ed29de8b2bf11cfbad968638a8e49.png", 103.8 FM Brava Radio
+http://mra.rastream.com/mra_brava
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://1jazz.ru/favicon.ico", 1jazz.ru - Soul &amp; Funk
+http://s07.radio-tochka.com:6445/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s256603q.png", 24-7 Northern Soul Radio
+http://80.86.84.31:8026
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://674.fm/wp-content/uploads/favicon3.ico", 674FM
+http://audio.674.fm/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://jazzy.hu///templates/theme3004/favicon.ico", 90.9 Jazzy - Jazzy Soul
+http://94.199.183.186:8000/jazzy-soul.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://doublej.net.au/profiles/digx_profile/modules/custom/dj_metatag/assets/default.png", ABC Double J  (AAC)
+http://live-radio01.mediahubaustralia.com/DJDW/aac/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://doublej.net.au/profiles/digx_profile/modules/custom/dj_metatag/assets/default.png", ABC Double J (MP3)
+http://live-radio01.mediahubaustralia.com/DJDW/mp3/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://player.absoluteradio.co.uk/img/theme/a7/logo.png", Absolute Radio 70s
+http://icy-e-bab-06-cr.sharp-stream.com/absolute70s.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.amysfm.com/spiritofsoul/sos.jpg", AmysFM Spirit of Soul
+http://91.121.59.45:10073/amysfmspiritofsoul
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", AWesome MUSIC
+http://radio.awmusic.uk:8000/listen.pls?sid=1&amp;t=.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bayoublueradio.com/wp-content/uploads/2016/07/Bayou-Blue-RadioNew.jpg", Bayou Blue Radio
+http://w3bluesradio.com:8000/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://ichef.bbci.co.uk/images/ic/208x117/p03rq7ks.jpg", BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bestsmoothjazz.com/favicon.ico", Best Smooth Jazz [BSJ] BSJ.FM
+http://lucasbroadcast.com:8002
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://bluesfoxradio.blogspot.gr/favicon.ico", Blues Fox Radio
+http://50.22.219.97:6717
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.canal-jazz.fr/Files/Image/Logo.png", Canal Jazz
+http://radiart.eu:10024/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/533162_254378824654566_143163323_n.jpg?oh=3fdc8cd5403951da718aeae5a6df0f9b&amp;oe=5964DC68", Chroma Soul Funk
+http://chromaradio.com:8038
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dancegrooveradio.com/images/favicon.ico", DanceGroove Radio
+http://server3.digital-webstream.de:12160/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dancegrooveradio.com/images/favicon.ico", DanceGrooveRadio
+http://server3.digital-webstream.de:12160
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent.fbna1-2.fna.fbcdn.net/v/t1.0-0/s160x160/13256333_1633798406861576_1198613074068376442_n.png?oh=e4ec45f3bf6cf42de300e38989b5c0d7&amp;oe=59466AF7", Dandy Radio
+http://149.56.147.197:8588/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deluxemusic.tv/fileadmin/_processed_/csm_Radio_DeluxeMusicRadio_Web_dde576ebb7.png", Deluxe Music
+http://www.deluxemusic.tv/fileadmin/Webdata/downloads/Playlisten/DELUXE_MUSIC_RADIO.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deluxemusic.tv/fileadmin/_processed_/csm_Radio_DeluxeMusicRadio_Web_dbc9e1c586.png", Deluxe Radio
+http://www.deluxemusic.tv/fileadmin/Webdata/downloads/Playlisten/DELUXE_MUSIC_RADIO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://player.addradio.de/player/2368/assets/station-logo.png", egoFM Soul
+http://mp3ad.egofm.c.nmdn.net/ps-egofmsoul_192/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://flavormix.de/favicon.ico", FlavorMix
+http://213.238.33.199:8000/theflavormixHIGH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=300x10000:format=jpg/path/s81aeb41b5d4b42b3/image/i8baae88527580cb5/version/1474647999/image.jpg", Funkagroove Radio
+http://radio5.pro-fhi.net:9024/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Funkhaus_Europa_2008-alternativ.svg/200px-Funkhaus_Europa_2008-alternativ.svg.png", Funkhaus Europa - Soulfood (Loop)
+http://www.wdr.de/wdrlive/media/mp3/funkhaus-europa_soulfood.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent.fbna1-2.fna.fbcdn.net/v/t1.0-1/c48.0.320.320/p320x320/1525474_796211747060920_1004297723_n.png?oh=8834fe7cac2b25eedeaacabfe8f01602&amp;oe=59468EF5", Fusion Grooves Radio
+http://82.199.155.35:8060/fusiongrooves
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://generations.fr/icon-normal.png", Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://generations.fr/icon-normal.png", Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://groovera.com/favicon.ico", Groovera: soul nouveau??? [Cool neo-soul from around the globe]
+http://m.groovera.com/sn.ogg?c=7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hot1028.com///templates/hot-1028-radio/favicon.ico", Hot Radio 102.8 - Poole
+http://195.110.184.41:7002/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i-turnradio.nl/images/logo200.png", i-turn radio
+http://live.i-turnradio.nl:80/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/logojazzradio-76x90px.jpg", Jazz Radio
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_jazz-a-vienne.png", Jazz Radio Jazz ?? Vienne
+http://jzr-vienne.ice.infomaniak.ch/jzr-vienne.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_nouveautes-soul.png", Jazz Radio Nouveaut??s Soul
+http://jzr-wr19.ice.infomaniak.ch/jzr-wr19-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_soul.png", Jazz Radio Soul
+http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_soulfood.png", Jazz Radio Soul Food by DJ Philgood
+http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_stax-and-motown.png", Jazz Radio Stax and Motown
+http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_zen-attitude.png", Jazz Radio Zen Attitude
+http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kanefm.com/favicon.ico", Kane FM
+http://stream.kanefm.com:1037/;stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i1.wp.com/power88lv.com/wp-content/uploads/2015/12/power88logosmall.png?fit=224%2C224", KCEP 88.1 &quot;Power 88&quot; Las Vegas, NV
+http://ice7.securenetsystems.net/KCEP
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediad.publicbroadcasting.net/p/kufm/files/201503/favicon_fid.ico", KUFM 89.1 &quot;Montana Public Radio&quot; Missoula, MT
+http://17553.live.streamtheworld.com/KUFMFMAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300", laut.fm/super radio
+http://stream.laut.fm/super-radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mi-soul.com//wp-content/uploads/fbrfg/apple-touch-icon.png?v=rM3A4NxL2p", Mi-Soul
+http://50.7.71.219:7504/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.modradio.co.uk/favicon.ico", Mod Radio
+http://149.255.59.164/stream/modradio.pls?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.internet-radio.com/favicon.ico", Muzikamatrix
+http://37.59.28.208:8857/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/2e/f6/15387/c175.png", NDR Blue
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobremen.de/nordwestradio/nwrlogo108_v-mobil4x3x800.jpg", nordwestradio - Radio Bremen
+http://httpmedia.radiobremen.de/nordwestradio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/93/4b/2222/c175.png", NPO Radio 6 Soul &amp; Jazz
+http://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://oldskoolsessions.com/wp-content/uploads/2016/11/OSS_logo4-1.png", Old Skool Sessions
+http://oldskool.space:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - Soul Cafe
+http://gr-relay-16.gaduradio.pl/18
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ouifm.fr/favicon.ico", O??I FM
+http://stream.ouifm.fr/ouifm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://patchbayradio.com/wp-content/uploads/2016/11/cropped-NewPatchbayLogoConcepttowerweb6-copy-270x270.jpg", Patchbay Radio
+https://albireo.shoutca.st/tunein/blaspena.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio3dfm.com/wp-content/uploads/2013/12/DECLINAISON-LOGO-3DFM3-120px.png", Radio 3DFM
+http://radio3dfm.ice.infomaniak.ch/radio3dfm-low.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio3dfm.com/wp-content/uploads/2013/12/DECLINAISON-LOGO-3DFM3-120px.png", Radio 3DFM
+http://radio3dfm.ice.infomaniak.ch/radio3dfm-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=205x10000:format=jpg/path/s914591386e2ac030/image/iae51bed64278b408/version/1485597522/image.jpg", Radio Contact Italy
+http://37.187.79.93:8268/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ffn.de/fileadmin/seiten/musik/webradio/logo_peppermint.gif", Radio FFN Peppermint
+http://player.ffn.de/peppermint.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiogold.de/templates/radio_gold/images/logo.png", Radio GOLD Berlin real classics
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2gold/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nulca.notigo.si/wp-content/uploads/2016/06/R0-logo-01.png", Radio Nula 2
+http://streaming.radionula.com:8800/channel2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nulca.notigo.si/wp-content/uploads/2016/06/R0-logo-01.png", Radio Nula Classics
+http://streaming.radionula.com:8800/classics
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://redlightradio.net/wp-content/themes/rl3/images/favicon.ico", Red Light Radio
+http://redlightradio.net/player/listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.retrosoulradio.co.uk/wp-content/themes/RetroSoulRadio/assets/img/favicon.ico", Retro Soul Radio
+http://46.28.49.164:7504/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://stream.glueck-media.com/player/smart/images/smart2-small.jpg", Smart Radio
+http://stream.glueckserver.de:8000/smartradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://somafm.com/img3/fluid-400.jpg", SomaFM Fluid
+https://somafm.com/fluid.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://api.somafm.com/img/7soul120.png", SomaFM Seven Inch Soul (7 Inch Soul)
+http://somafm.com/7soul.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s132626q.png", Soul Groove Radio
+http://64.71.79.181:5058/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Soulallnighter
+http://stream.laut.fm:80/soulallnighter
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/1cdeb2_9de84db431974315b468ee6c45b81334.png", Soulconnexion Radio
+http://199.180.75.74/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.soulfulbits.com/favicon.ico", Soulful Bits radio
+http://195.154.104.70/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.swissgroove.ch/wp/wp-content/uploads/2014/04/swissgroove_logo_retina.png", SwissGroove
+http://184.154.202.243:8053/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://thisisthecat.com/wp-content/cache/thumbnails/2016/06/cropped-300cat-e1443470212215-270x270.png", The Cat
+http://5.63.151.52:8066/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/be2786_c8805d95b2454642aa4dde7ad1622722%7Emv2_d_3897_3345_s_4_2.jpg", The Plug 106.9 Auckland
+http://s6.voscast.com:8768
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.radioplayer.de/stationimages/127_primary_image.png", the wave - relaxing radio
+http://stream.thewaveradio.de/wave-live/mp3-128/radio-browser.info/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tongueandgrooveradio.com/TGR%20Logo.jpg", Tongue &amp; Groove Radio
+http://a10.streamgb.com:2199/tunein/tongue.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.u-fm.it/wp-content/uploads/2016/01/Senza-titolo-2-e1452686339804.png", u-fm radio
+http://94.23.66.114:8009/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.radionomy.com/radio/110/C8B801D3-218B-4B18-9F19-6B2806D2C370.png", usty station
+http://listen.radionomy.com/ustystation
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://wfmu.org/favicon.ico", WFMU East Orange, NJ  &quot;Ichiban Rock and Soul&quot; stream
+http://stream0.wfmu.org/ichiban
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=http:%2F%2Fwww.wmnf.org%2Fwp-content%2Fthemes%2Fbsd-theme%2Fwmnf%2Fassets%2Fwmnf_podcast_icon.jpg&amp;sp=145cc0acabba0a883da6b321245e3c16", WMNF-HD4 &quot;Soul School&quot; Tampa, FL
+http://stream.wmnf.org:8000/wmnf_hd4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", ZET Soul
+http://zetsou-01.cdn.eurozet.pl:8458/

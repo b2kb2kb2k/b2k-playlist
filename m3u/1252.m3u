@@ -1,0 +1,95 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://163.178.101.227//templates/radiosucr/imagenes/ucr-favicon.png", 870 UCR
+http://i50.letio.com/8124.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png", ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://addictedtoradio.com/wp-content/uploads/2015/12/cropped-atr-logo-500x500-ATR-Logo1-192x192.jpg", AddictedToRadio Salsa
+http://wms-13.streamsrus.com:17310/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://elandamio.net/wp-content/uploads/2016/09/cropped-cropped-caad7471-a1c2-4b27-98d7-5f58824c1b31-1-270x270.jpg", Andamio Music
+http://listen.radionomy.com/elandamiodeenfrente
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.barranquillaestereo.com/webbe/file/icono.ico", Barranquilla Estereo
+http://radio.yaservers.com:8197/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i3.radionomy.com/radios/400/623d7fdf-0d9a-4f7f-8e8a-81b97983efdc.png", Bossa Nova Breakfast
+http://streaming.radionomy.com/BossaNovaBreakfast?lang=fi_FI%2cfi%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3&amp;ad=radionoweb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.candelaestereo.com/favicon.ico", Candela Estereo
+http://playerservices.streamtheworld.com/pls/CANDELAESTEREO.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://colombiacrossoveradio.blogspot.de/favicon.ico", Colombia Crossover
+http://streaming.radionomy.com/colombiacrossover
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.emisoradelsur.com.uy/innovaportal/file/14450/1/logo-emisoradelsur.png", Emisora del Sur
+http://radio.sodreuruguay.com:9160/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_LATINO.png", Energy Latino
+http://cdn.nrjaudio.fm/adwz1/de/33069/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line Latin Radio
+http://mediaserv33.live-streams.nl:8034
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/13315690_1020140861367937_3241162162154583930_n.png.jpg?oh=d115580500a3ecd74b0a090a41b8886c&amp;oe=59626844", Hi On Line World Radio
+http://mediaserv38.live-streams.nl:8027/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_latin-jazz.png", Jazz Radio Latin Jazz
+http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediad.publicbroadcasting.net/p/idaho/files/201201/radio-bilingue-program-images.gif.png", KBSX-HD3 &quot;Boise State Public Radio Radio Bilingue Stream&quot; Boise, ID
+http://66.193.105.16:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latinalt.org/themes/kcsn/images/KCSN_LatinAlt_Logo_1500x589.png", KCSN-HD2 &quot;The Latin Alternative&quot; Stream - Northridge, CA
+http://130.166.82.14:8002/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.laboing.com.ar/img/logo_boing.png", La Boing FM 97.3 - Rosario
+http://200.58.106.247:8626/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 100.9 Puerto la Cruz
+http://ur58.lorini.net:10000/LAMEGA1009FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 103.3 Barquisimeto
+http://ur58.lorini.net:35000/LAMEGA1033FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 91.1 Merida
+http://ur58.lorini.net:50012/LAMEGA911FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 99.7 Maracaibo
+http://ur58.lorini.net:30000/LAMEGA997FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina
+http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina @Work
+http://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina Fiesta
+http://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina Kizomba
+http://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina Love
+http://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina Reggaeton
+http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.latina.fr/favicon.ico", Latina Salsa
+http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.m2radio.fr/favicon.ico", M2 Caliente
+http://www.m2radio.fr/pls/m2caliente_winamp.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.funx.nl/templates/funx/img/funx_logo.png", NPO FunX Latin
+http://icecast.omroep.nl:80/funx-latinfb-bb-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.npr.org/favicon.ico", NPR Stream 3 &quot;Alt Latino&quot;
+http://nprdmp-stream03.akacast.akamaistream.net/7/939/364920/v1/npr.akacast.akamaistream.net/nprdmp_stream03
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - Latino
+http://gr-relay-16.gaduradio.pl/19
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11079q.png", Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://hamwaves.com/streams/images/gladyspalmera.png", Radio Gladys Palmera Colleción
+http://54.247.76.135:8000/ch03
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mixticius.net/wp-content/uploads/2016/09/cropped-icono-mixticius-1-32x32.png", Radio Mixticius
+http://streaming.radio.co/s315d9de0d/listen
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83746q.png", Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/R.-Corval.jpg", RC Alentejo
+http://centova.radios.pt:8561/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rmfon.pl/i/logos/100x100/cuba.png", RMF Cuba
+http://195.150.20.5/CUBA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.leyresorte.gob.ve/wp-content/uploads/2015/05/LOGO-ACTIVA-ANIVERSARIO-300x225.png", RNV Activa
+http://rnv.lorini.net:29010/RNVACTIVA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/media/CgBb_bNXEAAonh2.jpg", RNV Clásica
+http://rnv.lorini.net:29020/RNVCLASICA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://4.bp.blogspot.com/-gmMBOEt_dbw/Voxx44NgxnI/AAAAAAAAAWo/bCKMfw6sv_U/s320/lathos%2Bbar.jpg", Smooth Lathos Cafe
+http://5.133.182.164:33570/;?icy=http
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tangology101.com/images/tango_evolution_radio.jpg", Tangology 101
+http://listen.radionomy.com/tangology101
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.toplatino.net/wp-content/woo_uploads/9-favicon.ico", Top Latino
+http://online.radiodifusion.net:8020/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.radionomy.com/radio/110/C8B801D3-218B-4B18-9F19-6B2806D2C370.png", usty station
+http://listen.radionomy.com/ustystation
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.radionomy.com/radio/110/C8B801D3-218B-4B18-9F19-6B2806D2C370.png", usty station
+http://listen.radionomy.com/ustystation
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2isblg909whrf.cloudfront.net/themes/wkkb/logo2.png", WKKB-FM &quot;Latina 100.3&quot; Middletown, RI
+http://crystalout.surfernetwork.com:8001/WKKB-FM_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lprri.org/inicio//favicon.ico", WRNI 1290 &quot;Latino Public Radio&quot; Providence, RI
+http://50.7.129.122:8325/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://stream.wvubhd.com/hd3.gif", WVUB-HD3 &quot;Blazer Bilingue&quot; Vincennes University, IN
+http://wvubstream.vinu.edu:8000/wvubhd3.mp3

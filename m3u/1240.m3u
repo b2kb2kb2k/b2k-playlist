@@ -1,0 +1,35 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/a284e5c7489c3576fe2aa5f7326e923f?t=_640x640", beatdownx
+http://stream.laut.fm/beatdownx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/8e76f78e60e100aef030b7f01d8f4e9e?t=_640x640", core-mix
+http://stream.laut.fm/core-mix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.coretime.fm/favicon.ico", CoreTime.FM
+http://listen.coretime.fm/dsl.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.happyhardcore.com/favicon.ico", HappyHardcore.com Radio
+http://streaming.happyhardcore.com/HappyHardcorecom
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hardbase.fm/favicon.ico", HardBase.FM
+http://listen.hardbase.fm/dsl.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i3.radionomy.com/radios/400/b9319af4-10c6-43f9-8e71-c56d03e23f2f.jpg", Hardcore Radio
+http://stream1.hardcoreradio.nl/hcr
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://hardlovers.mlc.fm/favicon.ico", Hardlovers
+http://tunein.mlc.fm/hardlovers.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.ido.bi/assets/albums/small/default.jpg", idobi Howl
+http://idobihowl.idobi.com/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kraftyradio.com//favicon.ico", KraftyRadio
+http://www.kraftyradio.com/radio.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.letsgozik.org//favicon.ico", Let&#039;s Go Zik
+http://stream.letsgozik.org:8000/letsgozik
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ouifm.fr/favicon.ico", OÜI FM Alternatif
+http://alternatif.stream.ouifm.fr/ouifm2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://punksender.de/favicon.ico", Punksender
+http://83.125.45.214:8000/punk
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiou.com/wp-content/uploads/2014/03/favicon.ico", RadioU Battery
+http://149.56.185.83:8170/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", RauteMusik Happy Hardcore
+http://happyhardcore-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.radiorecord.ru/favicon.ico", Record Hardstyle
+http://air.radiorecord.ru:8102/teo_320
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.techno4ever.fm/favicon.ico", TECHNO4EVER HARD
+http://tunein.t4e.dj/hard/dsl/aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.techno4ever.fm/favicon.ico", TECHNO4EVER MAIN
+http://tunein.t4e.dj/main/dsl/aac

@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://afkmax.de/wp-content/themes/afk_max/favicon.png", afk max
+http://stream.afkmax.de/afkmax-hq.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.avanzadametallica.net/favicon.ico", Avanzada Metallica
+http://199.195.194.140:8112/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/a284e5c7489c3576fe2aa5f7326e923f?t=_640x640", beatdownx
+http://stream.laut.fm/beatdownx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.blmetalradio.com/images/blfav.ico", Black Label Extreme Metal Radio
+http://108.61.20.171:20406/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", blackmagicdwarf
+http://laut.fm/blackmagicdwarf
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://coreradio.ru/files/favicon.ico", CORE Radio!
+http://194.58.97.117:8000/coreradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/8e76f78e60e100aef030b7f01d8f4e9e?t=_640x640", core-mix
+http://stream.laut.fm/core-mix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://crucialvelocity.ca/_Media/crucialvelocitylogo-2.jpeg", Crucial Velocity Radio - Stratford, ON
+http://hestia2.cdnstream.com/1369_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://darkradio.de/templates/img/header.jpg", Darkradio
+http://5.135.179.205:9955
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://djcrazyjimmy.com/wp-content/uploads/2016/05/cropped-dj_crazy_jimmy_large-1-1.png", DJ Crazy Jimmy - Metal
+http://djcrazyjimmy.com:8018/autodj
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i.imgur.com/OQZn4bk.png", Downtuned Radio
+http://109.123.114.74:8074
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_METAL.png?321", Energy Metal
+http://cdn.nrjaudio.fm/adwz1/de/33043/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/184908_147748278618299_1745217_n.jpg?oh=f3bbc00061b71642538d1906bdcc1333&amp;oe=5925C880", Epic Rock Radio
+http://streaming.radionomy.com/EpicRockRadio?lang=en-US%2cen%3bq%3d0.8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300", Fantasyradio (laut.fm)
+http://stream.laut.fm/fantasyradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.fuelradio.fm/favicon.ico", Fuel Radio - Hard Christian Music Radio
+http://fuelradio.serverhostingcenter.com:7859/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/e49d38_21857a72fe3d4906afd648b1f08142d3.png", Goth&#039;N&#039;Metal
+http://listen.radionomy.com/goth-n-metal
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://grubradio.com/wp-content/uploads/2015/02/favicon.png", Grub Radio
+http://knight.wavestreamer.com:7315
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://2014.gruftiradio.de/GRLogo.png", Gruftiradio
+http://www.digital-webstream.de/stream/12790.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/favicon.ico", Hang 10 Rock Radio - Tofino, BC
+http://158.69.227.214:8113/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/90/27592/1/c175.png", Hard &amp; Heavy Metal Hits Radio
+http://streaming.radionomy.com/Hard-HeavyMetalHits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hardradio.com/favicon.ico", HardRadio [AAC+]
+http://www.hardradio.com/streaming/aac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hardradio.com/favicon.ico", HardRadio [MP3]
+http://www.hardradio.com/streaming/hardmp3.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hazzardofdarkness.net/wp-content/uploads/2015/10/HoD_Logo_1-176x176.jpg", Hazzard of Darkness
+http://player.hazzardofdarkness.net/listen192.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.obozrevatel.com/img/logo/myradio_oboz-3.png", Heavy Metal, Radio Obozrevatel
+http://relay.myradio.ua/heavymetal192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.ido.bi/assets/albums/small/default.jpg", idobi Howl
+http://idobihowl.idobi.com/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kerrangradio.co.uk//site-specific/style/station/images/apple-touch-icon-57x57.png", Kerrang! Radio
+http://tx.whatson.com/http_live_bauer.php?i=kerranglow.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://mcluhan.unk.edu/klpr/images/klprbanner.png", KLPR 91.1 University of Nebraska at Kearney
+https://mcluhan.unk.edu/klpr/klpr.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lagrosseradio.com/favicon.ico", La Grosse Radio??M??tal
+http://hd.lagrosseradio.info:8200/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mariskalrock.com/wp-content/themes/mariskalrock/img/icons/favicon.ico", Mariskalrock
+http://radioserver9.profesionalhosting.com:8216/;stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://melodicradio.eu/favicon.ico", Melodic Radio
+http://melodicradio.eu/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png", Mercy R??di?? - Rock Magyar R??di??
+http://stream.mercyradio.eu/rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/661471_afab0b1c26584bd086dfac69156cbca7.jpg", metal arena
+https://streaming.radionomy.com/METAL-ARENA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12235063_975971672460689_24037606442997401_n.jpg?oh=9b4cba52d8c7a02343a865ebd7624825&amp;oe=596DFDA3", Metal Only
+http://metal-only.blitz-stream.de/listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.wixstatic.com/media/e49d38_8b92c9c6fbd44a18a3cd8d5219c75893.png/v1/fill/w_16%2Ch_16%2Clg_1/e49d38_8b92c9c6fbd44a18a3cd8d5219c75893.png", Metal Power
+http://listen.radionomy.com/metalpower.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/metalzone.png", Metal Zone
+http://144.76.92.208:8282
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - 100% Metallica
+http://gr-relay-16.gaduradio.pl/62
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - 500 Heavy Hits
+http://gr-relay-16.gaduradio.pl/54
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - Ciezkie Brzmienia
+http://gr-relay-16.gaduradio.pl/13
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ouifm.fr/favicon.ico", O??I FM Alternatif
+http://alternatif.stream.ouifm.fr/ouifm2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p6.no/_site/assets/p6.no/logo.png", P6 Rock
+http://stream.p4.no/p6_aac_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pinguinradio.com/wp-content/uploads/Aardschok-Radio-Covert-Art.jpg", Pinguin Aardschok
+http://as192.pinguinradio.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mm.aiircdn.com/5/348260.png", Planet Rock
+http://tx.whatson.com/http_live_bauer.php?i=planetrock.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.powermetal.cl/wordpress/wp-content/themes/powermetal/images/header_bg.jpg", Powermetal.cl
+http://listen.radionomy.com/powermetalcl.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.pure-metal.de/Themes/default/images/smflogo.png", Pure-Metal Radio
+http://91.250.102.222:29000/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio24.ch/images/logo.png", Radio 24 Rock
+http://icecast.radio24.ch/radio24rock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobeat.cz//favicon.ico", Radio Beat
+http://icecast2.play.cz/radiobeat128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/46301_10151136901223649_2110866272_n.jpg?oh=966e59968672649f77105661ea1fd459&amp;oe=592D7559", Radio BOB!
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayerbob
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-hartesaite/600x600_Harte-Saite.png", RADIO BOB! BOBs Harte Saite
+http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-metal/600x600_Metal.png", RADIO BOB! BOBs Metal
+http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-dextera.de/images/logo5.jpg", Radio Dextera
+http://109.230.229.141:10850/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiometal.com/wp-content/themes/RadioMetalDesign/images/favicon.ico", Radio Metal
+http://stream.radiometal.com:8010
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiorevolta.pl//favicon.ico", Radio Revolta
+http://s1.slotex.pl:7080
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-1/p200x200/15894338_1247156595339446_2029064199149753667_n.jpg?oh=0c370187ba8b7900d08a331ed98b9c6b&amp;oe=5920E355", R??di?? Rock 95.8
+http://92.61.114.191:13150/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.todamax.net/apple-touch-icon-180x180.png", Radio todamax
+http://stream.laut.fm/todamax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-paranoid.net/favicon.ico", Radio-Paranoid
+http://www.radio-paranoid.net/onair/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionica.rocks/favicon.ico", Radionica
+http://shoutcast.rtvc.gov.co:8010/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiou.com/wp-content/uploads/2014/03/favicon.ico", RadioU Battery
+http://149.56.185.83:8170/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", RauteMusik Wacken Radio
+http://wackenradio-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.reignradio.com/favicon.ico", Reign Radio
+http://sc1.reignradio.net:7030/;?cb=917365.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.reignradio.com/favicon.ico", Reign Radio
+http://sc1.reignradio.net:8068/;?cb=919938.m4a
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rmfon.pl/i/logos/100x100/hardheavy.png", RMF Hard &amp; Heavy
+http://195.150.20.8:8000/rmf_hard_heavy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.antenne.de/thumbs/2016/08/heavymetal-579f896540c9c.f937f3a5.png", ROCK ANTENNE Heavy Metal
+http://www.rockantenne.de/webradio/channels/heavy-metal.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.antenne.de/thumbs/2016/08/heavymetal-579f896540c9c.f937f3a5.png", ROCK ANTENNE Heavy-Metal
+http://www.rockantenne.de/webradio/channels/heavy-metal.aac.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/schwarzeszene/user_640x640.jpg", Schwarze Szene
+http://stream.laut.fm/schwarzeszene
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.schwarze-welle.de/favicon.ico", Schwarze Welle
+http://www.schwarze-welle.de/play.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://somafm.com/img3/metal-400.png", SomaFM Metal Detector
+http://somafm.com/metal.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotangra.com/img/logo_tangra.png", Tangra
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.thetaint.ca//favicon.ico", The Taint
+http://s1.nexuscast.com/tunein.php/jasonroy/playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/up_the_irons/user_640x640.jpg", up_the_irons
+http://laut.fm/up_the_irons
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://wber.monroe.edu/site/html/themes/BEST/images/logo.jpg", WBER 90.5 Rochester, NY  128kbps MP3
+http://wber.monroe.edu/wber-high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh4.googleusercontent.com/BHuhiNVX5rOMx2Gx2aryaBojpx-CBB_WR1Bq1RdT2ybGEkz2K-RsNF-4TdpXv0jsDJc_kQdgVnLj1vb2LgUn-CDTv-zUhTdRE7FN8mHrBniV_OLRqNcSv2vQLcVw3DWZrbentjnFKPg", WRFL 88.1 University of Kentucky - Lexington, KY
+http://128.163.166.201:9000/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.predavatel.com/bg/1/zrock/zrock1.gif", Z-Rock
+http://46.10.150.243/z-rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://zwischen-welten.info/favicon.ico", Zwischen-Welten
+http://zwischen-welten.info/play/zwischen-welten_128kbps.m3u

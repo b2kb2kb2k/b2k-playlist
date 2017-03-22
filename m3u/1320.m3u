@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.asiafm.com.tw/favicon.ico", AsiaFM (亞洲電台)
+http://asiafm.rastream.com/asiafm-fly
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/12790990_10154621971329867_7818258506581110652_n.png?oh=e148e3cc71e1beed7a77c5f0572ffacd&amp;oe=58ECD4C0", Yes 933
+http://mediacorp-web.rastream.com/933fm

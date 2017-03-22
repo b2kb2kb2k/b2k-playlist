@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mymuskokanow.com/wp-content/themes/presso-child/vista/_img/station/CFBK.png", CFBK 105.5 &quot;Moose FM&quot; Huntsville, ON
+http://s1.hotdogradio.com/CFBK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mycomoxvalleynow.com/wp-content/themes/presso-child/vista/_img/station/CFCP.png", CFCP &quot;98.9 The Goat&quot; Courtenay, BC
+http://s1.hotdogradio.com/CFCP
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mycariboonow.com/wp-content/themes/presso-child/vista/_img/station/CFFM.png", CFFM 94.9 &quot;The Goat&quot; Williams Lake, BC
+http://s1.hotdogradio.com/CFFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.977rock.ca/wp-content/uploads/sites/38/2016/08/cropped-977_ROCK_logo-270x270.png", CFGP &quot;97.7 Rock&quot; Grande Prairie, AB
+http://gra977.akacast.akamaistream.net/7/720/80913/v1/rogers.akacast.akamaistream.net/gra977
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rock95.com/wp-content/themes/child-rock95/images/touch/apple-touch-icon.png", CFJB 95.7 &quot;Rock 95&quot; Barrie, ON
+http://cfjb.streamon.fm:8000/CFJB-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.socastsrm.com/uploads/station/31/fbShare.png?r=7113", CFPL-FM 95.9 &quot;FM96&quot; London, ON
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/288/home_screen_logo-56afbf945fdd5.jpg", CFWF 104.9 &quot;The Wolf&quot; Regina, SK
+http://cfwf.streamon.fm/stream/CFWF-64k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.therig.ca/assets/img/ms-touch-icon-144x144-precomposed.png", CFXW 96.7 &quot;The Rig&quot; Whitecourt, AB
+http://newcap.leanstream.co/CFXWFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://thedrivefm.ca/wp-content/uploads/sites/2/2015/11/logo.png", CHDR 102.9 &quot;The Drive&quot; Cranbrook, BC
+http://chdr.streamon.fm/stream/CHDR-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.abitibi.capitalerock.ca/img/logo_capitalerock.jpg", CHGO 104.3 &quot;Capitale Rock&quot;  Val-d&#039;or, QC
+http://icecast-chgo.rncm.ca/chgo.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.choefm.com/wp-content/themes/public/images/facebookchoe.png", CHOE 95.3  Matane, QC
+http://158.69.152.24/ecoute.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/492/fbShare.jpg?r=17751", CHWF &quot;106.9 The Wolf&quot; Nanaimo, BC
+http://chwf.streamon.fm/stream/CHWF-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.98.3cifm.com/images/banners/CIFM-Listen-Now-2.jpg", CIFM 98.3 Kamloops, BC
+http://cifm.streamon.fm/stream/CIFM-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.krock893.com/assets/img/nologo.jpg", CIJK 89.3 &quot;K-Rock&quot; Kentville, NS
+http://newcap.leanstream.co/CIJKFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.krock1057.ca/wp-content/uploads/sites/21/2016/04/cropped-krock_Logo_514x514-270x270.png", CIKR 105.7 &quot;K-Rock&quot; Kingston, ON
+http://kin1057.akacast.akamaistream.net/7/918/80892/v1/rogers.akacast.akamaistream.net/kin1057
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.myprincegeorgenow.com/wp-content/themes/presso-child/vista/_img/station/CIRX.png", CIRX 94.3 &quot;The Goat&quot; Prince George, BC
+http://s1.hotdogradio.com/CIRX
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rock102rocks.com/sites/default/files/favicon.ico", CJDJ 102.1 &quot;Rock 102&quot; Saskatoon, SK
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK102.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.933therock.ca/sites/all/themes/therock/favicon.ico", CJHD 93.3 &quot;The Rock&quot; North Battleford, SK
+http://cjhd.streamon.fm/stream/CJHD-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/76/squareIcon.png?r=17812", CJKR 97.5 &quot;Power 97&quot; Winnipeg, MB
+http://live.leanstream.co/CJKRFM-MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.1067rock.ca/wp-content/uploads/sites/36/2016/05/cropped-106.7ROCK_tm_RGB-1-270x270.png", CJRX &quot;106.7 Rock&quot; Lethbridge, AB
+http://let1067.akacast.akamaistream.net/7/778/80904/v1/rogers.akacast.akamaistream.net/let1067
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mylloydminsternow.com/wp-content/themes/presso-child/vista/_img/station/CKLM@2x.png", CKLM &quot;106.1 The Goat&quot; Lloydminster, AB
+http://s1.hotdogradio.com/CKLM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.power104.fm/Pics/bg/cklz_main_logo.png", CKLZ 104.7 &quot;Power 104&quot; Kelowna, BC
+http://cklz.streamon.fm/stream/CKLZ-48k.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://kykradiox.com//assets/images/favicons/ms-icon-144x144.png", CKYK &quot;KYK Radio X 95.7&quot; Alma, QC
+http://icecast-ckyk.rncm.ca/ckyk.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.979rock.ca/wp-content/uploads/sites/37/2016/05/cropped-97.9ROCK_tm_RGB-270x270.png", CKYX &quot;97.9 Rock&quot; Fort McMurray, AB
+http://for979.akacast.akamaistream.net/7/550/80916/v1/rogers.akacast.akamaistream.net/for979
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/404/2014/12/15171003/cropped-KKBZ-Favicon-01-270x270.png", KKBZ &quot;The Blaze 105.1&quot; Fresno, CA
+http://provisioning.streamtheworld.com/pls/KKBZFMAAC.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2isblg909whrf.cloudfront.net/themes/wqlz-2/logo.png", WQLZ 97.7 Petersburg, IL
+http://crystalout.surfernetwork.com:8001/WQLZ-FM_MP3

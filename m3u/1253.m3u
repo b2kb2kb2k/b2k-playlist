@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antenne.de/assets/tpl/antenne-de/img/logo-antenne-bayern.png", Antenne Bayern - Lovesongs
+http://www.antenne.de/webradio/channels/lovesongs.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen Lovesongs
+http://stream.antenne.com/love/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.frekvence1.cz/favicon.ico", Frekvence 1 Romantika
+http://ice-01.lagardere.cz/web-f1-romantika
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://uradio.foroubuntu.es/images/e/ee/I_love_love.png", I love the love
+http://stream10.iloveradio.de/iloveradio10.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liferadio.at/fileadmin/templates/v2/images/player/streams/4.png", Life Radio - Love Life
+http://liferadio.stream.kapper.net:8003/lovelife
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.m2radio.fr/favicon.ico", M2 Love
+http://www.m2radio.fr/pls/m2love_winamp.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ondemand.nrj.be/Images/NRJ/Webradios/Love-2015.png", NRJ Belgique - Love
+http://love-mp3.nrj.be/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/a4/39/18041/c175.png", Passion Love Radio
+http://listen.radionomy.com/PassionLoveRadio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rct.unitbv.ro/images/logo%20rct%20-%20small%20.png", Radio Campus Transilvania
+http://193.254.231.102:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiocity.cz/favicon.ico", Radio City Zona Lasky
+http://kocka.limemedia.cz:8000/cityzl128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiosi.eu/fileadmin/ico/favicon.ico", Radio Si
+http://mp3.rtvslo.si/rsi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rmfon.pl/i/logos/100x100/love.png", RMF Love
+http://31.192.216.8/LOVE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl//favicon.ico", Sky Radio Lovesongs
+http://www.skyradio.nl/player/skyradio-lovesongs.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://en.slowradio.com/img/ico/slow.ico", Slow Radio
+http://streaming.radionomy.com/SlowRadioCom?lang=en-US%2cen%3bq%3d0.5

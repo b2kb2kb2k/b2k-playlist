@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/320.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/24.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioroks.ua/static/img/RadioROKS_logo_1200x630.png", Radio ROKS (Ukraine) - 128kb/s
+http://online-radioroks2.tavrmedia.ua/RadioROKS

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bosveldstereo.co.za/wp-content/uploads/2014/04/bosveld_stereo_logo_nuut1.png", Bosveld Stereo
+http://capeant.antfarm.co.za:8000/Bosveld
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDdpMUL75EOpV4ODKRNtegxKcdW7yB2EJAXgZvvMBUSRpZziIYNnbih3-a", RSG
+http://46.4.25.213:9032/

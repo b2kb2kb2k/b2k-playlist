@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2r87scxu22q8a.cloudfront.net/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png", Manx Radio AM
+http://tx.sharp-stream.com/http_live.php?i=manxradioam.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2r87scxu22q8a.cloudfront.net/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png", Manx Radio FM
+http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac

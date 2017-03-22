@@ -1,0 +1,97 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antenasatelor.ro/images/logo/AS.png", Antena satelor
+http://89.238.227.6:8042
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.profm.ro/onedb/picture:55645e5a95f9cf366f000001", Dance FM
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiodeea.ro//favicon.ico", DeeaRadio
+http://live.radiodeea.ro:8090/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.digi-fm.ro/assets/img/logo.png", DIGI FM
+http://edge76.rdsnet.ro:84/digifm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://engel.ro/images/logos.png", EngelRo
+http://stream.engel.ro:9876
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.europafm.ro/wp-content/themes/efm/images/logo.png", Europa FM
+http://www.europafm.ro/live.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.focusfm.ro/favicon.ico", Focus FM
+http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiogoldfm.ro/wp-content/uploads/2015/02/logo2.png", GoldFM
+http://80.86.106.110:8002/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://impactfm.ro/wp-content/themes/beaton/favicon.ico", Impact FM
+http://109.166.241.233:8500
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioimpactfm.ro/wp-content/uploads/2015/08/logo.png", Impact FM Piatra-Neamț
+http://86.127.62.139:9000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.ro/app/assets/images/logo.png", Kiss FM Ro
+http://80.86.106.143:9128/kissfm.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.magicfm.ro/media/emisiuni/article_inima.jpg", MagicFM
+http://www.magicfm.ro/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.profm.ro/onedb/picture:55645e7c95f9cf066f000010", Music FM
+http://edge126.rdsnet.ro:84/profm/music-fm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.napocafm.ro/wp-content/themes/bst/img/napocafm-logo.png", Napoca FM
+http://89.45.196.210/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nationalfm.ro//favicon.ico", NationalFM
+http://live2.nationalfm.ro:8001
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://blogulderadio.files.wordpress.com/2012/01/profm-3d1.png", ProFM
+http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.profm.ro/onedb/picture:55645e6795f9cf066f000009", ProFM Gold
+http://edge126.rdsnet.ro:84/profm/gold.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.profm.ro/onedb/picture:55645e6d95f9cf066f00000b", ProFM Love
+http://edge126.rdsnet.ro:84/profm/love.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.profm.ro/onedb/picture:55645e7795f9cf066f00000e", ProFM Soft Rock
+http://edge126.rdsnet.ro:84/profm/softrock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png", Radio Antena Braşovului
+http://streaming.radiomures.ro:8302/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobrasov.ro/img/radio_brasov.png", Radio Brasov
+http://82.77.45.227:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bucurestifm.ro/wp-content/uploads/sites/2/2014/04/favicon-regionale.png", Radio Bucuresti FM
+http://89.238.227.6:8032/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rct.unitbv.ro/images/logo%20rct%20-%20small%20.png", Radio Campus Transilvania
+http://193.254.231.102:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://marosvasarhelyi.info/wp-content/uploads/2010/10/GAGA4FREKV1.jpg", Rádió GaGa - Marosvásárhely
+http://rc.radiogaga.ro:8000/mp3-256.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://guerrillaradio.ro/images/logo.png", Radio Guerilla
+http://live.guerrillaradio.ro:8010/guerrilla.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomaria.ro/media/favicon.ico", Radio Maria
+http://cloudrad.io/radiomariaromania/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioprahova.ro/templates/mj-nustar/favicon.ico", Radio Prahova 99.2 Ploiesti
+http://193.238.59.94:8100/relay
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.romania-actualitati.ro/img/logo.png", Radio Romania Actualitati
+http://89.238.227.6:8004/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiocluj.ro/wp-content/uploads/sites/8/2014/08/logo-radio-romania-cluj.png", Radio România Cluj
+http://89.238.227.6:8384/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radioromaniacultural.ro/wp-content/uploads/2016/08/logo_radiocultural_dark.jpg", Radio România Cultural
+http://stream2.srr.ro:8012
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radioiasi.ro/wp-content/uploads/sites/6/2014/07/favicon-regionale.png", Radio România Iași
+http://89.238.227.6:8202/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.romania-muzical.ro//images/rrm-icon.png", Radio România Muzical
+http://stream2.srr.ro:8022/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiotimisoara.ro/wp-content/uploads/sites/3/2014/05/favicon.png", Radio Timișoara
+http://89.238.227.6:8354
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiotransilvania.com/radiot/wp-content/uploads/2015/12/rtFB.png", Radio Transilvania
+http://zeus.rtr.linuxship.ro:8000/bistrita.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://salveazaoinima.files.wordpress.com/2013/09/logo-rt.jpg", Radio Trinitas
+http://www.radiotrinitas.ro/radiotrinitas.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiozu.ro/favicon-96x96.png", Radio Zu
+http://stream.radiozu.ro:8020/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio3net.ro//favicon.ico", Radio3net
+http://media.3netmedia.ro:8000/Live128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioretro.ro/images/logo.png", Retro Radio 88.7
+http://streamhost110.gtk.hu:9410
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rfi.ro/sites/default/files/rfi-logo-16x16.png", RFI Romania (AAC)
+http://85.204.231.219:7100
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rfi.ro/sites/default/files/rfi-logo-16x16.png", RFI Romania (MP3)
+http://85.204.231.219:7300
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rockfm.ro/assets/layout/rock-logo.png", Rock fm
+http://80.86.106.143:9128/rockfm.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.romanticfm.ro//favicon.ico", RomanticFM
+http://live.romanticfm.ro:9123/romanticfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://sptfm.ro/favicon.ico", Sport Total FM
+http://85.204.59.131:8004/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.texfm.ro/images/tex_inac.jpg", Tex FM 105.5 Brasov
+http://www.texfm.ro:8000/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.vibefm.ro//icons/favicon.ico", Vibe FM
+http://astreaming.vibefm.ro:8000/vibefm_aacp48k
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://virginradio.ro/wp-content/uploads/2016/12/Logo-VIRGIN-RADIO-ROMANIA-fundal-alb.png", Virgin Radio Romania
+http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vivafmiasi.ro/wp-content/uploads/2016/05/Untitled.png", Viva FM Iasi
+http://live.vivafmiasi.ro:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.voxfm.ro/images/voxlogo-x-233.png", Vox FM - Székelykeresztúr
+http://stream.voxfm.ro:8000/listen.pls

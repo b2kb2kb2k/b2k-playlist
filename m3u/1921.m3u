@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://burkina24.com/favicon.ico", Burkina24
+http://majestic.wavestreamer.com:9748/Live?type=.mp3

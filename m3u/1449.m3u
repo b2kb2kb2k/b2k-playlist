@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.djfm.ua/favicon.ico", DJFM (Ukraine) - 128kb/s
+http://media.brg.ua:8010/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/320.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/24.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hitfm.ua/static/img/HitFM_1200x630.png", Hit FM (UKraine) - 128kb/s
+http://195.95.206.17/HitFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.ua//static/img/icon_kiss.ico", Kiss FM (Ukraine) - 128kb/s
+http://www.kissfm.ua/KissFM.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s0.wp.com/i/blank.jpg", MFM STATION
+http://radio.mfm.ua/online128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mrpl.city/favicon.ico", MRPL.CITY - Mariupol News Service (Ukraine) - 128kb/s
+http://31.202.208.204:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://prosto.fm/favicon.ico", Prosto Radio 128 Odessa
+http://62.80.190.246:8000/ProstoRadiO128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://prosto.fm/favicon.ico", Prosto Rock
+http://62.80.190.246:8000/PRock128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomelodia.com.ua/static/img//Melodiya_favicon.jpg", Radio Melodiya (Ukraine) - 128kb/s
+http://www.radiomelodia.com.ua/RadioMelodia.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiorelax.ua//favicon.ico", Radio Relax (Ukraine) - 128kb/s
+http://online-radiorelax.tavrmedia.ua/RadioRelax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://jazzfm.com.ua/templates/skin/vintage/images/favicon.ico", Radio Renaissance (Ukraine) - 128kb/s
+http://media.brg.ua/m3u/renessans128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioroks.ua/static/img/RadioROKS_logo_1200x630.png", Radio ROKS (Ukraine) - 128kb/s
+http://online-radioroks2.tavrmedia.ua/RadioROKS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.shanson.ua//templates/images/favicon.ico", Radio Shanson (Ukraine) - 128kb/s
+http://media.brg.ua/m3u/shanson128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro - Dance (Ukraine) - 128kb/s
+http://cast2.retro.ua/retro_dance
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro - Russian Collection (Ukraine) - 128kb/s
+http://cast2.retro.ua/retro_russian
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro FM (Ukraine) - 128kb/s
+http://cast.retro.ua/retro
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rusradio.com.ua/favicon.ico", Russkoye Radio
+http://www.rusradio.com.ua/RusRadio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Sharmanka (Ukraine) - 128kb/s
+http://media.brg.ua/m3u/sharmanka128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://hromadskeradio.org/sites/all/themes/karelia/favicon.png", ???????????????????? ?????????? / Hromadske radio
+http://91.218.212.67:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/media/favicon.ico?v=?v=2.004", ????????????.FM Club
+https://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/media/favicon.ico?v=?v=2.004", ????????????.FM Disco
+https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/media/favicon.ico?v=?v=2.004", ????????????.FM NewRock
+https://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/favicon.ico", ????????????.FM Pop (Zayzev FM)
+https://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/media/favicon.ico?v=?v=2.004", ????????????.FM RnB
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.zaycev.fm/media/favicon.ico?v=?v=2.004", ????????????.FM ????????????
+https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3

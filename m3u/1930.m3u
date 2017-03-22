@@ -1,0 +1,41 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.1047hit.com/favicon.ico", 1047hit
+http://s8.voscast.com:7528/;stream1483728563212/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://163.178.101.227//templates/radiosucr/imagenes/ucr-favicon.png", 870 UCR
+http://i50.letio.com/8124.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.88stereo.com/wp-content/uploads/2015/04/favicon-32x32.png", 88 Stereo [Pérez Zeledón Region]
+http://www.radiosonoracr.com/flashplayer-88STEREO/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.955jazz.com/images/logo.png", 95.Cinco Jazz  95.5 San Jose
+http://radios506.luxwer.net:18401/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://columbiaestereo.com/web//favicon.ico", Columbia Estereo 92.7 San Jose
+http://radio29.luxwer.net:8569/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fedbakradio.com/templates/gk_john_s/images/touch-device.png", Fedbak Radio
+http://91.121.165.88:8020/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ondabravaradio.com/wp-content/themes/ondabravaradio/img/logo.png", Onda Brava 104.1
+http://167.114.210.232:8221/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio16.com/wp-content/themes/revolution_city-10/favicon.ico", Radio 16 [Grecia - Alajuela Region] [Not always online - daytime only]
+http://216.75.41.16:8016/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.colosalstereo.com//favicon.ico", Radio Colosal FM [Ciudad Neily Region]
+http://www.radioshd.net/radios/colosal/radio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.columbia.co.cr/templates/gk_news2/images/favicon.ico", Radio Columbia 98.7 &amp; 760 San Jose
+http://radio29.itouchradio.net:8561/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiofides.co.cr/templates/radiofides/favicon.ico", Radio Fides
+http://stream.rarserver.net:8046/radiofides
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiolira.org/favicon.ico", Radio Lira
+http://163.172.16.45:9962/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomalpais.com/temp/logoradiomalpais.gif", Radio Malpaís
+http://www.radiomalpais.com/temp/radiomalpais.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://sinart.go.cr/templates/gk_league_news/images/touch-device.png", Radio Nacional
+http://stream01.cyberfuel.com:8045/file.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiosantaclara.org/media/local_themes/tema_local/images/css/santaclara/logo.png", Radio Santa Clara [Not always online - daytime only]
+http://stream.codigosur.org:8000/radiostaclara.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Radio U
+http://i60.letio.com/8126.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radios.ucr.ac.cr//templates/radiosucr/imagenes/ucr-favicon.ico", Radio Universidad
+http://i60.letio.com/8120.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiovictoria.co.cr/templates/newnew/favicon.ico", Radio Victoria [Not always online - daytime only]
+http://streams.y2kwebs.com:9302
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiodos.com/templates/gk_rockwall/images/favicon.ico", Radiodos
+http://radio29.itouchradio.net:8567/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://waofm.com/wp-content/uploads/2015/04/Logo.png", Wao FM 92.3 San Jose
+http://radios506.luxwer.net:6573/;stream/1

@@ -1,0 +1,53 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.telenavegante.net/pictsrcr929/logo-929.jpg", 92.9 TU FM
+http://lortel58.lorini.net:1062/929FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://unionradio.net/wp-content/themes/UnionRadio-R1-2015/favicon.ico?x19974", Actualidad 90.3
+http://ur58.lorini.net:2080/ACTUALIDAD.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://albaciudad.org/wp-content/albaciudad-muro.jpg", Alba Ciudad
+http://envivo.albaciudad.org:8000/alba16.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://b96fm.com.ve/cw_site/1/images/logo.png", B96FM  Barquisimeto
+http://lortel58.lorini.net:63100/B96FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ciclonfm.com.ve/wp-content/uploads/2017/01/cropped-ciclon-peq-1.png", Ciclon FM 105.5
+http://streaming3.globalhost.net.ve:9178/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.cnb.com.ve/953/LogoPagina.png", Cnb Éxitos
+http://lortel58.lorini.net:41012/CNB953FM?type=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 100.9 Puerto la Cruz
+http://ur58.lorini.net:10000/LAMEGA1009FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 103.3 Barquisimeto
+http://ur58.lorini.net:35000/LAMEGA1033FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 107.3 Caracas
+http://ur58.lorini.net:11073/megaccs.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 88.9 Puerto Ordaz
+http://ur58.lorini.net:20000/LAMEGA889FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 91.1 Merida
+http://ur58.lorini.net:50012/LAMEGA911FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 96.5 Maracay
+http://ur58.lorini.net:25010/LAMEGA965
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lamegaestacion.com/wp-content/themes/LaMegaR2-2016/favicon.ico", La Mega 99.7 Maracaibo
+http://ur58.lorini.net:30000/LAMEGA997FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://laradiodelsur.com.ve/favicon.ico", La Radio del Sur
+http://cp4.lorini.net:36268/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://lorini.net/streaming/clientes/PaisanaFM.JPG", Paisana 92.5 FM
+http://lortel58.lorini.net:39555/paisanafm.m4a
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiokuinche.com.ve/images/bannerk-1.jpg", Radio Kuinche
+http://streaming3.globalhost.net.ve:9244/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiognu.org/wp-content/uploads/2015/09/radiognu_144.png?x88130", RadioÑu
+https://audio.radiognu.org/radiognu.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://4.bp.blogspot.com/_3BYf-mYO03w/SJ5K0M2jo4I/AAAAAAAABS8/fKYkaAeOHPg/S271/Logo+RCR.png", RCR (Radio Caracas Radio 750 am)
+http://108.175.169.34:9172/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rnv.gob.ve/app/themes/rnv/static/images/rnv-logo.png", RNV (Radio Nacional de Venezuela)
+http://rnv.lorini.net:29100/RNVINFORMATIVO?type=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.leyresorte.gob.ve/wp-content/uploads/2015/05/LOGO-ACTIVA-ANIVERSARIO-300x225.png", RNV Activa
+http://rnv.lorini.net:29010/RNVACTIVA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/media/CgBb_bNXEAAonh2.jpg", RNV Clásica
+http://rnv.lorini.net:29020/RNVCLASICA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://unionradio.net/wp-content/themes/UnionRadio-R1-2015/favicon.ico", Unión Radio Valencia 105.3FM
+http://ur58.lorini.net:15000/ACTUALIDAD1053FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://dl.dropboxusercontent.com/u/51269358/iconoapk.png", Web Radio La Viglietti
+http://radiosyculturalibre.com.ar:9000/laviglietti.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://wepale.com/wepalefb.jpg", Wepale
+http://servers58.com:9302
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/724238378464628736/maLPEDTX_normal.jpg", YVKE Mundial
+http://190.9.128.238:8080/radiomundial
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://capital.net.ve/radio-capital-cardenales-lara-%20300x300.jpg", YVKY - Radio Capital 710 AM - Caracas, Venezuela - Noticias, deportes, arte.
+http://190.39.197.153:8000/;

@@ -1,0 +1,299 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/f6/40/35519/c175.png", 105.4 Cascais
+http://94.23.76.235:9896/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png", ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/10/alive-fm.jpg", Alive FM
+http://centova.radio.com.pt:9468/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83924q.png", Altitude FM
+http://centova.radio.com.pt:9034/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81734q.png", Alvor FM
+http://centova.radio.com.pt:8469/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.896.fm/LOGO%20ANTENA%20LIVRE.jpg", Antena Livre
+http://centova.radio.com.pt:9456/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/35/d8/35521/c175.png", Antena Miróbriga 102.7 FM
+http://178.32.239.25:8022/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s197801q.png", Asas do Atlântico
+http://s6.myradiostream.com:5936/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s206397q.png", Canal FM
+http://centova.radio.com.pt:9466/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/8c/2f/18038/c175.png", Deep in Radio
+http://s3.viastreaming.net:8525/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83912q.png", Diana FM
+http://centova.radio.com.pt:9460/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s109425q.png", Douro FM
+http://centova.radio.com.pt:8437/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.emissoradasbeiras.pt/logo2013.png", Emissora das Beiras
+http://centova.radio.com.pt:8465/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/47/06/7033/c175.png", Esposende Rádio
+http://94.23.76.235:9926/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81780q.png", Estação Diária
+http://centova.radio.com.pt:9430/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84208q.png", Geice FM
+http://centova.radio.com.pt:9448/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/90/27592/1/c175.png", Hard &amp; Heavy Metal Hits Radio
+http://streaming.radionomy.com/Hard-HeavyMetalHits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://cdn.apkmonk.com/logos/com.goodbarber.hiperfm2_150x150.png", Hiper FM
+http://195.23.85.126:9500/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s104511q.png", Horizonte FM
+http://centova.radio.com.pt:9436/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/p418003q.png", Íris FM
+http://centova.radio.com.pt:8529/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81782q.png", Kiss FM
+http://213.239.218.99:7104/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/82/06/21615/c175.png", Mais Kizomba
+http://109.71.41.6:8123/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s170388q.png", Mais Oeste Rádio
+http://centova.radios.pt:8515/;listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s6745q.png", Mega Hits
+http://provisioning.streamtheworld.com/pls/mega_hits.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.pt/images/broadcasts/15/2c/18040/c175.png", Noite FM
+http://www.noite.fm/noite.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKuvt2fcJo-jnokx8ovXXFeI2RMjiWAiJUf_FePFhcHszLKKu6", ORBITAL
+http://stream.radio.com.pt:8401/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/a4/39/18041/c175.png", Passion Love Radio
+http://listen.radionomy.com/PassionLoveRadio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/d9/1c/4865/c175.png", Popular FM
+http://195.8.58.141:32281/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84071q.png", Posto Emissor do Funchal FM
+http://centova.radio.com.pt:9426/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Radio5FM.jpg", Rádio 5
+http://centova.radio.com.pt:9438/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/77/2c/29594/c175.png", Rádio Alternativa 21
+http://streaming.radionomy.com/alternativa-21
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83749q.png", Rádio Alto Ave
+http://centova.radio.com.pt:8517/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/logo_ram.jpg", Rádio Alto Minho
+http://centova.radio.com.pt:8403/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s113888q.png", Rádio Amália
+http://centova.radio.com.pt:9496/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83750q.png", Rádio Ansiães
+http://centova.radio.com.pt:8419/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84143q.png", Rádio Antena Livre
+http://centova.radio.com.pt:8571/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s25767q.png", Rádio Antena Minho
+http://centova.radio.com.pt:9464/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.webradios.pt/wp-content/uploads/2015/03/logo.png", Rádio Atlântida
+http://centova.radio.com.pt:8505/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84204q.png", Rádio Baía
+http://centova.radio.com.pt:8193/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s48695q.png", Rádio Barca
+http://centova.radio.com.pt:8483/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82123q.png", Rádio Barcelos
+http://centova.radio.com.pt:8563/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://yt3.ggpht.com/-a3OCnT3rQp8/AAAAAAAAAAI/AAAAAAAAAAA/0UQq6AV8WHw/s100-c-k-no-rj-c0xffffff/photo.jpg", Rádio Borba
+http://centova.radios.pt:9578/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82191q.png", Rádio Botaréu
+http://213.239.218.99:7022
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/25/cc/35653/c175.png", Rádio Caminha
+http://212.13.41.101:11008/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82194q.png", Rádio Caria
+http://centova.radio.com.pt:8521/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.radios.com.br/radio/lg/radio4944_1439401062.jpg", Rádio Castelo Branco
+http://centova.radio.com.pt:9462/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83595q.png", Rádio Castrense
+http://centova.radio.com.pt:8431/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/90/16/19050/c175.png", Rádio Cidade de Tomar
+http://193.164.131.215:9306/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82196q.png", Rádio Cidade Hoje
+http://centova.radio.com.pt:8119/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s9924q.png", Rádio Cister
+http://centova.radio.com.pt:8453/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s10234q.png", Radio Clube da Covilhã
+http://centova.radio.com.pt:9450/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82199q.png", Rádio Clube da Feira
+http://centova.radio.com.pt:9544/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/e0/af/18987/c175.png", Rádio Clube da Lourinhã
+http://178.32.239.25:8128/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/d0/b1/29556/c175.png", Rádio Clube de Arganil
+http://178.32.239.25:8127/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/IconeRCG_NOVO_2.png", Rádio Clube de Grândola
+http://link.radios.pt/rcg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/52/c5/35663/c175.png", Rádio Clube de Lamego
+http://109.71.41.250:8110
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83788q.png", Rádio Clube de Monsanto
+http://centova.radio.com.pt:9424/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84110q.png", Rádio Clube de Penafiel
+http://centova.radio.com.pt:9476/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83945q.png", Rádio Clube de Sintra
+http://centova.radio.com.pt:8445/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.pt/images/broadcasts/6d/95/35660/1/c175.png", Rádio Clube Madeira
+http://radiosmadeira.net:8020/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/99/18/35672/c175.png", Rádio Clube Marinhense
+http://94.23.76.235:9914/;?1437055258683.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/37/cf/35673/c175.png", Rádio Clube Paços de Ferreira
+http://178.32.239.25:8026/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11079q.png", Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s1360q.png", Rádio Cova da Beira
+http://centova.radio.com.pt:8467/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rcmafra.pt/wp-content/themes/rcmafra/images/header-logo.png", Rádio do Concelho de Mafra
+http://centova.radio.com.pt:8551/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s107364q.png", Rádio Dom Fuas
+http://centova.radio.com.pt:8503/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/RE-LOGO1.jpg", Rádio Elmo
+http://centova.radio.com.pt:8463/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s9601q.png", Rádio Elvas
+http://centova.radio.com.pt:9494/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84093q.png", Rádio Felgueiras
+http://centova.radio.com.pt:8459/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84111q.png", Rádio Festival do Norte
+http://centova.radio.com.pt:9520/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82363q.png", Rádio Fóia
+http://centova.radios.pt:8559/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87830q.png", Rádio Gilão
+http://centova.radio.com.pt:9440/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/Granada-Fm-logotipo.jpg", Rádio Granada FM
+http://centova.radio.com.pt:8549/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s1653q.png", Rádio Horizonte Algarve
+http://centova.radio.com.pt:9458/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84083q.png", Rádio Jornal da Madeira
+http://centova.radio.com.pt:8537/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiolagoa.pt/wp-content/uploads/2014/02/logo2-Oficial-limpo.png", Rádio Lagoa
+http://centova.radio.com.pt:9488/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84216q.png", Rádio Limite
+http://centova.radio.com.pt:9408/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s106967q.png", Rádio Linear
+http://centova.radio.com.pt:8449/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/8a/42/18048/c175.png", Rádio Lusitânia CB
+http://185.113.141.84:8092/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s25146q.png", Rádio Marginal
+http://centova.radio.com.pt:8499/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s133924q.png", Rádio Marinhais
+http://centova.radio.com.pt:8473/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/a7/d6/36293/c175.png", Rádio Matosinhos Online
+http://185.32.188.17:8021/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81786q.png", Rádio MEO Music
+http://centova.radio.com.pt:8495/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomontalegre.net/RM.jpg", Rádio Montalegre
+http://centova.radio.com.pt:9566/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s170072q.png", Rádio Montemuro
+http://centova.radio.com.pt:8573/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b0/9d/29600/c175.png", Rádio Next
+http://46.105.172.166:8072/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Radio-no-AR.png", Rádio NoAr
+http://centova.radio.com.pt:9472/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16311q.png", Rádio Nostalgia
+http://centova.radio.com.pt:8435/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/e77c8f5d7b41266b72f233cf86fc4bef.png", Rádio Nova
+http://centova.radio.com.pt:9528/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s25161q.png", Rádio Nova Era
+http://centova.radio.com.pt:9478/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83746q.png", Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84142q.png", Rádio Onda Viva
+http://centova.radio.com.pt:9524/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s48681q.png", Rádio Ondas do Lima
+http://centova.radio.com.pt:8407/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png", Rádio Oxigénio
+http://centova.radio.com.pt:9498/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83594q.png", Rádio Pax
+http://link.radios.pt/radiopax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s107313q.png", Rádio Pernes
+http://centova.radio.com.pt:8423/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82364q.png", Rádio Planície
+http://109.71.41.250:8024/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84209q.png", Rádio Popular Afifense
+http://centova.radio.com.pt:8471/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s10970q.png", Rádio Portalegre
+http://centova.radio.com.pt:9492/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/7e/21/18050/c175.png", Rádio Portuguesa do Var
+http://213.202.233.13:8558/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/logo-Radio-Praia.jpg", Rádio Praia
+http://centova.radio.com.pt:9548/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/c1/36865/2/c175.png", Rádio Promove Portugal
+http://78.47.96.202:8160/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radarfm.radarlisboa.fm/wp-content/uploads/2016/02/logo_abril.png", Rádio Radar
+http://centova.radio.com.pt:8497/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83556q.png", Rádio Regional de Arouca
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s114352q.png", Rádio Regional Sanjoanense
+http://centova.radio.com.pt:8117/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediaserver2.rr.pt/NEWRR/logorrredessociais6088e0e6.jpg", Rádio Renascença
+http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84308q.png", Rádio Riba-Távora
+http://centova.radio.com.pt:9542/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/94/79/36704/c175.png", Rádio Santiago
+http://94.23.76.235:9884/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiosim.sapo.pt/images/logo.png", Rádio Sim
+http://playerservices.streamtheworld.com/m3u/RADIO_SIMAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87848q.png", Rádio Telefonia do Alentejo
+http://centova.radio.com.pt:8561/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s171052q.png", Rádio Terra Nova
+http://centova.radio.com.pt:9404/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/d4/03/4866/c175.png", Rádio Universidade de Coimbra
+http://ruc1.cidadedecoimbra.com:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81805q.png", Rádio Universitária do Algarve
+http://centova.radio.com.pt:9536/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s3095q.png", Rádio Universitária do Minho
+http://centova.radio.com.pt:9558/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/36/7d/18053/1/c175.png", Rádio Utopia
+http://109.71.41.250:8034/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84205q.png", Rádio Valdevez
+http://centova.radios.pt:9508/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/logotipo_radio_vida_2-01.png", Rádio Vida FM 97.1
+http://centova.radio.com.pt:9482/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Logotipo-Vidigueira.jpg", Rádio Vidigueira
+http://centova.radio.com.pt:8567/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.vozdaplanicie.pt/assets/img/logo.png", Rádio Voz da Planície
+http://link.radios.pt/vozdaplanicie
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s7600q.png", Rádio Voz da Ria
+http://centova.radio.com.pt:8541/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/RVA-Logo-fundo-transparente-copy.png", Rádio Voz de Alenquer
+http://centova.radio.com.pt:8479/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s109635q.png", Rádio Voz de Stº Tirso
+http://centova.radio.com.pt:9570/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/loto-tipo-2.png", Rádio Voz do Neiva
+http://94.23.76.235:9898/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84189q.png", Rádio Voz do Sorraia
+http://centova.radio.com.pt:8511/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/R.-Corval.jpg", RC Alentejo
+http://centova.radios.pt:8561/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b4/47/36700/c175.png", RES FM
+http://109.71.41.6:8184/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s18720q.png", RFM - Só Grandes Músicas
+http://provisioning.streamtheworld.com/pls/RFMaac.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/49/3c/29601/c175.png", RLCB Dance
+http://rlcbdance.no-ip.org:8431/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16298q.png", RNA Montemor
+http://centova.radio.com.pt:9454/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/fc/ac/4250/c175.png", Sagres FM
+http://94.126.173.23:8002/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/09/261550_228516720494605_5533363_n-2.jpg", Santana FM
+http://5.189.185.16:9000/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s107328q.png", Sesimbra FM 103.9
+http://centova.radio.com.pt:9444/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s82204q.png", Singa FM
+http://centova.radio.com.pt:8487/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://soberaniafm.com/love/images/Shape5_Mediaplate_logo.png", Soberania FM
+http://213.239.218.99:7132
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/1a/bd/36902/c175.png", SUPER FM
+http://94.23.76.235:9956/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/08/Tejo-Radio-Jornal.jpg", Tejo Rádio Jornal
+http://centova.radio.com.pt:8531/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83751q.png", Terra Quente FM
+http://centova.radio.com.pt:9402/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/2f/ff/37708/1/c175.png", The Music Spot
+http://listen.radionomy.com/themusicspotradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87851q.png", TLA Rádio
+http://centova.radio.com.pt:8545/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/cc/94/18978/c175.png", Top 80 FM
+http://live.top80.fm:8086/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mytop.fm/wp-content/uploads/2016/08/cropped-icon-1-192x192.png", TOP FM Terceira
+http://212.83.150.15:8602/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s107330q.png", Torres Novas FM
+http://centova.radio.com.pt:8475/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radios.pt/wp-content/uploads/2015/10/RADIO_TOTALFM_LOGO_NOV14.png", TOTAL FM
+http://centova.radios.pt:9576/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s110774t.png", TSF Rádio Açores
+http://centova.radio.com.pt:8243/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s163045q.png", TSF Rádio Madeira
+http://centova.radio.com.pt:9470/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tsf.pt/favicon.ico", TSF Rádio Notícias
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87852q.png", Ultra FM
+http://centova.radio.com.pt:9506/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16496q.png", Universidade FM
+http://centova.radio.com.pt:8405/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vodafone.fm/images/fbcover.jpg?v=1", Vodafone.fm
+http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf

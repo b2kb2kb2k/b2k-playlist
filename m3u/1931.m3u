@@ -1,0 +1,153 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", ANTENA 80s - Zagreb
+http://173.192.137.34:8060
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antenazagreb.hr/favicon.ico", ANTENA 90s - Zagreb
+http://173.192.137.34:8064/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.prvi.hr/images/Antena/Logos/AntenaZagreb-Logo.png", Antena Zagreb Live
+http://s7.iqstreaming.com:8036/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antenazagreb.hr/favicon.ico", Antena Zagreb Top40
+http://173.192.137.34:8050/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://bbr.hr//ms-icon-144x144.png", Bjelovarsko-bilogorski radio
+http://144.76.172.23:7038/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://city-radio.hr/wp-content/uploads/2017/01/city-logo2.png", City-radio 88.6
+http://s8.iqstreaming.com:8058/stream;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.prvi.hr/images/Enter/enter-zagreb.png", ENTER zagreb
+http://173.192.137.34:8006
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.prvi.hr///touch-icon-iphone.png", Gold FM
+http://s7.iqstreaming.com:8014/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/prvi-program.png", HR 1 - Prvi program
+http://playerservices.streamtheworld.com/m3u/PROGRAM1AAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/drugi-program.png", HR 2 - Drugi program
+http://playerservices.streamtheworld.com/m3u/PROGRAM2AAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/treci-program.png", HR 3 - Treći program
+http://playerservices.streamtheworld.com/m3u/PROGRAM3AAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/glas-hrvatske.png", HRT Glas Hrvatske
+http://playerservices.streamtheworld.com/m3u/VOICEOFCROATIAAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-dubrovnik.png", HRT Radio Dubrovnik
+http://playerservices.streamtheworld.com/m3u/DUBROVNIKAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-knin.png", HRT Radio Knin
+http://playerservices.streamtheworld.com/m3u/KNINAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-osijek.png", HRT Radio Osijek
+http://playerservices.streamtheworld.com/m3u/OSIJEKAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-pula.png", HRT Radio Pula
+http://playerservices.streamtheworld.com/m3u/PULAAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-rijeka.png", HRT Radio Rijeka
+http://playerservices.streamtheworld.com/m3u/RIJEKAAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-sljeme.png", HRT Radio Sljeme
+http://playerservices.streamtheworld.com/m3u/SLJEMEAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/static/img/noimg/radio-split.png", HRT Radio Split
+http://playerservices.streamtheworld.com/m3u/SPLITAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.hrt.hr/favicon.ico", HRT Radio Zadar
+http://playerservices.streamtheworld.com/m3u/ZADARAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hrk.hr/favicon.ico", Hrvatski radio Karlovac
+http://144.76.172.23:7047
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://garesnica.net/krugoval//favicon.ico", Krugoval
+http://144.76.172.23:7043
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static-media.streema.com/media/object-images/85f4dc135a3cb71ca14158f7ee17953f.jpg", Narodni radio
+http://173.192.137.34:8030
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ori.hr///templates/ori/favicon.ico", Obiteljski Radio Ivanić
+http://144.76.172.23:7004
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.web-com.hr/images/ostalo/otvoreni.jpg", Otvoreni radio
+http://www.otvoreni.hr/ea/wp-content/themes/otvoreni-wp/playlists/stream.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.petrinjskiradio.hr/favicon.ico", Petrinjski radio
+http://46.28.53.198:7017/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://podravskiradio.net/wp-content/uploads/2012/01/favicon.png", Podravski radio
+http://proglink4.ddns.net:58001/prstream.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.057info.hr/favicon.ico", Radio 057
+http://streaming.zadar.net:8000/radio057
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio101.hr/sites/all/themes/radio101/images/logo.jpg", Radio 101 fm
+http://www.radio101.hr/generated/aac_radio101.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio101.hr/sites/all/themes/radio101/images/logo.jpg", Radio 101 Rock
+http://www.radio101.hr/generated/radio101_rock.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.attack.hr/static/img/radioattack_logo_fb_200.jpg", Radio Attack
+http://radio.attack.hr:9000/mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-banovina.hr//favicon.ico", Radio Banovina
+http://stream1.radio-banovina.hr:8005
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-daruvar.hr//favicon.ico", Radio Daruvar
+http://pa-hosting.de:23637/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-drava.hr/favicon.ico", Radio Drava
+http://85.10.201.72:1052/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.glaspodravine.hr/wp-content/uploads/2015/11/favicon.ico", Radio Glas Podravine
+http://glaspodravine.hr:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rgk.hr//favicon.ico", Radio Gorski Kotar
+http://88.198.9.11:9500/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rhzk.hr/favicon.ico", Radio Hrvatsko zagorje Krapina
+http://144.76.172.23:7024
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-koprivnica.hr/favicon.ico", Radio Koprivnica
+http://194.152.206.205:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiokorzo.hr/favicon.ico", Radio Korzo
+http://www.radiokorzo.hr/stream/premium.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Radio Križevci
+http://144.76.172.23:7028
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-ludbreg.hr///templates/yoo_nano/favicon.ico", Radio Ludbreg
+http://85.25.135.86:23573/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomarija.hr//favicon.ico", Radio Marija
+http://cloudrad.io/radiomariacroazia/listen.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.radio-martin.hr/favicon.ico", Radio Martin
+http://genf196.server4you.de:8585/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomax.hr//favicon.ico", Radio Max
+http://winweb1.novi-net.net:8012
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomegaton.hr//favicon.ico", RADIO MEGATON
+http://s3.iqstreaming.com/tunein.php/megaton/playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomegaton.hr///templates/radiomegaton/favicon.ico", Radio Megaton
+http://144.76.172.23:7086
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomoslavina.hr//templates/siteground-j15-191/favicon.ico", Radio Moslavina
+http://144.76.172.23:7049
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-mreznica.hr//multimedia/river_favicon.ico", Radio Mrežnica
+http://144.76.172.23:7010
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionovimarof.hr/wp-content/themes/arclite/favicon.ico", Radio Novi Marof
+http://78.129.224.19:34208/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionovska.hr//favicon.ico", Radio Novska
+http://genf196.server4you.de:8686
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-ogulin.hr///templates/tx_zenith_ii/favicon.ico", Radio Ogulin
+http://144.76.172.23:7030/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://quirinusportal.com/favicon.ico", Radio Quirinus 91.7
+http://s8.iqstreaming.com:8064/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiosamobor.hr/favicon.ico", Radio Samobor
+http://85.94.70.42:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiosisak.hr/favicon.ico", Radio Sisak
+http://173.192.137.34:8040/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://jerko.novi-net.net/sjeverozapad/wp-content/uploads/2017/01/favicon.png", Radio Sjeverozapad
+http://winweb1.novi-net.net:8030/rnwH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.slunj.net//templates/ja_purity/favicon.ico", Radio Slunj
+http://144.76.172.23:7057
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-stubica.hr/favicon.ico", Radio Stubica
+http://c3.hostingcentar.com:7008/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiosvn.com/wp-content/uploads/2016/09/favicon.jpg", Radio Sveta Nedjelja
+http://s2.myradiostream.com:6050/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.terezija.hr/favicon.ico", Radio Terezija
+http://www.terezija.hr/winamp_terezija.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-varazdin.hr/images/favicon.ico", Radio Varaždin
+http://144.76.172.23:7036
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://novosti.hr/favicon.ico", Radio Vinkovci 90,2 FM
+http://141.138.12.130:8000/RadioVinkovci.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s198357q.png", Radio Virovitica
+http://pa-hosting.de:2199/tunein/virovitica.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiovrbovec.hr/favicon.ico", Radio Vrbovec
+http://88.198.9.11:9452/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-zabok.hr/favicon.ico", Radio Zabok
+http://access2.streamsink.com:8300/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.radio-zlatar.hr/favicon.ico", Radio Zlatar
+http://144.76.172.23:7059
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiostudent.hr//favicon.ico", Radio100.5 Student Zagreb
+http://www.radiostudent.hr/aacPlus48.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://live.novi-net.hr/favicon.ico", Sjeverni FM
+http://winweb1.novi-net.net:8025/rivanecH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kultradio.hr/favicon.ico", Soundset Kult
+http://50.7.71.30:9733/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.soundset.hr/favicon.ico", Soundset Plavi
+http://50.7.77.114:8495/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.soundset.hr/favicon.ico", Soundset Trsat
+http://50.7.70.66:8787/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.superradio.hr/wp-content/themes/superradio/images/favicon.ico", Super radio
+http://88.198.53.74:9996/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.totalni.hr/upload/favicon.ico", TotalniFM Rijeka
+http://s7.iqstreaming.com:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://totalnifmsplit.hr/wp-content/themes/totalniFM/images/icon/favicon-196x196.png", TotalniFM Split
+http://173.192.137.34:8026/stream.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Trend Radio
+http://172.245.130.123:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://yammat.fm/favicon.ico", Yammat FM
+http://192.240.102.133:12430/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://zfm.hr/wp-content/uploads/2017/01/cropped-zfm-jpg-270x270.jpg", Z fm
+http://s8.iqstreaming.com:8008/;stream.mp3

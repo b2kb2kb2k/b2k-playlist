@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b8/ce/9339/c175.png", Linn Classical
+http://89.16.185.174:8004/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b8/ce/9339/c175.png", Linn Jazz
+http://89.16.185.174:8000/stream

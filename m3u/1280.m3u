@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://1jazz.ru/favicon.ico", 1jazz.ru - Swing &amp; Big Band
+http://radio.1jazz.ru:8280/radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://web.bigblueswing.com/Public/BigBlueSwing_Logo-88.png", Big Blue Swing 32k
+http://radio.bigblueswing.com:8004/;32bit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bigblueswing.com/Public/BigBlueSwing_Logo-88.png", Big Blue Swing 64k
+http://radio.bigblueswing.com:8002/;64bit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bilder-hochladen.net/files/big/l2sm-7-8f14.jpg", Cultmax
+http://listen.radionomy.com/cultmax.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deluxemusic.tv/fileadmin/_processed_/csm_Radio_DeluxeMusicRadio_Web_dbc9e1c586.png", Deluxe Radio
+http://www.deluxemusic.tv/fileadmin/Webdata/downloads/Playlisten/DELUXE_MUSIC_RADIO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediaprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/funk%20ch.png", Digital Impulse - Electro Swing &amp; Funk
+https://orion.shoutca.st/tunein/asxpop.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/39/2e/14126/c175.png", Electro Swing Revolution Radio
+http://groove.wavestreamer.com:7115/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://horror-theatre.com/i/honkytonk.png", Honkytonk Hootenanny - Old School Country Style!
+http://199.195.194.140:8069/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_electro-swing.png", Jazz Radio Electro Swing
+http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kcea.org/favicon.ico", KCEA - 89.1FM Atherton, CA
+http://streaming.rubinbroadcasting.com/kcea
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cowpokeradio.com/wp-content/uploads/2016/08/cropped-Singing-Cowboy-With-Guitar-270x270.png", KWPX Cowpoke Classic Country Music - Banta, CA
+http://184.164.135.70:8133/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/radio1920/user_640x640.jpg", RADIO1920
+http://stream.laut.fm/radio1920
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rockin626.com/logo.gif", Rockin 626
+http://192.99.4.210:3574/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://stream.glueck-media.com/player/smart/images/smart2-small.jpg", Smart Radio
+http://stream.glueckserver.de:8000/smartradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/swingsalon/user_640x640.jpg", swingsalon
+http://stream.laut.fm/swingsalon.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.digitaldeliftp.com/Images/pings/GIJillca1944.png", The UK 1940s Radio Station
+http://91.121.134.23:8100/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazz901.org/favicon.ico", WGMC &quot;Swing &amp; Blues&quot; Stream - Rochester, NY
+http://greece-media.monroe.edu/wgmc3.mp3

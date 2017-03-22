@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i1.wp.com/1000oldies.teamff.de/wp-content/uploads/sites/3/2015/10/cropped-1000oldies_640x640stationsbild.jpg?fit=270%2C270", 1000 Oldies
+http://stream.laut.fm/1000oldies
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.imgur.com/q8yOpec.jpg?1", 1000 Oldies Hits
+http://listen.radionomy.com/1000Oldies
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/1952rebelsradio/user_80x80.jpg", 1952rebelsradio
+http://laut.fm/1952rebelsradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/102644/resized/140x134c/abc50.jpg", ABC 50&#039;s
+http://streaming.radionomy.com/ABC50s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.atlantica-radio.fr/wp-content/uploads/2015/06/favicon.ico", Atlantica Oldies
+http://188.165.196.212:8012/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.w1440.com/thumbnails/listenlive.jpg", CKJR 1440 &quot;W1440&quot; Wetaskiwin, AB
+http://newcap.leanstream.co/CKJRAM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.fun45s.com/favicon.ico", FUN45s.com
+http://www.fun45s.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hddinerradio.com/images/logos/logo%20HD%20Radio%2000.png", HD Diner Radio
+http://ns304246.ovh.net:8001
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://horror-theatre.com/i/honkytonk.png", Honkytonk Hootenanny - Old School Country Style!
+http://199.195.194.140:8069/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://memoryradio.de/favicon.ico", memoryradio 1
+http://www.memoryradio.de:4000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://memoryradio.de/favicon.ico", memoryradio 2
+http://www.memoryradio.de:5000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://byknudsen.de/wp-content/uploads/2015/10/Rock_a_Billy_007.jpg", Oldiewelle Roding
+http://37.187.93.104:8368
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rmfon.pl/i/logos/100x100/50s.png", RMF 50s
+http://31.192.216.7:8000/rmf_50s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s51143q.png", Rockabilly Radio
+http://lin3.ash.fast-serv.com:6042/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/rockabilly/user_80x80.jpg", Rockabilly Rules OK
+http://laut.fm/rockabilly
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sorradio.org/templates/radiowave/favicon.ico", SoR &quot;Spirit of Resistance Radio&quot; Online - Mount Pleasant, MI
+http://sorradio.org:5005/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sunsetnetwork.us/wpimages/wpbd68031c_06.gif", sunsetpalace
+http://laut.fm/sunsetpalace?autoplay=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/radio-teddyboys-1983/user_80x80.jpg", Teddyboys-1983
+http://laut.fm/radio-teddyboys-1983
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://whro.org/images/site/logo_altradio_rcol.png", WHRO &quot;Alt Radio.org&quot; Stream - Norfolk, VA
+http://altradio.mediaplayer.whro.org/128

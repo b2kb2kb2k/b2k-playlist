@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://play.cadenaser.com/bundles/playserweb/img/apple-touch-icon-144x144.png", Cadena SER Radio Menorca
+http://server7.20comunicacion.com:8040
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://statics.ccma.cat/img/favicons/catinfo-favicon-192x192.png", Catalunya Informació
+http://catinform.ccma.audioemotion.stream.flumotion.com/ccma/catinform.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s45275q.png", Catalunya Ràdio
+http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.porto.it/radio/logo_catclassica.jpg", CatClàssica
+http://catinform.ccma.audioemotion.stream.flumotion.com/ccma/catclassica.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://statics.ccma.cat/img/favicons/catmusica-favicon-192x192.png", CatMúsica
+http://catinform.ccma.audioemotion.stream.flumotion.com/ccma/catmusica.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.cope.es//proyecto/temas/favicon.ico", COPE Menorca
+http://menorca.copesedes.stream.flumotion.com/copesedes/menorca.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static-media.streema.com/media/object-images/1d485d7f8a73caf45ad8a7810c996353.jpg", Flaix FM
+http://radiostream.flaixfm.cat:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ib3tv.com/icon.114.png", IB3 Ràdio Menorca
+http://streaming01.ib3radio.com:8000/ib3radio_menorca
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://statics.ccma.cat/img/favicons/icat-favicon-192x192.png", iCat
+http://icatfm.ccma.audioemotion.stream.flumotion.com/ccma/icatfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.porto.it/radio/logo_icat_jazz.jpg", iCat Jazz
+http://icatjazz.ccma.audioemotion.stream.flumotion.com/ccma/icatjazz.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s77670q.png", iCatMón
+http://icatmon.ccma.audioemotion.stream.flumotion.com/ccma/icatmon.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s77668q.png", iCatRumba
+http://icatmon.ccma.audioemotion.stream.flumotion.com/ccma/icatrumba.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s182879q.png", iCatTrònica
+http://icatronica.ccma.audioemotion.stream.flumotion.com/ccma/icatronica.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.laxarxa.com//assets/favicon.ico", La Xarxa
+http://streaming.laxarxa.com/directe
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.laxarxa.com//assets/favicon.ico", La Xarxa butlletins horaris
+http://streaming.laxarxa.com/butlletins
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.laxarxa.com//assets/favicon.ico", La Xarxa ocasionals
+http://streaming.laxarxa.com/ocasional
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/p156184q.png", RAC 1
+http://streaming3.radiocat.net/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s26084q.png", RAC 105
+http://streaming105.radiocat.net:8090
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.arrels.net/favicon.ico", Ràdio Arrels
+http://stream.franclr.fr:8000/radioarrels
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobalear.es/wp-content/uploads/2013/11/logo.png", Radio Balear
+http://server6.20comunicacion.com:8076/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s48751q.png", Ràdio Flaixbac
+http://www.radioflaixbac.cat/repro.php
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-img.easylogo.cn/gif/118/118987.gif", RNE Ràdio 4
+http://radio4.rtveradio.cires21.com/radio4.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/2eb592_7f5b35823419235f9d0db754ba4e6ecd.jpg", SomReggaefm
+http://5.135.183.124/tunein/reggae2-stream.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s77669q.png", totCat
+http://totcat.ccma.audioemotion.stream.flumotion.com/ccma/totcat.mp3

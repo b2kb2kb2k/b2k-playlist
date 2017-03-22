@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=128x1024:format=jpg/path/s4729960daad75e49/image/ic5ac0487befc761b/version/1282304832/logo-anwarock-ecouter-la-radio-rock-marocaine-online-depuis-marrakech.jpg", ANWA Rock
+http://streaming208.radionomy.com:80/Anwa-rock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.chadafm.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png", Chada
+http://broadcast.infomaniak.net/chadafm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hitradio.ma/media/player_v3/img/logos/mobile/hitradio.png?v=0.1", HitRadio (Morocco)
+http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://nessradio.com/wp-content/uploads/2016/07/icon_144.png", Ness Radio
+http://radio.nessradio.net:8000/nessradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio2m.ma/wp-content/uploads/2016/02/cropped-FAVICON-32x32.png", Radio 2M
+http://radio2m.scdn.arkena.com/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.yabiladi.com/images_header/logo_partage.png", Yabiladi
+https://www.yabiladi.com/radio.m3u

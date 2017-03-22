@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://tamilchristianradio1.blogspot.in/favicon.ico", 24/7 Tamil Christian Radio
+http://listen.shoutcast.com/24-7tamilchristianradio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://a9radio.com/wp-content/uploads/2016/11/cropped-A9Logo-1200x12002-32x32.jpg", A9 Radio.com
+http://195.154.217.103:8175/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cmr24.net/wp-content/uploads/2014/06/hd2.png", CJSA-HD2  &quot;CMR Diversity Radio&quot; (Tamil stream) Toronto, ON
+http://108.63.21.20:8020/stream?sid=1;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.itr.fm/images/favicon.ico", International Tamil Radio 89.3 Montreal, QC
+http://server.tamil.fm:8000/live01
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nagafm.com/favicon.ico", Naga FM Online - Singapore
+http://192.99.9.172:8006/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tamilstar.fm//images/favicon.ico", Tamil Star Radio.fm - Montreal, QC
+http://174.36.206.197:8052/;stream/1

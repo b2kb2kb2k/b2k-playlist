@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiodoblenueve.com/wp-content/uploads/2014/09/cropped-LOGO-DOBLE-NUEVE1-e1410845400628.png", Doble Nueve Heritage
+http://198.100.158.66:7030/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiodoblenueve.com/wp-content/uploads/2014/09/cropped-LOGO-DOBLE-NUEVE1-e1410845400628.png", Doble Nueve Live
+http://198.100.158.66:9028/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://tune-radio.com/wp-content/uploads/2016/04/105155.png", Indie Rock Radio
+http://listen.radionomy.com/indie-rock-radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ondacero.com.pe/images/web/new_web/logo.png", Radio Onda Cero
+http://perseo.sistemas4g.com:6720/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioz.pe/radio_z_logo.png", Radio Z Rock &amp; Pop
+http://149.56.16.148:1935/radioz/radioz2016.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiomar.pe//assets/favicons/favicon-32x32.png", Radiomar Plus 106.3 Lima
+http://17953.live.streamtheworld.com:80/CRP_MARAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.synthetika.org/images/favicon.ico", Synthetika
+http://streaming.radionomy.com/SynthetikaRadio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.toplatino.net/wp-content/woo_uploads/9-favicon.ico", Top Latino
+http://online.radiodifusion.net:8020/stream

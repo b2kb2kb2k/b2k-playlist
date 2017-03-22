@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.amysfm.com/spiritofsoul/sos.jpg", AmysFM Spirit of Soul
+http://91.121.59.45:10073/amysfmspiritofsoul
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/404879_10150722533096913_1148338412_n.jpg?oh=21282d8a5b8c2b47c641e1b9b6eca57e&amp;oe=5971EC37", CBC Radio 1 Nord-Quebec
+http://cbc_r1_n_mtl.akacast.akamaistream.net/7/823/451661/v1/rc.akacast.akamaistream.net/cbc_r1_n_mtl
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/404879_10150722533096913_1148338412_n.jpg?oh=21282d8a5b8c2b47c641e1b9b6eca57e&amp;oe=5971EC37", CBC Radio 1 Whitehorse
+http://cbc_r1_whs.akacast.akamaistream.net/7/319/451661/v1/rc.akacast.akamaistream.net/cbc_r1_whs
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.chipfm.com/favicon.ico", CHIP 101.7 Fort Coulonge, QC
+http://www.chipfm.com/chip128.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://chuo.fm/wp-content/uploads/2011/04/chuologo_colour1.jpg", CHUO 89.1 University of Ottawa, ON
+http://icecast.isilive.ca/chuo.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio-shalom.ca/air/wp-content/uploads/RadioShalom_web-logo1.gif", CJRS 1650 &quot;Radio Shalom&quot; Montreal, QC
+http://50.7.70.66:8509/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/190d59_6bc50ceec29f4ebe85c3b0d096b56e56.jpg", CKVL 100.1 LaSalle, QC
+http://stardust.wavestreamer.com:5167/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://phauneradio.com/wp-content/uploads/phaune-favicon.png", Phaune radio
+http://stream.phauneradio.com/phaune_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.socastsrm.com/uploads/station/221/site_header_logo-55b3eda4bb49c.png", Radio Glendon
+http://130.63.182.125:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomozart.net/siteimages/mozartsansnet.jpg.jpg", Radio Mozart
+http://streaming213.radionomy.com/Radio-Mozart
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionaples.com/assets/ico/favicon.ico", Radio Naples.com Montreal, QC
+http://dj.mediastreaming.it:7018/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.storytellers-conteurs.ca/icon-iphone.png", Story Tellers of Canada Radio - Conteurs du Canada Radio
+http://198.105.220.12:4767/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wiccaradio.net/images/logo.jpg", Wicca Radio
+http://listen.radionomy.com/wiccaradio

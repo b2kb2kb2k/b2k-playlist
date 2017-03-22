@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bahanafm.co.id/templates/yoo_cloud/favicon.ico", Bahana
+http://103.16.199.177:8102/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deltafm.net/templates/radiowave/favicon.ico", Delta FM
+http://103.226.246.18:80/masima-deltajakarta
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://denger.in/dmilogo.png", DMI Radio
+http://stream.denger.in:8008
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://elshinta.com/baseimg/logo_share.png", Elshinta
+http://202.137.4.147:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://femaleradio.co.id/templates/maxedmag/favicon.ico", Female Radio
+http://103.226.246.98:80/masima-femaleradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.hangfm.id/wp-content/uploads/2016/04/logoHangFM.png", Hang FM
+http://199.180.128.37:8200
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-1/p50x50/14611077_1243825042346829_3249509082709932401_n.jpg?oh=09a55fbed1b355f7380d1389fa37dc46&amp;oe=59262936", Impact Radio Rohani
+http://45.64.97.68:8062/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://iradiofm.com/wp-content/uploads/2015/02/favoicon.png", iRadio
+http://streaming.mramedia.com:8000/iradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://urbanradiobandung.com/wp-content/uploads/2015/12/iconwp.png", Urban Radio Bandung
+http://radio.melsa.net.id:8050/urban

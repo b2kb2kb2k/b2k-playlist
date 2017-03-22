@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://95bfm.com/sites/default/files/favicon.ico", 95bFM
+http://streams.95bfm.com/stream112
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://basefm.co.nz/basefm.jpg", Base FM
+http://130.216.72.72:8000/BaseHi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.thehits.co.nz//content/images/interface/ico/thehits/favicon.ico?v=2904", Classic Hits 97.4
+http://streaming.radiomyway.co.nz/hits2ihr.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.thecoast.net.nz/media/7635149/coastbackupimage.jpg?mode=crop&amp;width=675&amp;height=379&amp;quality=80&amp;scale=both", Coast
+http://streaming.radiomyway.co.nz/coast2.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.georgefm.co.nz//Portals/0/skins/2014/images/apple-touch-icon-144x144.png", George
+http://icecast.mediaworks.co.nz:8000/georgefm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lifefm.co.nz/images/favicon.png", LifeFM
+http://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.onechristianradio.co.nz//favicon.ico", One Christian Radio 107.7 &amp; 87.6 - New Plymouth
+http://67.212.174.226:10047/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://groundtruth.co.nz/sites/default/files/favicon.ico", Paekakariki
+http://icecast.groundtruth.co.nz:8000/paekakfm.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioactive.fm/favicon.ico", Radio Active
+http://stream.radioactive.fm:8000/ractive
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiodunedin.co.nz/images/radio-dunedin-logo.gif", Radio Dunedin
+http://icecast.mediaworks.co.nz:8000/Dunedin_96kbps.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hauraki.co.nz//content/images/interface/ico/hauraki/favicon.ico?v=2904", Radio Hauraki (AAC+)
+http://streaming.radiomyway.co.nz/HaurakiAAC.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionz.co.nz/favicon.ico", Radio New Zealand Concert
+http://www.radionz.co.nz/audio/live/concert/adaptive.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rnzi.com//x/apl/57-eb3ffeae324a618b9833a4c39fb3abbda6a80b66319c17991507e7d2a0572c53.png", Radio New Zealand Int.
+http://www.radionz.co.nz/audio/live/rnzi/adaptive.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionz.co.nz//x/apl/57-eb3ffeae324a618b9833a4c39fb3abbda6a80b66319c17991507e7d2a0572c53.png", Radio New Zealand National
+http://www.radionz.co.nz/audio/live/national/adaptive.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.r1.co.nz/images/favicons/favicon-32x32.png", Radio One 91FM in Dunedin
+http://stream.r1.co.nz:8090/r1-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rdu.org.nz/wp-content/themes/soundwave/images/favicon.ico", RDU 98.5 FM
+http://live.outcastdigital.com:8000/rdu?type=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://skifmnetwork.co.nz/wp-content/uploads/2015/04/new-head.jpg", Ski FM
+http://fire.wavestreamer.com:2943/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.star.net.nz/images/logos/favicon.png", Star
+http://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.star.net.nz/images/logos/favicon.png", Star  882 AM Auckland
+http://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.static.co.nz/img/static_logo.jpg", Static FM
+http://artsweb.aut.ac.nz:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://thecheese.co.nz/wp-content/themes/atahualpa/images/favicon/fff-music.ico", The Cheese
+http://thecheese.ddns.net:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://theflea.co.nz/wp-content/themes/blognews/images/logo.gif", The Flea FM 88.2
+http://49.50.246.42:8020/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://theflea.co.nz/wp-content/themes/blognews/images/logo.gif", The Flea FM 88.2 (AAC+)
+http://49.50.246.42:8030/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mostfm.co.nz/favicon.ico", The Most Fm
+http://gordon.mostfm.com:8000/high.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/be2786_c8805d95b2454642aa4dde7ad1622722%7Emv2_d_3897_3345_s_4_2.jpg", The Plug 106.9 Auckland
+http://s6.voscast.com:8768
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.therock.net.nz//Portals/0/skins/2014/images/apple-touch-icon-144x144.png", The Rock
+http://icecast.mediaworks.co.nz:8000/therock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.thesound.co.nz/favicon.ico", The Sound
+http://icecast.mediaworks.co.nz:8000/thesound
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.accessradio.org.nz/favicon.ico", Wellington Access Radio 783
+http://live.wizz.co.nz/war
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.worldfm.co.nz/favicon.ico", World FM 88.2 Tawa
+http://www.worldfm.co.nz/worldfm-ogg-nz.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.zmonline.com//content/images/interface/ico/zm/favicon.ico", ZM Auckland
+http://streaming.radiomyway.co.nz/zmalt.pls

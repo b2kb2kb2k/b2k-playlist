@@ -1,0 +1,161 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.acriticafm.com.br/img/base/teaser-1.jpg", A Critica FM
+http://servidor1.crossdigital.com.br:8104/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiorock.com.br/wp-content/themes/avenue/Avenue/static/img/logo.png", A Rádio Rock 89.1 FM
+http://streaming307.radionomy.com:80/89FMARADIOROCK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.almalondrina.com.br/wp-content/uploads/2016/03/logo.png", AlmA Londrina
+http://minha.webradio.srv.br:8024/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.alphafm.com.br/favicon.ico", Alpha FM
+http://servidor34.brlogic.com:8284/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/11062775_848540361849563_6292785139112061437_n.png.jpg?oh=02cd99589a24b8fc7c8e1e09d8e63056&amp;oe=596D2053", Antena 1 SP
+http://178.33.45.203:80/stream2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://graph.facebook.com/redeatlantida/picture?type=large", Atlântida - ATL
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent.ffor8-1.fna.fbcdn.net/v/t1.0-1/p200x200/11426219_637328396402869_1696704427103039157_n.png?oh=f735d06335396d24b649133d2bd80614&amp;oe=58DE2B81", Band FM Recife
+http://170.75.145.138:19606/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bandab.com.br/wp-content/uploads/2016/02/adesivo2.png", Banda B 550 Curitiba
+http://104.166.74.74:12418/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bandab.com.br/wp-content/uploads/2016/02/adesivo2.png", Banda B 650 Cambara
+http://170.75.144.242:14662/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BandNews FM Brasília
+http://evp.mm.uol.com.br:1935/bnewsfm_bsb/bnewsfm_bsb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BandNews FM Minas Gerais
+http://evp.mm.uol.com.br:1935/bnewsfm_bh/bnewsfm_bh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BandNews FM Porto Alegre 99.3
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/bnewsfm_poa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BandNews FM São Paulo
+http://evp.mm.uol.com.br:1935/bnewsfm_sp/bnewsfm_sp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BandNewsFM Curitiba
+http://evp.mm.uol.com.br:1935/bnewsfm_ctba/bnewsfm_ctba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.portalcafebrasil.com.br/wp-content/themes/xpirit/images/cafe_brasil_itunes.jpg", Café Brasil
+http://streamaudio.grupoumbrella.com.br:10181/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/9/2015/04/1020AMSP.png", Canção Nova AM - Cachoeira Paulista
+http://rdbrasilia-lh.akamaihd.net/i/rdbrasilia_1@190557/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/9/2015/04/1370AM.png", Canção Nova Curitiba
+http://rdcuritiba-lh.akamaihd.net/i/rdcuritiba_1@190572/index_1_a-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/9/2015/04/963FM.png", Canção Nova FM
+http://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cbn.globoradio.globo.com//estaticos/img/favicon/ms-icon-144x144.png", CBN Belo Horizonte
+http://mob.sgr.globo.com:9100/icbnbsb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cbn.globoradio.globo.com//estaticos/img/favicon/ms-icon-144x144.png", CBN Brasília
+http://mob.sgr.globo.com:9100/icbnbsb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d1i6vahw24eb07.cloudfront.net/s123660q.png", CBN Manaus
+http://stream.amazonsat.com.br/cbn-mao
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cbn.globoradio.globo.com//estaticos/img/favicon/ms-icon-144x144.png", CBN Recife
+http://sh2.upx.com.br:8012/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cbn.globoradio.globo.com//estaticos/img/favicon/ms-icon-144x144.png", CBN Rio de Janeiro
+http://mob.sgr.globo.com:9100/icbnrj
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cbn.globoradio.globo.com//estaticos/img/favicon/ms-icon-144x144.png", CBN São Paulo
+http://mob.sgr.globo.com:9100/icbnsp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cmais.com.br/favicon.ico", Cultura FM
+http://midiaserver.tvcultura.com.br:8003
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.e-parana.pr.gov.br/favicon.ico", E-Parana FM
+http://200.189.113.201/stream/educativafm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www2.97fm.com.br/imagens/layout/logo.png", Energia 97 FM
+http://www.97fm.com.br/aovivo/energia.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://esoterica.fm/favicon.ico", Esoterica FM New Age
+http://192.99.247.236:8080
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.fmodia.com.br/favicon.ico", FM O Dia 100.5 Rio de Janeiro
+http://sh.upx.com.br:8166/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fontefm.redefonte.com/files/2012/10/logo-Fonte-FM-2.png", Fonte FM 103.7 Goiania
+http://sceua.softhost.com.br:8130/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://gaucha.rbsdirect.com.br/icon/facebook-gaucha.jpg", Gaucha AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8?wowzasessionid=77517771
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://inconfidencia.mg.gov.br/favicon.png", Inconfidência FM
+http://wse.midiaserverbr.com:1935/inconfidenciaf/inconfidenciaf.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://images.jovempanfm.uol.com.br/Kj_T254xqBSqPSwobUwY9De49Us=/250x250/top/media.jovempanfm.uol.com.br/archives/2014/02/04/4151511297-logo-sao-paulo.png", Jovem Pan FM - São Paulo
+http://live.webradio.upx.net.br:8112/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://images.jovempanfm.uol.com.br/runKZLir1GlrxfIyQeXSyslhBOI=/250x250/top/media.jovempanfm.uol.com.br/archives/2014/02/03/3141014941-logo-recife.png", Jovem Pan FM 95.9 Recife
+http://stm28.srvstm.com:19442
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pannews.com.br/img/logo-jp-news.png", Jovem Pan News
+http://live.webradio.upx.net.br:8044/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.juazeirofm.com.br/favicon.ico", Juazeiro Fm
+http://stm2.unicast.net.br:9308/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.com.br/wp-content/themes/kiss_fm/build/image/favicon.ico", Kiss Fm-SP
+http://11254q.ls.azioncdn.net/1254q/a/kissfm2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.maisnova.com.br/application/modules/comum/assets/img/favicon.ico", Maisnova FM
+http://maisnova.link:8088/Maisnova/MNCaxias/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://metro1.com.br/app/imagens/logo-metro1.png", Metro 1
+http://audio.radiometropole.net.br:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://novo.paiquere.com.br/wp-content/themes/portalpaiquere/img/logo.jpg", Paiquere AM
+http://audioserver.paiquere.com.br:9001/aovivo
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.portal93.com.br/favicon.ico", Radio 93,5 A Original do Piaui
+http://s1.webfrequencia.com.br:8080/93fm?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://blog.cancaonova.com/america/files/2015/11/cropped-unnamed-32x32.jpg", Rádio América - Canção Nova
+http://rdamericasp-lh.akamaihd.net/i/rdamerica_1@190524/index_1_a-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiobandeirantes.band.uol.com.br/img/logo.jpg", Radio Bandeirantes
+http://streaming11.hstbr.net:8024/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://2vi0v53jm68z12i7xp24npre1aqy.wpengine.netdna-cdn.com/wp-content/themes/feal_rbn/images/logo_rede_boa_nova.png", Radio Boa Nova
+http://radio.revendabrasil.com.br:9998/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lene.com.br/favicon.ico", Radio Boa Vista 96.5 Paracatu, MG
+http://wz3.dnip.com.br/sc_boavi/sc_boavi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.redebrasilatual.com.br/radio/capa///++theme++beyondskins.rba.site/src/touch_icon.png", Rádio Brasil Atual
+http://slrp.sambavideos.sambatech.com/radio/tvtaudio_56fc38e9793ca9941f5203fab6e01263/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobsd.com.br/images/radio-bsd-logo.png", Radio BSD
+http://192.99.150.31:8383/stream;type=mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioceara.com.br/imagens/radio-ceara-logo.jpg", Radio Ceara
+http://radios.jmhost.com.br:7040
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioclubedopara.com.br/img/favicon.png", Radio Clube do Para 690 Belem
+http://ice01.kshost.com.br:8000/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiocopacabanaam.com/images/favico.png", Radio Copacabana 680 AM
+http://stream.ouveai.com.br:10720/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cmais.com.br/favicon.ico", Rádio Cultura Brasil
+http://midiaserver.tvcultura.com.br:8001
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i.imgur.com/VTs2SqP.jpg", Rádio Eldorado FM
+http://estadao2-lh.akamaihd.net/i/1_1@135260/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.estadao.com.br/estadao/novo/img/estadao.gif", Rádio Estadão 92.9 Sao Paulo
+http://estadao1-lh.akamaihd.net/i/1_1@135150/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.padrereginaldomanzotti.org.br/assets/images/favorico.ico", Radio Evangelizar
+http://evanrede.crossradio.com.br:8096
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://felizfm.fm//application/assets/img/favicon.ico", Radio Feliz FM
+http://streamfeliz.com.br:9998/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.folhape.com.br//img/content/ms-touch-icon-144x144-precomposed.png", Radio Folha PE (Recife)
+http://sh.upx.com.br/proxy/27a1?mp=/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.miliciadaimaculada.org.br/ver3/imagens/logomarca.png", Radio Imaculada Conceicao
+http://caikron.com.br:1935/ric107fm_atibaia/ric.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioliberdade.com.br/images/favicon.ico", Radio Liberdade
+http://noasrv.caster.fm:10129/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiomanchete.com.br/favicon.ico", Radio Manchete AM
+http://162.144.65.180:9996/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiomarconi.net/wp-content/uploads/2016/02/logo-radio-2.png", Radio Marconi de Urussanga
+http://173.208.235.230:9594/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s248181q.png", Radio Miséria
+http://209.126.127.123:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.mixfm.com.br/wp-content/themes/mix/assets/images/favicon.ico", Radio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radioputzgrila.com.br/site/wp-content/upload/2015/09/LOGO-QUADRADO-300X300.jpg", Radio Putzgrila
+http://stream02.ouveai.com.br:8018/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiorecordrj.com.br/images/favicon.ico", Radio Record 990 Rio de Janeiro
+http://stream.ouveai.com.br:10718/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.amorcmogi.com.br/capitulo/templates/amorcmogi/favicon.ico", Rádio Rosacruz HSL
+http://capitulomogi.ddns.net:3370/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiotabajara.pb.gov.br/site/wp-content/themes/tabajara/images/facebook.jpg", Radio Tabajara
+http://streaming11.hstbr.net:8168/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sulamericatransito.com.br/favicon.ico", Radio Transito
+http://evp.mm.uol.com.br:1935/transito_sp/transito_sp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotribuna.com.br/wp-content/uploads/2015/09/favicon.ico", Radio Tribuna FM 99.1
+http://cast.midiaip.com.br:6060/1;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ufop.br/profiles/cambridge/themes/cambridge_theme/apple-touch-icon.png", Rádio UFOP Educativa
+http://200.239.167.122:8000/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radioamantes.files.wordpress.com/2015/01/logo_radio_hi.png", Radio UFSCAR
+http://www.radio.ufscar.br:8000/radioufscar.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAACjCAMAAADciXncAAABBVBMVEX///8AAAAAte9kZGnt7fDJyckAs+/d9vzR0dEAru/V1dUAse9ra2T5//9CwvEAq+gAq+/Dw8MpuPC4uLiX4vGP4vGlpZ2srKzu+v3I7viA3fBqzPJra2v4//s3NzcKCgo9PT2a2fgAvf11dXUAjr8AHim56vapqbApKSmQkJAuwejA6/wpuuje3t5jY2OZmZlPyutLS0t60/IaGhqwt7AmJiZZWVmEhIQdHSP09PQAuu7a8/s7OztISEixsbFjY18WFhaj5vPN8/IAEiTo+/Wyx8yj6PJf0uyb2fgLCwCw4viW3fTC9ftWwvGa5OV51ebJ6/vY5+1VZXCPjogQEBo8PERu1PQ/9tvxAAAOb0lEQVR4nO2dfWPiuBHGiY8YjM9AgF3eQpJrWpqwvIU05HA22ZDSpLfOdq+9Nt//o9QGy5ZHliwJ7Jg7P3/tGkuWf5ZGMyPZyeUyZcqUKVOmTJkyZcqUKSaN5l9+tDWegOOL8fr48fkIO5Yvfrwd/xiiL6j4/Jj4bXz+W700ynO3aJEfHX28PP9xDKuvz/06S0SxIvZrUZSCqEoHG43B8bx7/MJrwaL5wwFVc/ck6gn/uxzleFSczP9LqX6CHbglCo6xX4/kWPALUTsGxxG1E/RUi8d0Zj50xilndY7W3F7Qq29iB06JotdppHZ0w4LGQ+3g4LeItiwm15SS6+o/4kfgIzjEf0wLtdIJkwcftYOP7LbQezNJDbb3PI3ULtk4OKmdkkYc04RekKR2tgiUHd2nkNoioqtxUjs4X+SoOgwMz58vMD2ujX+A2nWQTP00hdTqPp7miHHniNqZP2EuSpP5Iyp9QfcJFv4Yu7oM7ZMBamAWvQ38lhJqXqNuWchyYdRyjpX3esIDvSHeOU2KbxekFrhE/iqN1OahNEJEOc+z85fUkh4T6G/DMx7dnntI3sX1TaqoIbPGsktrUaihqxzMqTECejBz6iVcavdzkq47uq+uUkUN+Z6kSw5E65OI2j2VGjqDPoZdavPmpjUnPt7F5pfTyTxV1Lbta57nTqVGxCKkXGpXI4KNO1ndjNLV19DwuYoKwinUFqgnndEqQO34Qn8uLrXPI9d59ENnNEDz96mi5nkF5xHYKNS8EHJMg1JEF6DX/RG1aLT5xymqa+HCmuTPUkXN99fmkyamh4f6YQBQODXfMaAaxiNU/0MzROv50qOWewzCOXSnztHoc6qo5T0/Ferx5v4ca2QoNWSIDhi2/oF2gbXwiMr2lG+Dj8AdsfPcKF19LSIOvfJMuHvgYlJ/cDW5PfNPpPt7QtTcRt9vakMxaD111ILRMaET5HIyz2JZrSazHE7tpJhbfEGcHLmD+/MoNzpJF7VciZ1fQ84TG9ojPbT4Kze160PvnxtHyB2vxwuvkamhlhsFQz0o12CxqTGyufzUTm0mRz9vGufM6Iv/bY7bsULp57RRc1L647PwBPWBt3DAuvXPrBS4R+2U1C+b1mHU8pij6/osF6V0UrMf6+iwjumheewlKk42g48Bjb1yhKgdH4Wovm4ERg3NTo6dPPcfWwm4JLFJiBqhxSGaIN0sIQ3ZzW2RHYwhavSkiJcVca7kOroHdhPc7j/BbiYxatBp56Pmz32nzfV/PUgTX83Dw+jVUEFqOdfKNnNHbnd3+jrK0cVODT00GGEiX/0qIqPmJRM3iRv3P5F5OEIC1Nbm0V1kGKOxeoI3JnZqKK6+OAweR24tPSG20QhFDYG+Fiu19ZXcMXJWGmMPLbER6lmiZvAwCoKOI3JDiNpjHa8tfmqLTQNvjjdmbeMJogESPzWUOgvmUL0FI8ZdrIWW44KzQfzUQDCxebhoKTl+al4SCF8ZR/7QwSl7m8FigqBfBDyPBKiVAq7j5lhy1IreleeeaWt6AfeF2wOLx+ekjsd+YB70chOglse3w9xsOCU3QhfY1U/PLyeTyy9Yc1Ayhp2SOIARVQLUAkv1rnlBacD4qeWOqFESNoP+LQLadTB6j5Waewq+Vu8eSq6v+dcideG5uFHUkPlLghpaycaSV2jjU4LUqMkzbEWKTe3Ga2aS1Hyrce+ekeAItZW/xPKtSHN8mZZF7ebY95CToIYeprfw5S0oI1OXDDW7uzXxKcmZF44CQQE11Xo9bpYwT889ehERvZJCF2CsUyMmnuPtPWp0NRTQJEXN1qI4uR2P5/PxD7fkvqF8PVSlPDix/rBOIdWjVpsJjR42NTI66cjNT3kZp5LbiiN4Bv/W6UyZMu2FjJYvw3jv1qRfvUK7/9WadbvljbrdN8vqtwstagnDeCpEa9XrcbagxVEbXbuhIKTV66xbrqmaoqo6kuqoVv42a6wopfplHjn4lzw3ZdW46guXmfDAMIz2i2kDo0nT9EG/RTbKyPV1aiFM9oOoaspgVoi6r5cqT3W0ViZL7c4a6poa0STdnLVhs2xqEcVwdFpFLVv00e5otg01PUlqBaum8/QYXTVnd8GiQtTWdWjTPuve9oba0yCqm3lS9VonUJZ3hAbqsBg3tyfUjE5F5L716gtu1IX7muIM1Bf63e0HNaNREbxtrdzGiktQU9TKB+rt7Qe1hip81/rwySsuRU1RlT6tPXtBbSkOze5tpodNjpqiDmm+2z5QK5gUm7b2cKmt0wbopiWpKdqS0qLOHlALfbJVzfZDTHONTquGer76zKuCOYdS3WZtQAmx3qqOS82jd6MW0k9UdfjSeC3Ycbsd1t0tO29DJdQvefbqMGtM6Vpop61QLJulsKsL6F2o9WbEA1PfnoHv3nttfCNDLc10x6hh9Ay6bPT9xuybQvbH6oxsz6bCkLgt/MTVC2iW/iKNQkCFIegF6rAfFu+0+lMCW7WT432wRqE/JMu/bd38JXgW6oAdrO1IbQWOHZpDQLrCanklMBzaZYitOti29U9D2IOp7sxO1QCX1RqU/mMfXcLOorHiIkIt2K0Vk5Z64q0RTv/av7arkFdv4Lo6IwHW+w5PLguNBwt2Nt/nk1LvewW0Z5qM22GAYaMxB80KnK2qQplTwjOs3UUXYgiOE324XX3cagHDUP3OPL0PfDv9g8jFjPJOqbVrwRGv1rbruvyCj7/aYZ5ugLlDG4pczOgCauY21FrwGWidpAJ3QWo54H6oLDNIyOgCw7bVbADz5Nq0xe0IbSmCWoST+Ak83+oz+/yAYF/TylvcJfTUdCW51Sk4d2tl9vkEZRFHdbVNYaC+ArVMqqcZuR64ET1i0LSm4HyR7vIKrGKUOWBoBSMVfWYkRc0WNKk6e8gZXeCplgXGBbzTivyc9wJnAmqyLhZBA60M26zTjRmgJuCoWtBtmUq3eklkt16l65KRBaMcfcgM5X6CwT4TMqaWZcI7lY4Z20QkZclWJadfyfR3bbZ86tFkgZNVrltfta0yvI7WlU1PEJ6aOk0k0+GrQNyNs+ymDAeYhphgh9G9NLax7NA0HepkFq/G20uhjDdQmSpiXHcigxiiYvLHRmtQpUkjM5KqJj0+LbAOqaoiTuNu1CZyyJLUjKkAf1WX9jraMCusf+fd4rVDvW2zIiRLTevI3mkBXkYwXbUj9WqiuzS2pqYqDVloLWjU8PXsJNUmcqxxU1PkDVEDTivvYNQ2Wpr0rX6R1Dz7xE1NNeXz1E9wmaM6fQejttGKfx/WDqjZAYWsVSvAFRvqSnQSWs1qktykRqheeZPysIiFC7WWzJpUqIxc725mhm4AiIWa00dkAsevRPgntEgWg4yWNTB1YXL6V6+Cqchc7C3cC+gJemrV6ZZLgztR73U565bLtdqQtqvCJJ62N0SMqabSFLLNw9mTJNZRCnD1XjVXCebUmOq1CndtumCmSP+EChrPP4Xpnz9Zs7eySQZV+kzMOzVm0KgptK1cqRMMW/XIGNzZINO6a5hwulEFE/3E5kT9e0o6WqS2yEou4ejWhLb/3MFRriedHpIXsaTJGQQ6L7D1gYeqiizskTm1hNO326g1AGtaXYHCHTgFNriLGnA/ilJJOH27jQpwmYm2cS9MxPYI/pW9ZyITLL/okLws2F1EhgnsMPyryHBNUNEHafDUeAV6i6qIhIFE3pjXsPWIzX0J7e7bjQpwb4XYbsevkrtjiL3DW6w/Jy9inUPht+eOYBzJuSxI7BYUfFjvLPhegaCjSoxQPmpwn5qim7LLW+8hOAc665Ai7jnh7Ck8d08aNT9jsAdaDeBI0cVsMrH5mKuvEXsqtL2JpOyO0iahdcWaD3OKCke2yFhW4FWTeaWAQ+FvpeBnFCzyJbXqMqKCYC19Il9Ui77/NlxBU7l3lsQrjo1fq07I8p/YTLYi30KN2mKYCwk/FVVs2o5N+GdioAqFu7tP1iD8xTv/oTNqWNdy96tFZIr8iOqtO0XqBrMBBvEakvqWkvHZ7lLlfFVE1bXQlRhvxcBg1WDrW7lc08M+4FBxlzLNKvbyYsDUPRNGLalXCiL1qapTU9eOwrrZZsv1Rs43Fljl11+fCalBH7rhGL4cG9hU3iYS7rSXI5MX3NfNpeqLF4FKfJliLa+zDinUCoSnlvTuPoZkqOE5B8k3uHVvKy2FWg/mjRV9+h7fbgqXBDUNb74sNa/fUKgRWzqUd9oIEypxaloHn8jkqGkzz98Jp9YmKtXeayNMmASpqUo5uKImRU337WI4NWJLh6Jt/+ryDiVETdVMCxgXGWpaB0tIhlIjcmr6ID1GLSdETasqpEEWp6Ypgc/thFF7Jv3qdERSSHzUnF0H5vQ55HmLUbPdt9osWEsINdKX0VISSSFFUlsHB2bZeQ0hrLyAv6ZquvnNgp2GpLYiwk9d+u2EmNSn7nivrj8ho5iDqdW+oyYgbWpaJVLrD9CYU+uOvHuCWmtaBaU1sXfFE1DhQ4OmD8v+61P0Q141PkRr2X+ifMiCpGbZ5wcbki6jlgbRIqqA9id/62i3rQ2tjYjew87aL2oJiJrz+B1okY9JCzwKUP8d12UktD200fkP8Wj85c9/8qFV/hPTZcQ1hn+hUkIlxh8B2lIBan+P7TLi2gG1k+irSCpA7S+xXUZcGTUZZdRklFGTUUZNRhk1GWXUZJRRk1FGTUYZNRll1GSUUZNRRk1GGTUZZdRklFGTUUZNRjugllAu93dG7SaWhp2e/vJ7zoAvSsU4VLKFb7/V/3GYGhWjqbyj8FeN9JRtgkmvuHYsZALCXqYX+kL2H1v+J9nVlG2ITLW89+H1WdbVuIVeUtZrmVUTkPtugcDHZDLl3H3yHO+LZsK1fntW+svgf1h91fB3hDLxqfVN3/Jvev0h1Vf35nuHKZLx9R2/F5wpFv0fhfTgOKeKbO0AAAAASUVORK5CYII=", Radio USP
+http://200.144.185.21:8007/radiousp-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vidafm.com.br/wp-content/uploads/2015/08/logo-radio-vida-fm.png", Rádio Vida 96.5 Sao Paulo
+http://ice1.crossradio.com.br:8008/live.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiovox.org/wp-content/uploads/2015/05/logo_rvox.jpg", Radiovox
+http://icecast-01.radiovox.org:8000/phone.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rockfmrio.com/wp-content/uploads/fbrfg/favicon.ico", Rock FM Rio
+http://9.fm5.com.br:8484/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.saudadefm.com.br/images/logo-saudade-disco.png", Saudade FM
+http://audio.saudadefm.com.br:8000/saudadefm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://soflashback.net/wp-content/uploads/2016/12/soflash.png", So FlashBack
+http://stm41.srvstm.com:12648/;?_=0.32941553234467225
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.boavontade.com/sites/default/files/logotipo.png", Super Rede Boa Vontade 1230 Sao Paulo
+http://ice11.crossradio.com.br:8058/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.radios.com.br/radio/xl/radio14768_1439401464.jpg", Tempo FM 101.5
+http://www.radiotempofm.com.br:8005/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://paineladm.com/arquivos/2748/favicon.ico", Vale Fm 99.9
+http://llsiteseaplicativos.com.br:9998/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioretro.com.br/favicon.ico", Webradio Retro
+http://70.87.43.38:8000

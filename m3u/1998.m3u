@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiolaprimerisima.com/static/imagenes/logo.png", Radio La Primerísima
+http://ares.hostingnica.info:90/hlive/primerisima.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pirata.biz//pirata.ico", Radio Pirata Online  Managua
+http://managua.mooo.com/m128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.lasandino.com.ni/favicon.ico", Radio Sandino (MP3)
+http://165.98.68.45:8000/lasandino.mp3

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dmc.tv//images/icons/favicon.ico", DMC TV
+http://dmc072.net:443
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://listenmetro.com/images/bg.png", Metro Radio 90.5 Khon Kaen
+http://radio4.thzhost.com:4114/;

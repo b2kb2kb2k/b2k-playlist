@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ars.rtvslo.si/wp-content/themes/ars-child/img/logo@2x.png", ARS - 3. program Radia Slovenija
+http://mp3.rtvslo.si/ars
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiocity.si//favicon.ico", Radio City
+http://82.149.22.34:8000/CityMp364mono.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiosi.eu/fileadmin/ico/favicon.ico", Radio Si
+http://mp3.rtvslo.si/rsi
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiostudent.si/sites/all/themes/eresh/logo.png", Radio Študent
+http://kruljo.radiostudent.si:8000/hiq.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radioterminal.si/wordpress/wp-content/themes/RT/slike/glava/RT_logo_small.png", Radio Terminal
+http://radioterminal.si/wordpress/wp-content/themes/RT/players/radioterminal.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotriglav.si/favicon.ico", Radio Triglav
+http://live.radiotriglav.si/Triglav
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://veseljak.si/img/logo.png", Radio Veseljak
+http://195.95.158.131:9060/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/dc/Rai_Furlanija_Julijska_krajina_logo.png", Rai Furlanija Julijska krajina
+http://b2.httpstream2.rai.it/gr_sloveno.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rockmaribor.si/Img/favicon.ico", Rock Maribor
+http://live.rockmaribor.si/RockMB
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rockradio.si//Public/assets/dist/1451633371026/img/150_center.png", Rock Radio
+http://stream.rockradio.si:9034/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://val202.rtvslo.si/favicon.ico", Val 202
+http://mp3.rtvslo.si/val202

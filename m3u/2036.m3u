@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiomunansi.com/wp-content/themes/soundwave/images/favicon.ico", Munansi
+http://s1.phx.icastcenter.com/tunein/musenze.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiosimba.ug/wp-content/uploads/2014/08/favicon.ico", Simba
+http://www.simba.fm:8000/stream

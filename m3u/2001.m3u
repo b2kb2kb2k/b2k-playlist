@@ -1,0 +1,115 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.1fm.no/img/logo.gif", 1FM Molde
+http://5.153.107.45:2016/high.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.glr.no/apple-touch-icon.png", Guodageainnu Lagašradio
+http://62.63.40.146:8000/listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://cdn.webrad.io/images/logos/nettradionorge-com/jazzabit-oslo.png", Jazzabit
+http://www.nettradionorge.com/jazzabit-oslo/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Nrk_alltid_nyheter_radio.jpg", NRK Alltid Nyheter
+http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Nrk_alltid_nyheter_radio.jpg", NRK Alltid Nyheter
+http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.net/images/broadcasts/93/80/13075/c175.png", NRK Folkemusikk
+http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.net/images/broadcasts/93/80/13075/c175.png", NRK Folkemusikk
+http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/radio-kanaler/nrk-radio-jazz.png", NRK Jazz
+http://lyd.nrk.no/nrk_radio_jazz_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/radio-kanaler/nrk-radio-jazz.png", NRK Jazz
+http://lyd.nrk.no/nrk_radio_jazz_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/Nr8a4pN7rZ.jpg", NRK Klassisk
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/Nr8a4pN7rZ.jpg", NRK Klassisk
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/radio-kanaler/nrk-radio-mp3.png", NRK mP3
+http://lyd.nrk.no/nrk_radio_mp3_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/radio-kanaler/nrk-radio-mp3.png", NRK mP3
+http://lyd.nrk.no/nrk_radio_mp3_aac_h
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/radio-kanaler/nrk-radio-mp3.png", NRK mP3
+http://lyd.nrk.no/nrk_radio_mp3_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Buskerud
+http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Finnmark
+http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Hedmark og Oppland
+http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Hordaland
+http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Møre og Romsdal
+http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Nordland
+http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Rogaland
+http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Sogn og Fjordane
+http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Sørlandet
+http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Telemark
+http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Troms
+http://lyd.nrk.no/nrk_radio_p1_troms_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Trøndelag
+http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Vestfold
+http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Østfold
+http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/378800000579612640/49f120fc2a657fc445cafd5a5a8408c8_400x400.png", NRK P1 Østlandssendingen
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://store-images.s-microsoft.com/image/apps.63085.9007199266530500.f41f0c9b-99bf-460d-b7f2-9ea5c3ee1920.bf886ab4-63e0-4b27-a67b-124d4f9cb869?w=180&amp;h=180&amp;q=60", NRK P1+
+http://lyd.nrk.no/nrk_radio_p1pluss_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://store-images.s-microsoft.com/image/apps.63085.9007199266530500.f41f0c9b-99bf-460d-b7f2-9ea5c3ee1920.bf886ab4-63e0-4b27-a67b-124d4f9cb869?w=180&amp;h=180&amp;q=60", NRK P1+
+http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/79/NRK_P13_logo.svg/revision/latest?cb=20140718224324", NRK P13
+http://lyd.nrk.no/nrk_radio_p13_mp3_l
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/79/NRK_P13_logo.svg/revision/latest?cb=20140718224324", NRK P13
+http://lyd.nrk.no/nrk_radio_p13_mp3_h
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NRK_P2_Logo.svg/300px-NRK_P2_Logo.svg.png", NRK P2
+http://lyd.nrk.no/nrk_radio_p2_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NRK_P2_Logo.svg/300px-NRK_P2_Logo.svg.png", NRK P2
+http://lyd.nrk.no/nrk_radio_p2_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://p3.no/wp-content/uploads/2014/03/NRKP3_rgb.png", NRK P3
+http://lyd.nrk.no/nrk_radio_p3_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://p3.no/wp-content/uploads/2014/03/NRKP3_rgb.png", NRK P3
+http://lyd.nrk.no/nrk_radio_p3_mp3_l.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/1/15701.png", NRK P3 National rap show
+http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/bkegMqQ24f.png", NRK P3 Radioresepsjonen
+http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ballade.no/wp-content/uploads/2014/06/477_506.jpg", NRK P3 Urørt
+http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.net/images/broadcasts/03/7c/13104/c175.png", NRK Sápmi Radio
+http://lyd.nrk.no/nrk_radio_sami_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.aktivioslo.no/wp-content/uploads/2015/12/superlogo_turkis_stor.png", NRK Super
+http://lyd.nrk.no/nrk_radio_super_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p4.no/_site/assets/p4.no/share-logo.png", P4 Bandit
+http://stream.p4.no/bandit_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p4.no/_site/assets/p4.no/share-logo.png", P4 Hits
+http://stream.p4.no/p5nonstophits_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p4.no/_site/assets/p4.no/share-logo.png", P4 Lyden av Norge
+http://stream.p4.no/p4_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bergen.p5.no/_site/assets/bergen.p5.no/share-logo.png", P5 Bergen
+http://stream.p4.no/p5bergen_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://oslo.p5.no/_site/assets/oslo.p5.no/share-logo.png", P5 Oslo
+http://stream.p4.no/p5oslo_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://stavanger.p5.no/_site/assets/stavanger.p5.no/share-logo.png", P5 Stavanger
+http://stream.p4.no/p5stavanger_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://trondheim.p5.no/_site/assets/trondheim.p5.no/share-logo.png", P5 Trondheim
+http://stream.p4.no/p5trondheim_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p6.no/_site/assets/p6.no/logo.png", P6 Rock
+http://stream.p4.no/p6_aac_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p7klem.no/_site/assets/p7klem.no/share-logo.png", P7 Klem
+http://stream.p4.no/p7_aac_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.p9retro.no/_site/assets/p9retro.no/share-logo.png", P9 RadioRetro
+http://stream.p4.no/p9_mp3_mq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiorevolt.no/ecb8e4d51f84fb5cc73c8f863edcd16c.png", Radio 102
+http://downstream.radio.raw.no:8000/radio102.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://cdn.radioplay.se/img/f0bca77d3e645fdf167f69da801066b2.png", Radio Norge
+http://tx-bauerno.sharp-stream.com/http_live.php?i=radionorge_no_aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiorevolt.no//favicons/apple-touch-icon.png", Radio Revolt - Studentradioen i Trondheim
+http://streamer.radiorevolt.no:8000/revolt
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiorox.no/imda/logo/600x600_Rox.png", Radio Rox
+http://stream.radiorox.no:8040/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotromso.no/favicon.ico", Radio Tromsø
+http://wms.yourstation.com:8000/RadioTromso;

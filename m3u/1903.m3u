@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/10408863_592779280821595_5560446145275342578_n.jpg?oh=ed652f61037f9f25efd406e5abb5e88d&amp;oe=592B2329", Alger chaine 3 (64kbps)
+http://ch3.ice.infomaniak.ch/ch3-64.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio-dzair.com/", Dzair
+http://radio-dzair.net:8006
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioalgerie.dz/news/sites/default/files/logo_trans.ico", Radio Algérienne Chaine 1
+http://ch1.ice.infomaniak.ch/ch1-64.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioalgerie.dz/news/sites/default/files/logo_trans.ico", Radio Tlemcen
+http://tlemcen.ice.infomaniak.ch/13.aac

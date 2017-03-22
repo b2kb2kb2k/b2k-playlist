@@ -1,0 +1,51 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.baarsclassicrock.nl/wp-content/uploads/2017/02/logo-BCR-150x150.jpg", Baars classic Rock
+http://server-66.stream-server.nl:8840/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://crucialvelocity.ca/favicon.ico", Blown Radio - Stratford, ON
+http://hestia2.cdnstream.com/1370_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://darkradio.de/templates/img/header.jpg", Darkradio
+http://5.135.179.205:9955
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/320.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12745834_658025441007428_514028682708347967_n.png.jpg?oh=7485205b788cffb5811c1ad9d16b5342&amp;oe=596BC990", Fresh Rock
+http://stream.freshrock.net/24.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.fuelradio.fm/favicon.ico", Fuel Radio - Hard Christian Music Radio
+http://fuelradio.serverhostingcenter.com:7859/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://grubradio.com/wp-content/uploads/2015/02/favicon.png", Grub Radio
+http://knight.wavestreamer.com:7315
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/90/27592/1/c175.png", Hard &amp; Heavy Metal Hits Radio
+http://streaming.radionomy.com/Hard-HeavyMetalHits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.obozrevatel.com/img/logo/myradio_oboz-3.png", Hard Rock, Radio Obozrevatel
+http://relay.myradio.ua/HardRock192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imagineradio.ru/sites/default/files/imagine-radio-new-logo.png", IMAGINE ROCK RADIO AAC:128
+http://broad1.imagineradio.ru:8000/full_stream128.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imagineradio.ru/sites/default/files/imagine-radio-new-logo.png", IMAGINE ROCK RADIO LIGHT MP3:320
+http://broad1.imagineradio.ru:8000/light_stream256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imagineradio.ru/sites/default/files/imagine-radio-new-logo.png", IMAGINE ROCK RADIO MP3:320
+http://broad1.imagineradio.ru:8000/full_stream256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://mcluhan.unk.edu/klpr/images/klprbanner.png", KLPR 91.1 University of Nebraska at Kearney
+https://mcluhan.unk.edu/klpr/klpr.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://melodicradio.eu/favicon.ico", Melodic Radio
+http://melodicradio.eu/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png", Mercy Rádió - Rock Magyar Rádió
+http://stream.mercyradio.eu/rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/46301_10151136901223649_2110866272_n.jpg?oh=966e59968672649f77105661ea1fd459&amp;oe=592D7559", Radio BOB!
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayerbob
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-acdc/600x600_ACDC.png", RADIO BOB! BOBs AC/DC Collection
+http://streams.radiobob.de/bob-acdc/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-hartesaite/600x600_Harte-Saite.png", RADIO BOB! BOBs Harte Saite
+http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-1/p200x200/15894338_1247156595339446_2029064199149753667_n.jpg?oh=0c370187ba8b7900d08a331ed98b9c6b&amp;oe=5920E355", Rádió Rock 95.8
+http://92.61.114.191:13150/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rockovarepublika.sk/wp-content/uploads/2016/04/favicon.ico", Rádio Rocková republika
+http://217.67.31.66:8000/republika128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rockradio1.com/favicon.ico", RockRadio1
+http://192.99.147.61:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotangra.com/img/logo_tangra.png", Tangra
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.thetaint.ca//favicon.ico", The Taint
+http://s1.nexuscast.com/tunein.php/jasonroy/playlist.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.predavatel.com/bg/1/zrock/zrock1.gif", Z-Rock
+http://46.10.150.243/z-rock.mp3

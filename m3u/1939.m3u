@@ -1,0 +1,107 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.dfm.ee/favicon.ico", D FM
+http://striiming.trio.ee/dfm.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-1/c17.0.172.172/s50x50/196948_187908781251482_5800290_n.jpg?oh=9358d87546d1c00e276d7d4ccbd312d4&amp;oe=5928B177", Elmar
+http://striiming.trio.ee:8008/elmar.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energyfm.ee/img/head_logo.png", Energy FM
+http://194.106.119.241:8500/energyfm_hi.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://r2.err.ee//Content/favicon/favikon-raadio2.png", ERR Raadio 2
+http://icecast.err.ee:80/raadio2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://r4.err.ee//Content/favicon/uudised.jpg", ERR Raadio 4
+http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://generaadio.ee/wp-content/themes/generaadio/favicon.png", Generaadio FM
+http://stream.generaadio.ee:8000/airtime_128?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.happyu.ee/wp-content/themes/happyu/favicon.ico", Happy U
+http://www.happyu.ee/streaming/happyu.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hitfm.ee/favicon.ico", HitFM
+http://stream.hitfm.ee/hitfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://s.err.ee/www/images/live/favicon.ico?190", Klassikaraadio
+http://klassikaraadio.err.ee/gfx/klassikaraadio128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kuma.fm/fileadmin/templates/radio/images/kumafmlogo.gif", Kuma FM 101.0
+http://5.39.16.62:8004/tre
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://narodnoeradio.ee/wp-content/themes/Narodno-Radio/i/apple-touch-icon.png", Narodnoe Radio
+http://stream.generaadio.ee:8000/airtime_128?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Eesti loodus
+http://www.netiraadio.ee:8000/eestiloodus
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Folk
+http://www.netiraadio.ee:8000/folgisobrad
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Jaak Joala
+http://www.netiraadio.ee:8000/jaakjoala
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Jazz
+http://www.netiraadio.ee:8000/jazzivarvid
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Jõulud
+http://www.netiraadio.ee:8000/joulud
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Klassika
+http://www.netiraadio.ee:8000/klassika
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Klubi Biit
+http://www.netiraadio.ee:8000/klubibiit
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Kullafond
+http://www.netiraadio.ee:8000/kuldsedajad
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Pop
+http://www.netiraadio.ee:8000/lahepop
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Puhas traat
+http://www.netiraadio.ee:8000/puhastraat
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Retro
+http://www.netiraadio.ee:8000/retro
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Sinu Hetked
+http://www.netiraadio.ee:8000/sinuhetked
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Teistsugune
+http://www.netiraadio.ee:8000/teistsugune
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.netiraadio.ee/g/netiraadio_apple_touch.png", Netiraadio - Tumedad lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nommeraadio.ee/images/favicon.ico", Nõmmeraadio
+http://149.210.165.176:8000/nommeraadio?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nrj.ee/favicon.ico", NRJ DnB
+http://nrj.babahhcdn.com/NRJdnb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nrj.ee/favicon.ico", NRJ FM Estonia
+http://nrj.babahhcdn.com/NRJ
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nrj.ee/favicon.ico", NRJ House
+http://nrj.babahhcdn.com/NRJhouse
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.paikeseraadio.ee//favicon.ico", Päikeseraadio
+http://icecast.mmm.elion.ee:8080/paikeseraadio?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://power.tv3.ee/ui/images/og-image/power2016.png", Powerhit Radio
+http://stream.power.ee/PHR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://raadio7.ee/wp-content/themes/raadio7/images/raadio7-logo-varv.png", Raadio 7
+http://icecast.mmm.elion.ee:8080/Raadio7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kadi.ee/wp-content/themes/raadio/img/logo2.png", Raadio Kadi
+http://icecast.mmm.elion.ee:8080/Kadi.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kuku.ee/img/logo_kuku.jpg", Raadio Kuku
+http://striiming.trio.ee:8008/kuku.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.martafm.ee/pics/marta_logo.gif", Raadio Marta
+http://icecast.mmm.elion.ee:8080/MartaFM.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://raadiotallinn.err.ee/gfx/rtlogo.jpg", Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://raadio.tre.ee/favicon.ico", Raadio Tre.ee
+http://sc1.treraadio.ee:8002/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mania.ee/templates/mania/images/logo.jpg", Radio Mania
+http://icecast.linxtelecom.com:8000/mania.mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.retrofm.ee//favicon.ico", Retro FM
+http://retro.babahhcdn.com/RETRO?/retrofm_hi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.ringfm.ee/images/logo.png", Ring FM
+http://stream.ringfm.ee/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://skyplus.fm//sites/all/themes/skyplus/img/header_icons/apple-touch-icon-57x57.png", Sky Plus
+http://skyplus.babahhcdn.com/SKYPLUS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sky-radio.fm/i/sky-radio.gif", Sky Radio
+http://sky.babahhcdn.com/SKY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sky-radio.fm/i/sky-radio.png", Sky Radio
+http://sky.babahhcdn.com/SKY?/skyradio_low.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://sooviraadio.net/favicon.ico", Sooviraadio
+http://media.uunox.net:8888/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.spinfm.ee///apple-touch-icon.png", Spin FM
+http://striiming.trio.ee:8008/myhits.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://starfm.tv3.ee/ui/images/og-image/star_fm_2014.png", Star FM
+http://starfm.babahhcdn.com:8000/starfm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s15.postimg.org/lj52yy6jf/Tag91.png", Tag 911
+http://19643.live.streamtheworld.com:80/TAG911AEAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.pereraadio.ee/uus/images/banners/top3/sagedus2.jpg", Tartu Pereraadio
+http://bee.pereraadio.ee:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vikerraadio.err.ee//Content/favicon/uudised.jpg", Vikerraadio
+http://vikerraadio.err.ee/gfx/vikersport128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://volna.tv3.ee/ui/images/og-image/default.png", Volna Radio
+http://volna.babahhcdn.com:8100/volna
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.xltrax.ee/wp-content/uploads/2014/04/favicon-144.png", XLTRAX Estonia
+http://174.142.215.249:8300/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://s11.postimg.org/n9c95lv37/YES.png", YES FM
+http://37.59.28.208:8500/rrrrrr;

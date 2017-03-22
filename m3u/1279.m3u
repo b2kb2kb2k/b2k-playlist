@@ -1,0 +1,51 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/4/1/5/7/4157832/4157832_local_online_badge_1285164021,192x192,r:1.jpg", CFMH &quot;Local 107.3&quot; Saint John, NB
+http://cfmh-listen.unbsj.ca:8000/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.citr.ca/citr.ico", CITR 101.9 University of British Columbia, Vancouver, BC
+http://live.citr.ca:8000/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.csrfm.com//wp-content/uploads/fbrfg/mstile-144x144.png", CSR FM 97.4 Canterbury
+http://stream.csrfm.com/stream?.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioct.de//favicon.ico", CT das radio
+http://live.radioct.de:8008/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.junction11radio.co.uk/wp-content/themes/J11_Theme/images/favicon.ico", Junction 11 Radio - University of Reading
+http://stream.junction11radio.co.uk:8080/j11_stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.106fm.co.il/images/css/Logo106fm.png", Kol Ha Campus 106.0 FM
+http://106fm.livecdn.biz:7075/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://krui.fm/wordpress/wp-content/uploads/2016/09/krui-og.png", KRUI Radio 89.7 Iowa City, IA
+http://krui.student-services.uiowa.edu:8000/listen
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ktuh.org/wp-content/uploads/2016/01/ktuh-logo.jpg", KTUH 90.1 Honolulu, HI
+http://stream.ktuh.org:8000/stream-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://as.wwu.edu/static/images/favicon.ico", KUGS 89.3 Western Washington University - Bellingham, WA
+http://peridot.streamguys.com:7170/kugs-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.naba.lv///fileadmin/user_upload/radionaba/ikonas/favicon.ico", Radio NABA
+http://nabamp0.latvijasradio.lv:8016
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://radiorevolt.no//favicons/apple-touch-icon.png", Radio Revolt - Studentradioen i Trondheim
+http://streamer.radiorevolt.no:8000/revolt
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiostudent.si/sites/all/themes/eresh/logo.png", Radio Študent
+http://kruljo.radiostudent.si:8000/hiq.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/d4/03/4866/c175.png", Rádio Universidade de Coimbra
+http://ruc1.cidadedecoimbra.com:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81805q.png", Rádio Universitária do Algarve
+http://centova.radio.com.pt:9536/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiox.sk/wp-content/uploads/2017/02/Radio-X-logo_red-center.png", Rádio X
+http://158.193.82.41:8000/radiox_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiokrs.com/media/1090/399329_395611833854365_1221343563_n.jpg", Studentski Radio KRŠ
+http://radioservis.me:8030/live?type=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/779229018235088897/g84uWRUe.jpg", SYN 90.7
+http://128.199.77.168:8000/stream907
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/779228863020736514/8AXQPBFA.jpg", SYN Nation
+http://128.199.77.168:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16496q.png", Universidade FM
+http://centova.radio.com.pt:8405/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.brookdalestudentradio.com/favicon.ico", WBJB-HD3 &quot;Brookdale Student Radio&quot; Lincroft, NJ
+http://wbjb.net:8192/8192
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://wiux.org/favicon.ico", WIUX-LP 99.1 Indiana University - Bloomington, IN
+http://hannibal.ucs.indiana.edu:8080/wiuxultra
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wmts.org/wp-content/uploads/2016/12/WMTS_Logo-3.png", WMTS 88.3 Middle Tennessee State University - Murfreesboro, TN
+http://s1.myradiostream.com/12824/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i1.wp.com/www.wrbbradio.org/wp-content/uploads/2016/02/cropped-WRBB_LOGO_Vector.png?fit=512%2C512", WRBB 104.9 FM Boston, MA
+http://129.10.161.202:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://beaconradio.us/beaconimages/The%20Beacon%20logoNew.jpg", WUMB UMass Student Beacon Radio - Boston, MA
+http://www.wumb.org/listenlive/links/wumbho2.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://wznd.com/wp-content/uploads/2015/03/favicon.ico", WZND-LP 103.3 Illinois State University, Bloomington, IL
+http://wgltradio.ilstu.edu:8000/wzndmain.mp3

@@ -1,0 +1,157 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://977music.com/images/logo.gif", .977 90s
+http://www.977music.com/itunes/90s.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://977music.com/images/logo.gif", .977 The Mix Channel
+http://www.977music.com/itunes/mix.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.104.6rtl.com/sites/radiocore1.radiocenterberlin.de/files/styles/large/public/ct/article/field_images/2017/01/02/neu_90er.jpg", 104.6 RTL Das Beste der 90er
+http://stream.104.6rtl.com/rtl-90er/mp3-128/radio-browser.info/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", 70s-90s J-pop Stream
+http://198.178.123.14:7002
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/17/2a/17105/c175.png", 94,3 rs2 90&#039;s
+http://stream.rs2.de/rs2-90er/mp3-128/internetradio/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://player.absoluteradio.co.uk/img/theme/a9/logo.png", Absolute Radio 90s
+http://icy-e-bab-06-cr.sharp-stream.com/absolute90s.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antenazagreb.hr/favicon.ico", ANTENA 90s - Zagreb
+http://173.192.137.34:8064/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen 90er
+http://stream.antenne.com/antenne-nds-90er/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen Deutsch
+http://stream.antenne.com/deutsch/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.antennethueringen.de/_fileadmin/img/logo-ohne.svg?m=1473243593", Antenne Thüringen - Livestream
+http://www.antennethueringen.de/m3u/antennethueringen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.baden.fm/favicon.ico", baden.fm
+http://stream.baden.fm:8006/badenfm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/12189116_1069534549744052_6652104569168661909_n.jpg?oh=6a93124568b839eaab973d4f0dcf8830&amp;oe=593ED4A4", Callisto Radio
+http://ns.newfruits.org:8086/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://955hitsfm.ca/themes/site_themes/site/img/hits-thumbnail.jpg", CJOJ 95.5 &quot;Hits FM&quot; Belleville, ON
+http://provisioning.streamtheworld.com/pls/CLASSICHITSAAC.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/109/home_screen_logo-54034ba8325e4.png", CJOT &quot;Boom 99.7&quot; Ottawa, ON
+http://live.leanstream.co/CJOTFM-MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/48/fbShare.png?r=8607", CJSS &quot;Boom 101.9&quot; Cornwall, ON
+http://live.leanstream.co/CJSSFM-MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mycowichanvalleynow.com/wp-content/themes/presso-child/vista/_img/station/CJSU.png", CJSU 89.7 &quot;Juice FM&quot; Duncan, BC
+http://s1.hotdogradio.com/CJSU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.975river.com/wp-content/uploads/sites/15/2015/08/site-logo-ckrv.png", CKRV &quot;97.5 The River&quot; Kamloops, BC
+http://ice5.securenetsystems.net/CKRV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.mix965.ca/assets/img/nologo.jpg", CKUL &quot;Mix 96.5&quot; Halifax, NS
+http://newcap.leanstream.co/CKULFM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://marpimagecache.s3.amazonaws.com/image/28_300x170_2015-07-08-08-59-50-137.png", Classic 21 - 90&#039;s
+http://statslive.infomaniak.ch/playlist/wr-classic21-90/wr-classic21-90-128.mp3/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.classix.ie/images/favicon.ico", Classix.ie
+http://stream.classix.ie:81/live/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.coles.com.au/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg", Coles Radio NSW
+http://coles.streaming.novaentertainment.com.au/nsw_act
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.coles.com.au/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg", Coles Radio QLD
+http://coles.streaming.novaentertainment.com.au/qld
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiodoblenueve.com/wp-content/uploads/2014/09/cropped-LOGO-DOBLE-NUEVE1-e1410845400628.png", Doble Nueve Heritage
+http://198.100.158.66:7030/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://flashback.is//img/favicon/90s.png", Flashback 90&#039;s Online Reykjavik
+http://www.radio.is:443/90flashback
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.freeradio.cz//img/ico_vcelka_32_32_6.png", Free Rádio 107,0 FM Brno
+http://icecast8.play.cz/freeradio128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-270x270.gif", Guldkanalen 90-tal
+http://www.guldkanalen.se/static/streamGK90/192MP3.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://webradio.ffh.de/custom/images/stationlist/just90s.jpg", Hit Radio FFH - 90er
+http://streams.ffh.de/ffhchannels/mp3/hqspezial.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.abradio.cz/data/s/125/logo_page.jpg", Hitrádio Devadesátka
+http://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hobbyradio.hu/images/favicon.ico", Hobby Rádió
+http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://en.j1fm.tokyo//sites/default/files/en_j1fm_com_favicon.jpg", J1 Radio &quot;XTRA&quot;
+http://cabhs31.sonixcast.com:20080/.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jackfm.de/favicon.ico", Jack FM
+http://www.jackfm.de/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/114844/resized/140x134c/kiss_90_s_ireland.jpg", KISS 90&#039;s
+http://listen.radionomy.com/kiss90s.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.es/wp-content/themes/kiss-fm/favicon.ico", Kiss FM
+http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kultradiofm.letterstage.tmt.de/wp-content/uploads/sites/49/2015/03/socialmedia_logo.jpg", Kultradio
+http://ice.kultradio.fm:80/kult128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300", laut.fm 90er
+http://stream.laut.fm/90er
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.m2radio.fr/favicon.ico", M2 90
+http://www.m2radio.fr/pls/m290_winamp.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.m80radio.com/wp-content/uploads/2015/02/M80_Default_731.jpg", M80 Radio
+http://provisioning.streamtheworld.com/pls/M80RADIO.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.maxi-france.fr/images2/android-icon-36x36.png", Maxi France
+http://www.maxi-france.fr/stream128.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://melodicradio.eu/favicon.ico", Melodic Radio
+http://melodicradio.eu/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://my100.com/MY-100/MY100_files/My100%20onBlack.jpg", My 100
+http://50.7.77.179:8513/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://extra.nostalgie.eu/images/Nostalgie-extra-90.png", Nostalgie Extra 90&#039;s
+http://nostalgiewaf90.ice.infomaniak.ch/nostalgiewaf90-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://marpimagecache.s3.amazonaws.com/image/50_300x170_2016-02-01-11-45-17-901.png", Nostalgie Pop 90
+http://pop90.ice.infomaniak.ch/pop90-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ondabravaradio.com/wp-content/themes/ondabravaradio/img/logo.png", Onda Brava 104.1
+http://167.114.210.232:8221/Live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.radioone1037.fm/adjuntos/175/imagenes/022/023/0022023975.png", One FM 103.7
+http://server5.stweb.tv:1935/one/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - Hity Lat 90
+http://gr-relay-16.gaduradio.pl/14
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.progoproductions.com/wp-content/uploads/2016/02/cropped-camera-lens-icon-270x270.jpg", ProGo Radio LIVE!
+http://38.86.44.4:2199/tunein/progoradiolive2.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic 90s
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_classics_32.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.argovia.ch/images/logo_200.jpg", Radio Argovia - 90s
+http://icecast.argovia.ch/a90-mp3-srp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobavariainternational.de/logo_forest.jpg", Radio Bavaria International
+http://streamplus18.leonex.de:18576
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Radio BObiKO
+http://listen.radionomy.com/radiobobiko
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.corsaire.org/images/logorad.png", Radio Corsaire
+http://listen64.radionomy.com/radio-corsaire
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioeins.com/wp-content/themes/fhb/themes/radio-eins/img/share-logo.png?cb=1466705079", Radio EINS Coburg
+http://www.stream24.de/tune-in/r7353.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/101092/resized/180x172c/radio_nova.jpg", Radio Nova 90s
+http://31.14.40.241:9752/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioplus.pl//favicon.ico", Radio Plus
+http://s5.deb1.scdn.smcloud.net/t051-1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioskipper.com/assets/img/logo.png", Radio Skipper Montreal
+http://kos.broadstreamer.com:8700/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio-diamonds.com/images/favicon.png", Radio-Diamonds
+http://radio-diamonds.com:8000/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm//bundles/rmpage/images/main/logo.png", RauteMusik 90s
+http://90s-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/favicon.ico", Rautemusik Goldies
+http://goldies-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro - Dance (Ukraine) - 128kb/s
+http://cast2.retro.ua/retro_dance
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro - Russian Collection (Ukraine) - 128kb/s
+http://cast2.retro.ua/retro_russian
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://retro.ua/favicon.ico", Retro FM (Ukraine) - 128kb/s
+http://cast.retro.ua/retro
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rfcradio.es/wp-content/uploads/2016/03/RFC-logo-es-claro.png", RFC Radio
+http://lyra.shoutca.st:8151/rfcmp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rockradio1.com/favicon.ico", RockRadio1
+http://192.99.147.61:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="www.rt1.de/favicon.ico", RT1 90&#039;s
+http://mp3.hitradiort1.c.nmdn.net/rt190shp/livestream.mp3?rpempv=3.1.101
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyradio.nl/img/player/logo_sky-radio-90s.png", Sky Radio 90&#039;s Hits
+http://live.icecast.kpnstreaming.nl/skyradiolive-SRGSTR05.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.slagerfm.hu/assets/images/sl.ico", Sláger FM
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://the90snetwork.com/wp-content/uploads/2015/09/90s-net.jpg", The 90s Network
+http://the90snetwork.com/wp-content/plugins//media-buttons/playlist.php?ip=188.165.201.120:8058&amp;mountpoint=/&amp;format=PLS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://thecheese.co.nz/wp-content/themes/atahualpa/images/favicon/fff-music.ico", The Cheese
+http://thecheese.ddns.net:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/cc/94/18978/c175.png", Top 80 FM
+http://live.top80.fm:8086/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fweb32.ok-webhost06.de/top20/wp-content/uploads/favicon.ico", Top20Club
+http://server8.blitz-stream.de:9150
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://top20radio.tv/wp-content/uploads/logoT20R2-300x146.png", Top20Radio
+http://server8.blitz-stream.de:9100/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiovega.bg/images/yootheme/logo.png", Vega+ Blagoevgad
+http://77.77.47.222:3050/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiovega.bg/images/yootheme/logo.png", Vega+ Sandaski
+http://www.ultranet.biz/vegasandanski.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vivafmiasi.ro/wp-content/uploads/2016/05/Untitled.png", Viva FM Iasi
+http://live.vivafmiasi.ro:8000/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioretro.com.br/favicon.ico", Webradio Retro
+http://70.87.43.38:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://magic973.com/es/wp-content/uploads/2016/07/logo_210.png", WOYE &quot;Magic 97.3&quot; San Juan
+http://ice.eleden.com:8000/magic.aac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rewind1009.com/wp-content/themes/wynz/img/touch-icon-144.png", WYNZ  &quot;Rewind 100.9&quot; Portland, ME
+http://stream.us.gslb.liquidcompass.net/WYNZFMMP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://melodiiveka.by/images/img0080.png", Мелодии Века
+http://93.84.112.253:8010/MV128

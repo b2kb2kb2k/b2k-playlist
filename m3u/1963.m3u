@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/blues%20ch.jpg", Digital Impulse - Blues
+https://orion.shoutca.st/tunein/asxblues.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/jazz.jpg", Digital Impulse - Jazz Channel
+http://orion.shoutca.st/tunein/asxjyzz.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/movie%20themes.jpg", Digital Impulse - Movie Themes
+http://orion.shoutca.st/tunein/asxmovie.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/rock%20ch.jpg", Digital Impulse - Rock Hits
+http://5.39.71.159:8871/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://imageprocessor.websimages.com/width/146/crop/0,0,146x146/www.di-radio.com/trance%20blue.jpg", Digital Impulse - Trance
+http://5.39.71.159:8704/;stream;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.opera-thegreatvoices.com/files/theme/banner-short.jpg?1477614771", Great Opera Voices
+http://rosetta.shoutca.st:8497/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", JazzRepublicRadio
+http://listen.radionomy.com/jazzrepublicradio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.net/images/broadcasts/94/e1/17830/c175.png", King Dub Radio
+http://london-dedicated.myautodj.com:8862/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://monocle.com/favicon.ico", Monocle 24
+http://radio.monocle.com/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://muzaiko.info/public/images/emblemo.png", Muzaiko
+http://listen.radionomy.com/muzaikoinfo.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.scenemusic.net/static/favicon.ico", Nectarine Demoscene Radio
+http://privat.is-by.us:8000/necta192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.nexus.org/index/link1.gif", Nexus-IBA
+http://mp3.nexus.org:8000/irn.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nolife-radio.com/favicon.ico", NoLife-Radio
+http://nolife-radio.com/radio/NoLife-radio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.progrock.com/wp-content/uploads/fbrfg/android-chrome-192x192.png", Progrock.com
+http://184.154.185.181:8000
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://theglobalvoice.info/favicon.ico", The Global Voice
+http://theglobalvoice.info:8000/broadband
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://vgmradio.com/images/favicon.png", VGM radio
+https://vgmradio.com/vgmradio.m3u

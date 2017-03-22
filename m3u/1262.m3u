@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://1jazz.ru/favicon.ico", 1jazz.ru - Piano Jazz
+http://radio.1jazz.ru:8200/radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://1jazz.ru/favicon.ico", 1jazz.ru - Piano Trios
+http://radio.1jazz.ru:8210/radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.abacus.fm/uploads/3/6/9/2/3692164/abacus-fm-logo_1_orig.jpg", Abacus Mozart Piano
+http://listen.abacus.fm/mozartpiano.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.airlessradio.com/images/logo.png", AirlessRadio - Piano
+http://hestia2.cdnstream.com:80/1237_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://assets.jimstatic.com/s/img/favicon.ico", Allpianoradio
+http://listen.radionomy.com/all-piano-radio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://d3pcda6yi2m5ux.cloudfront.net/assets/toolkit/images/icon/mstile-144x144.1465208374000.png", Jamendo Piano
+http://streaming207.radionomy.com:80/JamPiano
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://andromeda.shoutca.st/system/images/tunein-pls.png", Jazz Piano Magic 320K
+http://andromeda.shoutca.st:8178/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_piano-jazz2.png", Jazz Radio Piano Jazz
+http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12072742_10156045084035573_6064336356371742695_n.png.jpg?oh=9bd9bd040b35466cc569a8a49d131812&amp;oe=595F70D9", Klassik Radio Piano
+http://stream.klassikradio.de/piano/mp3-320
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300", Laut fm - Chillharmonie
+http://stream1.laut.fm/chillharmonie
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm//bundles/rmpage/images/main/logo.png", RauteMusik Solopiano
+http://solopiano-high.rautemusik.fm

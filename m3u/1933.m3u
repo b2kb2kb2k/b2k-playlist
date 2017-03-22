@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://choicefm.com.cy/wp-content/uploads/2012/08/logo8.png", Choice FM 104.3 Limassol &amp; 107.4 Nicosia
+http://eco.onestreaming.com:8364/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Hot 40 Music
+http://streaming.radionomy.com/Hot40Music
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.sunshineradio.com/favicon.ico", Sunshine Radio
+http://streaming.sunshineradio.com/mp3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://i2.wp.com/www.superclub-radio.com/wp-content/uploads/2014/10/Original_512x512-no-transperency-54515136_site_icon.png?fit=270%2C270", Super Club Radio
+http://69.46.24.226:7043/live.m3u

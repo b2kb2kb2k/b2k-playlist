@@ -1,0 +1,59 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.101fm.de/wp-content/uploads/2016/06/logo_flat_smal.png", 101FM - Charts
+http://stream.laut.fm/0-24_charts_pop_rock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/35/d8/35521/c175.png", Antena Miróbriga 102.7 FM
+http://178.32.239.25:8022/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen
+http://stream.antenne.com/antenne-nds/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen Charts
+http://stream.antenne.com/charts/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://webradio.antenne.com/apple-touch-icon.png", Antenne Niedersachsen Feel Good
+http://stream.antenne.com/feelgood/mp3-192/linux/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.canalacademie.com/favicon.ico", Canal Académie
+http://www.mmsa.fr:8000/audio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.charthits.fm/favicon.ico", ChartHits.FM
+http://charthits-high.rautemusik.fm//listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ww3.servemp3.com/app/themes/default/img/favicon.png", German Official Top 50 Station Dance-Charts(ww3.servemp3.com)
+http://ww3.servemp3.com:5000/Dance-Charts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://uradio.foroubuntu.es/images/9/97/I_love_charts.png", I love charts
+http://stream09.iloveradio.de/iloveradio9.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.iloveradio.de/fileadmin/templates/img/favicon.png", I Love Radio
+http://www.iloveradio.de/iloveradio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jackfm.de/favicon.ico", Jack FM
+http://www.jackfm.de/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jam.fm/sites/radiocore2.radiocenterberlin.de/themes/rc_jamfm/images/jamfm_og_home.png", JAM FM - New Music Radio
+http://stream.jam.fm/jamfm-live/mp3-128/radio-browser.info/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mfg-radio.de/favicon.ico", MFG Radio
+http://www.mfg-radio.de:1008/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.bennyott.de/logo.png", musicloversFM
+http://tunein.mlc.fm/chartsradio.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.538.nl/social_share.png", Radio 538
+http://vip-icecast.538.lw.triple-it.nl/RADIO538_MP3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nl.nlradiostreams.nl/images/538top40.png", Radio 538 Top 40
+http://vip-icecast.538.lw.triple-it.nl/WEB02_MP3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.argovia.ch/images/logo_200.jpg", Radio Argovia - Charts Countdown
+http://icecast.argovia.ch/actd-mp3-srp
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Radio BObiKO
+http://listen.radionomy.com/radiobobiko
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/52/c5/35663/c175.png", Rádio Clube de Lamego
+http://109.71.41.250:8110
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.pt/images/broadcasts/6d/95/35660/1/c175.png", Rádio Clube Madeira
+http://radiosmadeira.net:8020/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/99/18/35672/c175.png", Rádio Clube Marinhense
+http://94.23.76.235:9914/;?1437055258683.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/37/cf/35673/c175.png", Rádio Clube Paços de Ferreira
+http://178.32.239.25:8026/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/11402751_10153427445526738_7581506162765676609_n.jpg?oh=12a623c6e6ad0a079129dce76f311274&amp;oe=5965A566", Radio Erft
+http://edge.live.mp3.mdn.newmedia.nacamar.net/radioerft/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/a7/d6/36293/c175.png", Rádio Matosinhos Online
+http://185.32.188.17:8021/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.relaunch.radio-reeperbahn.de/wp-content/uploads/animated_favicon12.gif", RADIO Reeperbahn
+http://mp3.radio-reeperbahn.de:80
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", RauteMusik Main
+http://main-high.rautemusik.fm/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", Rautemusik Top 40
+http://top40-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/b4/47/36700/c175.png", RES FM
+http://109.71.41.6:8184/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mytop.fm/wp-content/uploads/2016/08/cropped-icon-1-192x192.png", TOP FM Terceira
+http://212.83.150.15:8602/;stream.nsv

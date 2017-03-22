@@ -1,0 +1,67 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static-media.streema.com/media/object-images/a49ed29de8b2bf11cfbad968638a8e49.png", 103.8 FM Brava Radio
+http://mra.rastream.com/mra_brava
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://urban.1more.fr/images/1More-Urban.jpg", 1MORE Urban
+http://stream.1more.fr/1more-urban-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radionomygroup.com/img/radionom.png", 2000s RnB
+http://listen.radionomy.com/2000s-rnb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://absolutrelax.de.dedi2666.your-server.de/absolutnetwork-content/uploads/sites/10/2014/04/absolutradio.png", Absolut Radio
+http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", AWesome MUSIC
+http://radio.awmusic.uk:8000/listen.pls?sid=1&amp;t=.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bestsmoothjazz.com/favicon.ico", Best Smooth Jazz [BSJ] BSJ.FM
+http://lucasbroadcast.com:8002
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.charthits.fm/favicon.ico", ChartHits.FM
+http://charthits-high.rautemusik.fm//listen.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.defjay.com/_img/_layout/boomboom.gif", DefJay
+http://listen.defjay.com/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.defjay.de//favicon.ico", Defjay FM
+http://icepool.silvacast.com/DEFJAY.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.defjay.de/wp-content/uploads/2016/07/favicon.ico", DefJay Urban
+http://icepool.silvacast.com:80/DEFJAYcom.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_RNB.png?321", Energy RnB
+http://cdn.nrjaudio.fm/adwz1/de/33017/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energy.de/sites/default/files/logo.png", Energy Sachsen
+http://cdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://flavormix.de/favicon.ico", FlavorMix
+http://213.238.33.199:8000/theflavormixHIGH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.freeradio.cz//img/ico_vcelka_32_32_6.png", Free Rádio 107,0 FM Brno
+http://icecast8.play.cz/freeradio128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=300x10000:format=jpg/path/s81aeb41b5d4b42b3/image/i8baae88527580cb5/version/1474647999/image.jpg", Funkagroove Radio
+http://radio5.pro-fhi.net:9024/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://groovera.com/favicon.ico", Groovera: soul nouveau™ [Cool neo-soul from around the globe]
+http://m.groovera.com/sn.ogg?c=7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://uradio.foroubuntu.es/images/e/e3/I_love_groove.png", I love groove
+http://streams.bigfm.de/grooveilr-128-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.de///favicon.png", Kiss FM - rnb
+http://stream.kissfm.de/kissfm-rnb/mp3-128/internetradio/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://2oq9c515h6m93tstsm32gydg.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/u92_fav.png", KUUU-FM South Jordan, UT &quot;U92&quot;
+http://playerservices.streamtheworld.com/m3u/KUUUFMAAC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://open.fm/img/logo-open-fm-200x200.png", OpenFM - 500 Rnb Hits
+http://gr-relay-16.gaduradio.pl/26
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.planetafm.pl//favicon.ico", Planeta RnB
+http://plarnb-01.cdn.eurozet.pl:8216/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio3dfm.com/wp-content/uploads/2013/12/DECLINAISON-LOGO-3DFM3-120px.png", Radio 3DFM
+http://radio3dfm.ice.infomaniak.ch/radio3dfm-low.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio3dfm.com/wp-content/uploads/2013/12/DECLINAISON-LOGO-3DFM3-120px.png", Radio 3DFM
+http://radio3dfm.ice.infomaniak.ch/radio3dfm-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", RauteMusik Charthits
+http://charthits-high.rautemusik.fm/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtc.cv/images/rtc.ico", RCV+
+http://radios.vpn.sapo.pt/CV/radio6.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyrock.fm/favicon.ico", Skyrock
+http://icecast.skyrock.net/s/natio_aac_64k
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://sublimefm.nl/wp-content/uploads/2015/07/sublime.png", Sublime FM
+http://stream.sublimefm.nl/SublimeFM_aac
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://the90snetwork.com/wp-content/uploads/2015/09/90s-net.jpg", The 90s Network
+http://the90snetwork.com/wp-content/plugins//media-buttons/playlist.php?ip=188.165.201.120:8058&amp;mountpoint=/&amp;format=PLS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wdkx.com/wdkxwp/wp/wp-content/uploads/2015/03/headerlogo2.jpg", WDKX 103.9 Rochester, NY
+http://208.75.67.162:8000/WDKXHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fresh999fm.com/wp-content/uploads/2016/04/Fresh-Logo-2B-1024x791.png", WIOA &quot;Fresh 99.9&quot;  San Juan
+http://70.35.204.175:8002/;?_=0.9028840095631936
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.hot97.com/sites/all/themes/bootstrap_emmis/images/sites/wqht/favicon.ico", WQHT &quot;Hot 97.1&quot; New York, NY
+http://provisioning.streamtheworld.com/pls/WQHTFM.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cumulus.pro.poolb.tritondigitalcms.com/wwwz-fm/wp-content/uploads/sites/494/2015/03/site-logo.png", WWWZ 93.3 &quot;Z93 Jamz&quot; Summerville, SC
+http://playerservices.streamtheworld.com/m3u/WWWZFM.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://jeoiu2zrjv09r3xx4aidnu16.wpengine.netdna-cdn.com/wp-content/uploads/sites/33/2016/02/wzfx.png", WZFX 99.1 &quot;Foxy 99&quot; Whiteville, NC
+http://playerservices.streamtheworld.com/m3u/WZFXFMAAC.m3u

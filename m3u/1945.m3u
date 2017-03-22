@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.crtvg.es/static/img/favicon-iOS/crtvg-76x76.png", Radio Galega
+http://audio1.crtvg.es/radio_galega
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.crtvg.es/static/img/favicon-iOS/crtvg-76x76.png", Radio Galega Música
+http://audio1.crtvg.es/radio_galega_musica
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://fotovoto.esradio.fm/uploads/img4b560110da3a1.jpg", Radio Oleiros
+http://radiooleiros.streaming-pro.com:8034/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.crtvg.es/static/img/favicon-iOS/crtvg-60x60.png", Son Galiza
+http://audio1.crtvg.es/son_galicia_radio

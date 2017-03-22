@@ -1,0 +1,43 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.avanzadametallica.net/favicon.ico", Avanzada Metallica
+http://199.195.194.140:8112/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.blmetalradio.com/images/blfav.ico", Black Label Extreme Metal Radio
+http://108.61.20.171:20406/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://crucialvelocity.ca/_Media/crucialvelocitylogo-2.jpeg", Crucial Velocity Radio - Stratford, ON
+http://hestia2.cdnstream.com/1369_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/favicon.ico", Hang 10 Rock Radio - Tofino, BC
+http://158.69.227.214:8113/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/90/27592/1/c175.png", Hard &amp; Heavy Metal Hits Radio
+http://streaming.radionomy.com/Hard-HeavyMetalHits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.obozrevatel.com/img/logo/myradio_oboz-3.png", Heavy Metal, Radio Obozrevatel
+http://relay.myradio.ua/heavymetal192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mariskalrock.com/wp-content/themes/mariskalrock/img/icons/favicon.ico", Mariskalrock
+http://radioserver9.profesionalhosting.com:8216/;stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png", Mercy Rádió - Rock Magyar Rádió
+http://stream.mercyradio.eu/rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://pinguinradio.com/wp-content/uploads/Aardschok-Radio-Covert-Art.jpg", Pinguin Aardschok
+http://as192.pinguinradio.com/listen.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiobeat.cz//favicon.ico", Radio Beat
+http://icecast2.play.cz/radiobeat128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/46301_10151136901223649_2110866272_n.jpg?oh=966e59968672649f77105661ea1fd459&amp;oe=592D7559", Radio BOB!
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayerbob
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-hartesaite/600x600_Harte-Saite.png", RADIO BOB! BOBs Harte Saite
+http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://media.streamabc.com/livestream.radiobob.de/bob-metal/600x600_Metal.png", RADIO BOB! BOBs Metal
+http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-1/p200x200/15894338_1247156595339446_2029064199149753667_n.jpg?oh=0c370187ba8b7900d08a331ed98b9c6b&amp;oe=5920E355", Rádió Rock 95.8
+http://92.61.114.191:13150/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radio.todamax.net/apple-touch-icon-180x180.png", Radio todamax
+http://stream.laut.fm/todamax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm/bundles/rmpage/images/main/logo.png", RauteMusik Wacken Radio
+http://wackenradio-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.antenne.de/thumbs/2016/08/heavymetal-579f896540c9c.f937f3a5.png", ROCK ANTENNE Heavy Metal
+http://www.rockantenne.de/webradio/channels/heavy-metal.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn.antenne.de/thumbs/2016/08/heavymetal-579f896540c9c.f937f3a5.png", ROCK ANTENNE Heavy-Metal
+http://www.rockantenne.de/webradio/channels/heavy-metal.aac.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiotangra.com/img/logo_tangra.png", Tangra
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/up_the_irons/user_640x640.jpg", up_the_irons
+http://laut.fm/up_the_irons
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.predavatel.com/bg/1/zrock/zrock1.gif", Z-Rock
+http://46.10.150.243/z-rock.mp3

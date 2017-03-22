@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://kvf.fo/sites/all/themes/kvf_minimal/images/kvf_logo.svg", Kringvarp Føroya (KVF)
+http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/400773_10151196983216259_1885052394_n.jpg?oh=6aab5a332af6a5faf316b1e2f15edd95&amp;oe=5894D579", Lindin
+http://high.lindin.fo/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.midlar.fo/images/ras2.png", Rás2
+http://stream.midlar.fo/ras2-128

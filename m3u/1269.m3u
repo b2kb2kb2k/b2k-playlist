@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rautemusik.fm//bundles/rmpage/images/main/logo.png", #Musik.Deutschrap
+http://deutschrap-high.rautemusik.fm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.104.6rtl.com/sites/radiocore1.radiocenterberlin.de/files/styles/large/public/ct/article/field_images/2017/01/02/black_neu.jpg?itok=iMYI0g51", 104.6 RTL Best of Black
+http://stream.104.6rtl.com/rtl-black/mp3-128/radio-browser.info/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://1jazz.ru/favicon.ico", 1jazz.ru - Vibraphone Jazz
+http://radio.1jazz.ru:8300/radio
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://urban.1more.fr/images/1More-Urban.jpg", 1MORE Urban
+http://stream.1more.fr/1more-urban-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://674.fm/wp-content/uploads/favicon3.ico", 674FM
+http://audio.674.fm/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.defjay.de//favicon.ico", Defjay FM
+http://icepool.silvacast.com/DEFJAY.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.defjay.de/wp-content/uploads/2016/07/favicon.ico", DefJay Urban
+http://icepool.silvacast.com:80/DEFJAYcom.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://player.addradio.de/player/2400/assets/station-logo.png", egoFM Rap
+http://mp3ad.egofm.c.nmdn.net/egofmrap_128/livestream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.energy.de/sites/all/themes/zen_energy/images/ENERGY_LOGO_RAP_US.png", Energy Rap US
+http://cdn.nrjaudio.fm/adwz1/de/33041/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://flavormix.de/favicon.ico", FlavorMix
+http://213.238.33.199:8000/theflavormixHIGH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://gnl.fm/wp-content/uploads/2015/08/GNL-Logo.png", GNL
+http://gnl.fm:8000/GNL-MP3-HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i.radionomy.com/radio/110/a5eb5bad-9f2c-4f1b-89b5-ff883dcd6065.jpg", Gran Reserva Rap
+http://listen.radionomy.com/gran-reserva-rap.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.iloveradio.de//fileadmin/templates/img/favicon.png", ILoveTheBattle
+http://stream01.iloveradio.de/iloveradio3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mediad.publicbroadcasting.net/p/kaxe/files/201610/KAXEKBXE_Logo.png", KAXE 91.7 &quot;Northern Community Radio&quot; Grand Rapids, MN
+http://live.str3am.com:2750/kaxe.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.kcck.org/favicon.ico", KCCK &quot;Jazz 88.3&quot; Cedar Rapids, IA
+http://stream.kcck.org/jazz883kcck
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kissfm.de///favicon.png", Kiss FM - Raps
+http://stream.kissfm.de/kissfm-raps/mp3-128/internetradio/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://hits1027.net/wp-content/uploads/2016/01/HitsLogoReverse-3.png", KXMZ &quot;Hits 102.7&quot; Rapid City, SD
+http://provisioning.streamtheworld.com/pls/KXMZFMAAC.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kzia.com/wp-content/uploads/2015/05/favicon.ico", KZIA - &quot;Z102.9&quot; Cedar Rapids, IA
+http://65.19.131.161/kziainc-kziafmmp3-48
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300", laut.fm germangrap
+http://stream.laut.fm/germangrap
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.m2radio.fr/favicon.ico", M2 Hip-Hop
+http://www.m2radio.fr/pls/m2hip-hop_winamp.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12742319_10153819047875851_6246471818464208499_n.jpg?oh=07186db92a3d8426b466f8b30a8772c1&amp;oe=59279486", MDR SPUTNIK Black-Stream
+http://www.sputnik.de/m3u/black.hi.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ondemand.nrj.be/Images/NRJ/Webradios/Rap-Fr-2015.png", NRJ Belgique - Rap FR
+http://rapfr-mp3.nrj.be/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/1/15701.png", NRK P3 National rap show
+http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="", Obscura basement radio
+http://laut.fm/net
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.omroepbrabant.nl/Graphics/Images/touch-icon.png", Omroep Brabant
+http://streaming.omroepbrabant.nl/mp3hq
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radioasfalt.pl/favicon.ico", Radio Asfalt
+http://195.162.25.64:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://nulca.notigo.si/wp-content/uploads/2016/06/R0-logo-01.png", Radio Nula 3
+http://streaming.radionula.com:8800/channel3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s271963q.png", Radi??nica 3
+http://shoutcast.rtvc.gov.co:8070/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.raponair.com/wp-content/uploads/2016/03/cropped-ICONO-APP-copia-270x270.png", Rap on Air
+http://listen.radionomy.com/rap-on-air-radio.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rtc.cv/images/rtc.ico", RCV+
+http://radios.vpn.sapo.pt/CV/radio6.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.skyrock.fm/favicon.ico", Skyrock
+http://icecast.skyrock.net/s/natio_aac_64k
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://somafm.com/img3/fluid-400.jpg", SomaFM Fluid
+https://somafm.com/fluid.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/12029809_1659448031008929_1806636349790233598_o.jpg?oh=fc2199f501c9b7ebb50e81d87d943c87&amp;oe=59635375", WBLV 90.3 &amp; 88.9 &quot;Blue Lake Public Radio&quot; Twin Lake, MI
+http://199.176.235.218:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wevl.org/images/wevl_logo_tagline_light_wt.png", WEVL 89.9 Memphis, TN
+http://peace.str3am.com:6030/;.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/1533904_10151932540173710_1085574568_n.jpg?oh=ec81ed1fc00035c67df43b48324f39d6&amp;oe=597100E4", WGVU-FM 88.5 &amp; 95.3 Allendale, MI
+http://16113.live.streamtheworld.com/WGVUFM.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/WPRR.png/200px-WPRR.png", WPRR 1680 &quot;Reality Radio&quot; Ada, MI
+http://stream.us.gslb.liquidcompass.net/WPRRAMAAC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.3wdfm.com///templates/3wdfm/favicon.ico", WWDW 107.7 &quot;3WD&quot; Alberta, VA
+http://ice41.securenetsystems.net/WWDW
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://secure.zuluhosting.co.uk/players/xen/backdrop/public/XEN-RADIO.png", XenFM
+http://radio.zuluhosting.co.uk:8000/listen.pls?sid=1

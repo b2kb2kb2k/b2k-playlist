@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://static.wixstatic.com/media/3db9f8_615ff316a88f490a8e1b980cb8efa4d7%7Emv2.png", CFMS 105.9 &quot;The Region&quot; Markham, ON
+http://s9.voscast.com:8708/;stream1474747158795/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/34877_135018749853600_2818006_n.jpg?oh=0db4c2d393e41a0f540ded1d76700e1c&amp;oe=5925AA0A", Chinese Classical Music
+http://radio.chinesemusicworld.com:8202
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.am1320.com/templates/yougrids/images/mesh/banner1.jpg", CHMB 1320 Vancouver, BC
+http://ice5.securenetsystems.net:80/CHMB
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.qingting.fm/favicon.ico", Qingting FM 89.9 Shanghai
+http://http.qingting.fm/4893.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rgd.com.cn/2013rgd/images/rgd.jpg", Radio Guangdong 91.4
+http://ctt.rgd.com.cn:8000/fm914
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiosrood.ca/favicon.ico", Radio Srood
+http://stream.radiosrood.com:8000/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://en.wikipedia.org//static/apple-touch/wikipedia.png", Southern Life Radio 93.6 Guangdong
+http://ctt.rgd.com.cn:8000/fm936

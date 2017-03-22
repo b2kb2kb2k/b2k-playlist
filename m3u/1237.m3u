@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://bestsmoothjazz.com/favicon.ico", Best Smooth Jazz [BSJ] BSJ.FM
+http://lucasbroadcast.com:8002
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.fipradio.fr/favicon.ico", FIP autour du groove
+http://direct.fipradio.fr/live/fip-webradio3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=300x10000:format=jpg/path/s81aeb41b5d4b42b3/image/i8baae88527580cb5/version/1474647999/image.jpg", Funkagroove Radio
+http://radio5.pro-fhi.net:9024/live
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://assets.laut.fm/user/jazzloft/user_640x640.jpg", Jazz Loft Radio
+http://stream.laut.fm/jazzloft.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_groovup.png", Jazz Radio Groov&#039;Up
+http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_groove.png", Jazz Radio Groove
+http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://lh3.googleusercontent.com/I1Q_ohFz4PlMfK-u9uS7pWafi_eTtKdSEPrwnfCkB28u7qm8JtcBMo2sneSUWC19J-Q=w300", Jazz24.org
+http://icy1.abacast.com/kplu-jazz24aac-64.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://patchbayradio.com/wp-content/uploads/2016/11/cropped-NewPatchbayLogoConcepttowerweb6-copy-270x270.jpg", Patchbay Radio
+https://albireo.shoutca.st/tunein/blaspena.pls
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rmfon.pl/i/logos/100x100/groove.png", RMF Groove
+http://195.150.20.243/GROOVE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.soulfulbits.com/favicon.ico", Soulful Bits radio
+http://195.154.104.70/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tekgroove.com//favicon.ico", Tek Groove.com  - Montreal, QC
+http://198.50.250.195:7046/?.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.tongueandgrooveradio.com/TGR%20Logo.jpg", Tongue &amp; Groove Radio
+http://a10.streamgb.com:2199/tunein/tongue.pls

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.airlessradio.com/images/logo.png", AirlessRadio - Opera
+http://hestia2.cdnstream.com:80/1235_128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.deutschlands-radio.de/images/emblems/br_klassik.png", Bayern 4 Klassik (BR 4)
+http://br-mp3-br-klassik-m.akacast.akamaistream.net/7/120/142693/v1/gnl.akacast.akamaistream.net/br_mp3_br-klassik_m
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.opera-thegreatvoices.com/files/theme/banner-short.jpg?1477614771", Great Opera Voices
+http://rosetta.shoutca.st:8497/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/598/2016/02/19190829/logo-v4.png", KING FM Seattle Opera Channel
+http://icy2.abacast.com/king-operamp3-48.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/12072742_10156045084035573_6064336356371742695_n.png.jpg?oh=9bd9bd040b35466cc569a8a49d131812&amp;oe=595F70D9", Klassik Radio Opera
+http://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio4.nl/image/rm/29281/NPO-Radio-4-Concerten.jpg", NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b4/Rai_Radio_8_Opera.svg/revision/latest?cb=20160928142637", Rai Radio 8 Opera
+http://icestreaming.rai.it/11.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.opera-thegreatvoices.com/favicon.ico", The Great Opera Voices of the 20th Century
+http://167.114.64.181:8497/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.veniceclassicradio.eu/en/templates/ja_pyro/images/light_red/logo.png", Venice Classic Radio
+http://www.veniceclassicradio.eu/live1/128.asx
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://media2.wnyc.org/i/400/400/c/80/photologue/photos/wqxr_square_logo.png", WQXR New York Public Radio &quot;Operavore&quot; Stream
+http://opera-stream.wqxr.org/operavore-tunein
