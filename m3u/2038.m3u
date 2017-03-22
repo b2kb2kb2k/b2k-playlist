@@ -1,7 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.adradio.ae//emaratfm/favicon.ico", Emarat FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/EMARAT_FM.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://gr8tunes.com/en/sites/default/files/imagecache/station_image/fairoz.JPG", Gr8-Fairouz
-http://184.107.202.178:8118/
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mm.aiircdn.com/148/369868.png", Radio4 FM
-http://19113.live.streamtheworld.com/RADIO4FM_SC

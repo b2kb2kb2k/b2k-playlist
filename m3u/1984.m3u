@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.faniloradio.com/images/favicon.ico", RADIO VAOVAO MAHASOA
-http://91.121.148.49:7777/
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://radiovazogasy.com/application/views/themes/rvg_v6/images/favicon.ico", Rado VazoGasy
-http://radiovazogasy.com/media/player/itunes.pls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rdj.mg/wp-content/uploads/2016/03/slideRDJ-1-100x50.jpg", RDj
-http://rdj966.net:8000/rdj966.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.newsmada.com/wp-content/uploads/2015/11/Newsmada-favicon.png", Taratra
-http://41.188.43.211:8000/taratraradio.mp3

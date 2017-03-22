@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png", IKIM.fm
-http://50.7.96.210:8285/;
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://keralaradio.in/favicon.ico", Kerala Radio
-http://radio.hostonnet.com:8000/listen.pls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.luminousradio.com/wp-content/uploads/2016/02/cropped-LR-logo-1-270x270.png", Luminous Radio
-http://192.111.140.6:8546/stream
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://img.radiomango.fm/content/dam/rm/radio-mango-logo.jpg", Radio Mango
-http://iveradiomangoae-lh.akamaihd.net/i/RadioMango_1@25090/master.m3u8

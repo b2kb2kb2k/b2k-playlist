@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://music1009.com/image/logo.png", Music 100.9 Monte Carlo
-http://str04.fluidstream.net/music1009.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio-monaco.com/templates/ts_mbiz/favicon.ico", Radio Monaco 98.2
-http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://rivieraradio.mc/assets/img/logo.png", Riviera Radio 106.5 La Condamine
-http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.mp3/playlist.pls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiomontecarlo.net/upload/1425376657636.jpg", RMC1 106.8 Monte Carlo
-http://icecast.unitedradio.it/RMC.mp3

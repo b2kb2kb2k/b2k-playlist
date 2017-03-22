@@ -1,9 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.crtvg.es/static/img/favicon-iOS/crtvg-60x60.png", Radio Galega
-http://media1.crtvg.es/live/_definst_/radio/chunklist_w850801998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.crtvg.es/static/img/favicon.ico", Radio Galega Música
-http://media1.crtvg.es/live/_definst_/rgm/chunklist_w2074769033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://3.bp.blogspot.com/-6HQBwesyGkA/UsijZaOkLtI/AAAAAAAAJH8/N6qv-1OYkwA/s1600/Radio+Galicia.jpg", Radio Galicia - Cadena Ser
-http://18973.live.streamtheworld.com:3690/SER_GALICIA.mp3?csegid=2000&amp;tdsdk=js-2.9&amp;pname=TDSdk&amp;pversion=2.9&amp;banners=none&amp;streamtheworld_user=1&amp;sbmid=d5ccc0dd-b042-4788-8838-4d04f9060b65
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio.uns.edu.ar/favicon.ico", Radio Universidad Nacional del Sur 1240 Bahia Blanca
-http://46.4.33.73:7104/;aacp

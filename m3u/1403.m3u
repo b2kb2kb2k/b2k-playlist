@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://carnaval-radio.nl/themes/CarnavalRadio/img/fav32.png", Carnaval-Radio
-http://185.80.220.12:2199/tunein/scarna00.pls
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://qmusic.nl/favicon.ico", Qmusic Limburg
-http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_qlmb_32.aac

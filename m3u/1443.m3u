@@ -1,7 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radio1.ch/templates/web/img/logo.png", Radio 1 Zürich
-http://radio.netstream.ch/128k.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://ch-radio-live.s3-eu-central-1.amazonaws.com/public-media/filer_public/86/7c/867c8fef-ef48-490f-b9be-96ae736a54fe/farbig.gif", Radio Zürisee
-http://mp3.radio.ch/radiozuerisee128k
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.toxic.fm//favicons/mstile-144x144.png", toxic.fm
-http://toxicfm.ice.infomaniak.ch/toxicfm-128

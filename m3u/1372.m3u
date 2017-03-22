@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://cfmbradio.com//wp-content/uploads/2016/04/favicon.png", CFMB 1280 &quot;Multilingue&quot; Montreal, QC
-http://ice41.securenetsystems.net/CFMB
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiokrishna.com/favicon.ico", Radio Krishna Centrale
-http://www.radiokrishna.com/RKC-Terni-MUS-HQ.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://cdn.webrad.io/images/logos/ascoltareradio-com/radio-maria.png", radio maria
-http://dreamsiteradiocp2.com:8016/;

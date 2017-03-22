@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.smile904.fm/wp-content/uploads/2014/03/smile-logo.png", Smile FM 160kbps
-http://edge.iono.fm/xice/smile_live_high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.smile904.fm/wp-content/uploads/2014/03/smile-logo.png", Smile FM 40kbps
-http://edge.iono.fm/xice/smile_live_low.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.smile904.fm/wp-content/uploads/2014/03/smile-logo.png", Smile FM 80kbps
-http://edge.iono.fm/xice/smile_live_medium.mp3

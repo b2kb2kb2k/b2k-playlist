@@ -1,9 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/5f/90/27592/1/c175.png", Hard &amp; Heavy Metal Hits Radio
-http://streaming.radionomy.com/Hard-HeavyMetalHits
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s81782q.png", Kiss FM
-http://213.239.218.99:7104/listen.pls?sid=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/a4/39/18041/c175.png", Passion Love Radio
-http://listen.radionomy.com/PassionLoveRadio
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://static.radio.de/images/broadcasts/77/2c/29594/c175.png", Rádio Alternativa 21
-http://streaming.radionomy.com/alternativa-21

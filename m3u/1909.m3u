@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://100jamz.com/wp-content/uploads/2015/12/cropped-100JAMZ-logotrans-270x270.png", &quot;100 JAMZ&quot; 100.3  Nassau
-http://100jamz.streamon.fm/stream/100JAMZ-24k.aac
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.more94fm.com/favicon.ico", More 94 FM Nassau
-http://icecast.more94fm.com:8000/more94.ogg
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.znsbahamas.com//communities/5/004/011/950/065/icons/4624431059.ico", ZNS Radio 1540 Nassau
-http://znsradio.sunisp.net:8000/zns1

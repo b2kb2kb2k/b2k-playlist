@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://www.capitalfm.co.ke/favicon.ico", Capital FM 98.4 Nairobi
-http://155.obj.netromedia.net/capitalfmflash/capitalfmflash/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.mediamaxnetwork.co.ke/wp-content/uploads/2015/05/MNL-fav.png", Kameme 101.1 FM
-http://uk1-vn.mixstream.net/listen/10018.asx
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.kassfm.co.ke/favicon.ico", Kass FM
-http://media.kassfm.co.ke:8006/live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="https://kiss100.co.ke/wp-content/themes/kiss-fm/favicon.ico", Kiss FM 100.3 Nairobi
-http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=4&amp;rate=1

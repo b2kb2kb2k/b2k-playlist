@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.arvorigfm.com/styles/arvorig_2015/images/favicon.png", Arvorig FM
-http://arvorig-fm.online.radiobreizh.bzh/live-ori.ogg
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://mag.tamm-kreiz.bzh/wp-content/uploads/2017/01/titre.jpg", CanalBreizh
-http://webradio-preprod.tamm-kreiz.bzh:8000/airtime_128
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.radiokerne.bzh/wp-content/uploads/2015/03/faviconRK.gif", Radio Kerne
-http://kerne.online.radiobreizh.bzh/live-ori.ogg

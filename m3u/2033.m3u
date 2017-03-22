@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://i955fm.com/wp-content/themes/red-955/images/logo.jpg", I955 FM
-http://104.238.99.1:8000/i955fm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://red967fm.com/favicon.ico", Red 96.7 FM
-http://104.238.99.1:8000/red967.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.wackradio901fm.com///templates/clarke_j25/favicon.ico", Wack Radio 90.1 FM
-http://192.249.123.193:1935/live/wacklive1/master.m3u8

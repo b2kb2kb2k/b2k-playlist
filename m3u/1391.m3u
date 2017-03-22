@@ -1,9 +1,0 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.raidiofailte.com/wp-content/uploads/2012/11/raidio-failte-logo-fav-icon.ico", Raidió Fáilte 107.1fm
-http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.raidionalife.ie/favicon.ico", Raidió na Life
-http://beryl.streamguys.com:5010/live
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.rrr.ie/wp-content/themes/replay/framework/admin/images/favicon.ico", Raidió Rí-Rá
-http://185.80.220.12:8166/stream
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" radio="" tvg-logo="http://www.liveradio.ie/files/images/115732/resized/140x134c/rte_raidio_na_gaeltachta.jpg", RTÉ Raidió na Gaeltachta
-http://av.rasset.ie/av/live/radio/rnag.m3u
