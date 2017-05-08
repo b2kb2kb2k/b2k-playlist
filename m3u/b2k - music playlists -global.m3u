@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, <<<<<< B2K ~ Music Playlists >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<<<<< Rev 3.0 ~ 17.3.2017 >>>>>>
+#EXTINF:0,<<<<<< Rev 3.1 ~ 7.5.2017 >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:0,<< פליילסטים ישראלים ולועזיים מאתרים: תאגיד כאן גלגל"צ רדיוס ואקו99 >>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
@@ -116,8 +116,668 @@ http://digital.100fm.co.il/stream/100fmAudio
 #EXTINF:0, <<<<<< ECO99 fm דיגיטל >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:0, <<< פלייליסטים חדשים 79 >>>
+#EXTINF:0, <<< פלייליסטים חדשים 330 >>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+
+#EXTINF:3600,god is a dj די ג'יי - eco 2000
+http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_11.mp3/playlist.m3u8
+#EXTINF:3600,להיטים שנות 2000 ~ מילניום קופצני - eco 2000
+http://99sets.livecdn.biz/99sets/doing_sports/sweat_in_the_aerobics_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה 2000 ~ ובמקום הראשון… - eco 2000
+http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_10.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ אהבה חדשה - eco 2000
+http://99sets.livecdn.biz/99sets/emotional/fall_in_love_20.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מלניום ישראלי - eco 2000
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_12.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה שקטה ~ שקט עדכני - eco 2000
+http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_12.mp3/playlist.m3u8
+#EXTINF:3600,AC/DC - eco artists
+http://99sets.livecdn.biz/99sets/eco_artist/special_acdc.mp3/playlist.m3u8
+#EXTINF:3600,אהוד בנאי וברי סחרוף ~ אהוד וברי - eco artists
+http://99sets.livecdn.biz/99sets/eco_artist/special_ehud_and_barry.mp3/playlist.m3u8
+#EXTINF:3600,DJ Arthur Gordon ארתור גורדון - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_arthur_gordon.mp3/playlist.m3u8
+#EXTINF:3600,DJ Asaf Dolev אסף דולב - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_asaf_dolev.mp3/playlist.m3u8
+#EXTINF:3600,DJ Danna Biton דנה ביטון - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_danna_biton.mp3/playlist.m3u8
+#EXTINF:3600,DJ Jessy די ג'יי ג'סי - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_jessy_07.mp3/playlist.m3u8
+#EXTINF:3600,DJ Norman Cook (Fatboy slim) פאטבוי סלים - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_norman_cook_fatboy_slim.mp3/playlist.m3u8
+#EXTINF:3600,DJ Set Udrub Music מוזיקה למסיבה - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_udrub_music.mp3/playlist.m3u8
+#EXTINF:3600,DJ YaYa סט דיסקו ופאנק - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_yaya.mp3/playlist.m3u8
+#EXTINF:3600,הילה אבשלומי DJ hila Avshalomi - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_hila_avshalomi_05.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליוום העצמאות ~  DJ Idit Avshalomi - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_idit_avshalomy_04.mp3/playlist.m3u8
+#EXTINF:3600,סט די ג'יי DJ Winnie Pootz - eco DJ sets
+http://99sets.livecdn.biz/99sets/eco_dj_set/dj_set_winnie_poot_04.mp3/playlist.m3u8
+#EXTINF:3600,דיסקונט ~ אחר צהריים משפחתי - eco family
+http://99sets.livecdn.biz/99sets/eco_family/friday_afternoons_40_discount.mp3/playlist.m3u8
+#EXTINF:3600,דיסקונט ~ בשישי נוסעים להורים? - eco family
+http://99sets.livecdn.biz/99sets/eco_family/friday_afternoons_47_discount.mp3/playlist.m3u8
+#EXTINF:3600,דיסקונט ~ משפחה על הבוקר - eco family
+http://99sets.livecdn.biz/99sets/eco_family/morning_of_fun_31_discount.mp3/playlist.m3u8
+#EXTINF:3600,דיסקונט ~ קבלת שבת - eco family
+http://99sets.livecdn.biz/99sets/eco_family/friday_afternoons_41_discount.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ כל המשפחה נרגעת - eco family
+http://99sets.livecdn.biz/99sets/eco_family/at_home_on_the_couch_29_discount.mp3/playlist.m3u8
+#EXTINF:3600,שירים לכל המשפחה ~ בוקר משפחתי - eco family
+http://99sets.livecdn.biz/99sets/eco_family/morning_clam_39_discount.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ אח"י להב שייטת 3 - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_lahav_boating_03.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ אמל"ח זרוע יבשה - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_amlah_zreoa_land.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ גדוד 13 גולני - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_golani_troop_13.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ מודיעין 8200 - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_8200.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ קורס מפקדים מודיעין - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_course_commanders_modiin.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ל"ג בעומר ~ קרטושקטס - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/special_lag_baomer_2017_02.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ אוספים את סבתא - eco holidays
+http://99sets.livecdn.biz/99sets/roads/relaxing_drive_17.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ אנחנו מארחים השנה - eco holidays
+http://99sets.livecdn.biz/99sets/dance/israeli_party_07.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ אני עושה יסודי - eco holidays
+http://99sets.livecdn.biz/99sets/at_home/mop_up_23.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ אצל מי אתם בחג? - eco holidays
+http://99sets.livecdn.biz/99sets/roads/sing_in_the_car_22.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ ארבעים שנה במדבר - eco holidays
+http://99sets.livecdn.biz/99sets/bands_special/special_passover_2017.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ השקט שלפני הסדר - eco holidays
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_11.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ חג שני בקיבוץ - eco holidays
+http://99sets.livecdn.biz/99sets/dance/local_stuff_09.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ חופש! - eco holidays
+http://99sets.livecdn.biz/99sets/bands%20special/special_freedom.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ יציאת מצרים - eco holidays
+http://99sets.livecdn.biz/99sets/bands%20special/special_human_rights.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ יש מספיק הגדות? - eco holidays
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_10.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחג ~ מתחילים לבשל מעכשיו - eco holidays
+http://99sets.livecdn.biz/99sets/bands_special/special_blues_05.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום העצמאות ~ גדוד 55 תותחנים - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_55th_artillery.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום העצמאות ~ יחידת התקשוב של חיל המודיעין - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_communications_and_intelligence_unit.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום העצמאות ~ מא"ש הנדסה צאלים - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_engineering_tzeelim.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום העצמאות ~ מחלקת זאב של חטיבת חילוץ והדרכה - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_wolf_of_rescue.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום העצמאות ~ פלוגה ג' גדוד 46 חטיבה 401 - eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_me_battalion_46th_division_401.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ שירים על ילדים - eco kids
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_117.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית לילדים ~ רוקדים עם הילדים - eco kids
+http://99sets.livecdn.biz/99sets/at%20home/home_with_family_10.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לילדים ~ חינוך מוזיקלי - eco kids
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_19.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לילדים ~ נוסעים לסבתא וסבא - eco kids
+http://99sets.livecdn.biz/99sets/roads/rhythmic_drive_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לילדים ~ שמח בבית - eco kids
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_26.mp3/playlist.m3u8
+#EXTINF:3600,סרטי ילדים ~ שירי סרטי דיסני - eco kids
+http://99sets.livecdn.biz/99sets/eco_kids/eco_kids_09.mp3/playlist.m3u8
+#EXTINF:3600,שירי ערש לילדים ~ חלומות פז - eco kids
+http://99sets.livecdn.biz/99sets/eco_kids/eco_kids_06.mp3/playlist.m3u8
+#EXTINF:3600,שירי ערש לילדים ~ להשאיר לך אור קטן? - eco kids
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_23.mp3/playlist.m3u8
+#EXTINF:3600,שירים לכל המשפחה ~ משפוחה - eco kids
+http://99sets.livecdn.biz/99sets/eco_kids/eco_kids_10.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ וויקנד של לבבות - eco love
+http://99sets.livecdn.biz/99sets/love/fall_in_love_13_durex.mp3/playlist.m3u8
+#EXTINF:3600,ארווויזיון Jerusalem is calling - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_alon_amir.mp3/playlist.m3u8
+#EXTINF:3600,הספריה הלאומית ~ משירי ארץ אהבתי - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_national_library.mp3/playlist.m3u8
+#EXTINF:3600,יום העצמאות ~ מד"א - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_magen_david_adom.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה גרובית ~ יובל ענתבי מקורס הרדיו - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_habetzefer_yuval_antebi.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ שרון מור - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_sharon_mor.mp3/playlist.m3u8
+#EXTINF:3600,קורס לימודי רדיו ~ אוהד פוזיילוב מקורס הרדיו - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_habetzefer_ohad_pozialov.mp3/playlist.m3u8
+#EXTINF:3600,קורס רדיו ~ איציק פאלנסיה מקורס הרדיו - eco me
+http://99sets.livecdn.biz/99sets/eco_60_years/eco_me_betsefer_itzik_palencia_02.mp3/playlist.m3u8
+#EXTINF:3600,להיטים חדשים ~ החדשים והנכונים 05.04.17 - eco playlist
+http://99sets.livecdn.biz/99sets/best_99/eco_playlist_18_24032017.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה חדשה ~ החדשים והנכונים 9.3.17 - eco playlist
+http://99sets.livecdn.biz/99sets/best_99/eco_playlist_17_08032017.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ פלייליסט החדשים והנכונים 27.4.17 - eco playlist
+http://99sets.livecdn.biz/99sets/best_99/eco_playlist_19_27042017.mp3/playlist.m3u8
+#EXTINF:3600,The Paz Band גל דה פז - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_the_paz_band.mp3/playlist.m3u8
+#EXTINF:3600,גראמי ~ הגראמי חוגג 58 - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_grammy_02_58.mp3/playlist.m3u8
+#EXTINF:3600,הופעות מוזיקה ~ איזה קיץ מגיע!! - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_summer_performances_israel_02.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ מסע הטבעת - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_ring_journey_hasot.mp3/playlist.m3u8
+#EXTINF:3600,סט שירי החייאה ~ מאה ביטים לדקה - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_resuscitation_songs.mp3/playlist.m3u8
+#EXTINF:3600,שירים מהסרטים ~ צאו מהסרט שלכם - eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_songs_from_the_movies_02.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ בערב עוד קר - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_04.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ השמש יצאה - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_08.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ מתחדשים - eco spring
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_38.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ קחי איזה קרדיגן - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_05.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ פרפרים - eco spring
+http://99sets.livecdn.biz/99sets/emotional/fall_in_love_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה  spring time - eco spring
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_33.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ צריך ז'קט? - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_06.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לאביב ~ אובך, גשם, שמש - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_07.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ הגרניום שלי התאושש מהחורף - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_10.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ מחליפים ארונות - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_09.mp3/playlist.m3u8
+#EXTINF:3600,שירי אביב ~ וואי, איזו אלרגיה! - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_03.mp3/playlist.m3u8
+#EXTINF:3600,שירי פסח ~ מלבלבים - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_02.mp3/playlist.m3u8
+#EXTINF:3600,שירים מרגשים ~ קחי משהו ללבוש - eco spring
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_44.mp3/playlist.m3u8
+#EXTINF:3600,שירים נעימים ~ מתחיל להתחמם - eco spring
+http://99sets.livecdn.biz/99sets/eco_spring/eco_spring_2017_01.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ גל אוהב היפ הופ - eco staff pick
+http://99sets.livecdn.biz/99sets/dance/nineties_17.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה אלטרנטיבית ~ אורטל בוחרת אלטרנטיב - eco staff pick
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_19.mp3/playlist.m3u8
+#EXTINF:3600,top hits 2010 להיטים - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/top_hits_2010.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שחורה top hits black music - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/black_music_march_2017.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ אפריל 2017 ~ ישראלי - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_50.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ אפריל 2017 ~ לועזי - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_49.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה חדשה ~ מאי 2017 ~ ישראלי - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_52.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה חדשה ~ מאי 2017 ~ לועזי - eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_51.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לאימון ~ תותח על! - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_18_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לאירובי ~ זיעה זה טוב - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/sweat_in_the_aerobics_18_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לאירובי ~ נכנסים לסקיני - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_22_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליוגה ~ כלב פונה מטה - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_01_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליוגה ~ כלב פונה מעלה - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_02_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לספינינג ~ מדוושים - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_16_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ איזו מהירות! - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_23_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ יוצאים למרתון בחו"ל? - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_33_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ עוד קצת! - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_36_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ קדימה, לרוץ! - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_35_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ רצים בלילה - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_39_beer_sheva.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לרכיבה ~ מדוושים - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_38_sovev_jerusalem.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לספינינג ~ עד לקצה - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_18_berman.mp3/playlist.m3u8
+#EXTINF:3600,שירים לקרוספיט ~ עצימות גבוהה - eco workout
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_15_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ אחכה לך - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_143.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ במרחק נגיעה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_140.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ בעושר ובעוני - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_109.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ הילד הזה הוא אני - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_117.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ הללויה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_136.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ זולגות הדמעות מעצמן - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_139.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ לאורך השדרה שאין בה איש - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_116.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ משהו חדש מתחיל - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_141.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ ספרי לי איזו מעשיה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_110.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ עם רדת יום - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_142.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ ריח דבש ריח מנטה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_108.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ שלא ייגמר לעולם - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_138.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ שק של סנטימנטים - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_137.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ תחת שמי ים התיכון - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_144.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליום השואה ~ רוח עצוב - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_145.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_126.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ איך עף הזמן - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_135.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ איפה כל החבר'ה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_103.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ בלדה בין כוכבים - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_133.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ גשם אחרון - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_121.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ החיילים שולחים לך פרח - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_131.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ הלילה הוא שירים - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_123.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ הפכפך כאביב - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_134.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ ואני ראיתי ברוש - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_122.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ זה לא בדיוק געגוע - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_148.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ יושבים בבית קפה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_119.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ ככה סתם - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_112.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ לא רוצה לזמביה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_129.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ לטיול יצאנו - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_127.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ למה את כל כך יפה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_113.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ לפעמים - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_118.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מישהו הפסיק את הזרם - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_130.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מצטער - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_132.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מרפסת מול מרפסת - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_124.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מתוק לו מתוק לו - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_120.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ עוד יהיה - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_128.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ שמלת כלולות - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_125.mp3/playlist.m3u8
+#EXTINF:3600,שירים ישראליים ~ התרגעות - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_115.mp3/playlist.m3u8
+#EXTINF:3600,שירים ליום הזיכרון ~ החול יזכור - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_146.mp3/playlist.m3u8
+#EXTINF:3600,שירים ליום העצמאות ~ רק בישראל - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_147.mp3/playlist.m3u8
+#EXTINF:3600,שירים עבריים ~ השיר על ארץ סיני - eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_114.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ אהבה משלנו - eco ישראלי
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_10_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ איזה שקט - eco ישראלי
+http://99sets.livecdn.biz/99sets/at_work/silent_israeli_at_work_11_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ בוקר בעברית - eco ישראלי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_32_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ בית בישראל - eco ישראלי
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_05_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ גרוב עברי - eco ישראלי
+http://99sets.livecdn.biz/99sets/dance/israeli_party_08_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ כיף ישראלי! - eco ישראלי
+http://99sets.livecdn.biz/99sets/dance/local_stuff_09_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ לילה טוב לכולם - eco ישראלי
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_23_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מנענעים - eco ישראלי
+http://99sets.livecdn.biz/99sets/dance/israeli_party_06_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ מסיבה ישראלית - eco ישראלי
+http://99sets.livecdn.biz/99sets/dance/israeli_party_03_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ נסיעה מלטפת - eco ישראלי
+http://99sets.livecdn.biz/99sets/roads/israeli_drive_11_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ רצים על הטיילת - eco ישראלי
+http://99sets.livecdn.biz/99sets/doing_sports/training_in_hebrew_07_berman.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ שקט בעברית - eco ישראלי
+http://99sets.livecdn.biz/99sets/at_work/silent_israeli_at_work_13_berman.mp3/playlist.m3u8
+#EXTINF:3600,אולדיז ~ בבית של ההורים - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_27.mp3/playlist.m3u8
+#EXTINF:3600,אולדיז ~ ההורים מרימים - בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_31.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ שמח ~ חפשו אותי בחוף - בבית
+http://99sets.livecdn.biz/99sets/at_home/off_day_from_work_19.mp3/playlist.m3u8
+#EXTINF:3600,להיטים ~ מוזיקה בין דורית - בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_33.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ לב שבור, לב אוהב - בבית
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_16.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ מרגוע - בבית
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_14.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ תירגעו כבר! - בבית
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית שקטה ~ קצת שקט ושלווה - בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_30.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לבישול ~ ספר מתכונים משפחתי - בבית
+http://99sets.livecdn.biz/99sets/at_home/to_cook_32.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנקיון ~ עושים פסח - בבית
+http://99sets.livecdn.biz/99sets/at_home/mop_up_29.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ השראה על הספה - בבית
+http://99sets.livecdn.biz/99sets/at_home/work_from_home_19.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ משרד בממ"ד - בבית
+http://99sets.livecdn.biz/99sets/at_home/work_from_home_20.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ספרדית ~  tapas - בבית
+http://99sets.livecdn.biz/99sets/at_home/to_cook_31.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רגועה ~ הערב בלי מקלחת - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_31.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רגועה ~ לא זז מכאן - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_30.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רגועה ~ לצלול קצת - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_26.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רגועה ~ שתה כוס מים ותירגע - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_29.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ הטלפון על רטט - בבית
+http://99sets.livecdn.biz/99sets/at_home/off_day_from_work_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת רקע נעימה ~ סלון מוזיקלי - בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_29.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה זמרות בלבד ~ רגוע לי - בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_45.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ חופש בעיר - בבית
+http://99sets.livecdn.biz/99sets/at_home/off_day_from_work_20.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ רגוע ולוחש - בבית
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_15.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה כיפית ~ יום חופשי בהפתעה - בבית
+http://99sets.livecdn.biz/99sets/at_home/off_day_from_work_21.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לכל המשפחה ~ שישי אצל ההורים - בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_47.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לניקיון ~ ומאחורי המקרר, עשית? - בבית
+http://99sets.livecdn.biz/99sets/at_home/mop_up_30.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לשינה ~  sleep cycle - בבית
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_24.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ קום על החיים שלך - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_33.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ שקט ונעים - בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_46.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה רגועה ~ נינוחים - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_28.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה רגועה ~ רק בשבילי - בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_32.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקת להיטים ~ איזה להיט - בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_32.mp3/playlist.m3u8
+#EXTINF:3600,שירי דיסקו ~ אבק על הנברשת - בבית
+http://99sets.livecdn.biz/99sets/at_home/mop_up_31.mp3/playlist.m3u8
+#EXTINF:3600,שירי ערש לילדים ~ קדימה, למיטות - בבית
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_23.mp3/playlist.m3u8
+#EXTINF:3600,שירים טובים שמרגיעים את המחשבות - בבית
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_25.mp3/playlist.m3u8
+#EXTINF:3600,שירים נשים ~ ליידיז - בבית
+http://99sets.livecdn.biz/99sets/at_home/trying_to_sleep_22.mp3/playlist.m3u8
+#EXTINF:3600,שירים רגועים ~  to do list - בבית
+http://99sets.livecdn.biz/99sets/at_home/work_from_home_21.mp3/playlist.m3u8
+#EXTINF:3600,שירים רגועים ~ מרגיעים את המחשבות - בבית
+http://99sets.livecdn.biz/99sets/at_home/relax_in_hebrew_12.mp3/playlist.m3u8
+#EXTINF:3600,באיזי - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_clam_38.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ השכמה בעברית - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_40.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ נעים ככה - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_39.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לבוקר ~ שמש על הבוקר - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_33.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה למקלחת ~ לשיר בקול רם - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/good_shower_21.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ קפה מוזיקלי - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/need_coffee_28.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ איפה השארתי את הרצועה? - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_walk_with_the_dog_12.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ גם גורים, גם בוגרים - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_walk_with_the_dog_14.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ לפתוח בחיוך - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_32.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ מתעוררים - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/need_coffee_30.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ קמים ומחייכים - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_34.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ דוד שמש - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/good_shower_20.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה כיפית ~ כיף על הבוקר - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_35.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה נעימה ~ בוקר נעים - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_clam_39.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה שמחה ~ ככה פותחים בוקר - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_walk_with_the_dog_13.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה שמחה ~ שמש ישראלית - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_38.mp3/playlist.m3u8
+#EXTINF:3600,מזויקה קצבית ~ תכין עוד שחור - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/need_coffee_31.mp3/playlist.m3u8
+#EXTINF:3600,שירים עבריים ~ מוזיקה ישראלית לבוקר - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_37.mp3/playlist.m3u8
+#EXTINF:3600,שירים שמחים ~ אנרגיות חיוביות - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/shaviuzt_sunday_28.mp3/playlist.m3u8
+#EXTINF:3600,שירים שמחים ~ השארת לי מים? - בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/good_shower_19.mp3/playlist.m3u8
+#EXTINF:3600,אולדי'ז ~ הסבים מרוצים - בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_31.mp3/playlist.m3u8
+#EXTINF:3600,אולדיז ~ רכב אספנות - בדרכים
+http://99sets.livecdn.biz/99sets/roads/relaxing_drive_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ חג בדרכים - בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_32.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית באנגלית ~ נסיעה כמו בחו"ל - בדרכים
+http://99sets.livecdn.biz/99sets/roads/drive_far_away_20.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית לנסיעה ~ נסיעת עבודה לצפון - בדרכים
+http://99sets.livecdn.biz/99sets/roads/israeli_drive_11.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לטינית ורגאיי ~ טיול אחרי צבא - בדרכים
+http://99sets.livecdn.biz/99sets/roads/feel_abroad_19.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנסיעה ~ אין לאן למהר - בדרכים
+http://99sets.livecdn.biz/99sets/roads/relaxing_drive_17.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנסיעה ~ אנרגיה על הכביש - בדרכים
+http://99sets.livecdn.biz/99sets/roads/rhythmic_drive_28.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנסיעה ~ בין ערביים - בדרכים
+http://99sets.livecdn.biz/99sets/roads/nighttime_driving_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנסיעה ~ המשפחה בסבבה - בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_33.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לנסיעה ~ שירים לנסיעה שלווה - בדרכים
+http://99sets.livecdn.biz/99sets/roads/relaxing_drive_19.mp3/playlist.m3u8
+#EXTINF:3600,עוקפים את הפקקים - בדרכים
+http://99sets.livecdn.biz/99sets/roads/israeli_drive_10.mp3/playlist.m3u8
+#EXTINF:3600,שירים בעברית ~ שיירדמו קצת מאחורה - בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_30.mp3/playlist.m3u8
+#EXTINF:3600,שירים לנסיעה משפחתית (קרדיט: unsplash) - בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_34.mp3/playlist.m3u8
+#EXTINF:3600,LISP playlist מוזיקה שקטה - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/program_quietly_21.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ בא לי כבר וויקנד - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/cut_home_16.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה חדשה ~ זה משרד או דיסקוטק? - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_23.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ שקט ישראלי - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/silent_israeli_at_work_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה למסיבה ~  early weekend - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_22.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריקודים ~ רוקדים במשרד - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/energy_in_the_office_31.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לתיכנות ~ ActionScript music - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/program_quietly_20.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ בדיקת איות - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/make_presentation_15.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ בקצב שלי - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_21.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ בקצב שלי - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_20.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה לנסיעה ~ אנרגיה חדשה - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/cut_home_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ אווירת חמישי בצהריים - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_21.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ חדש, ישן, שמח - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/energy_in_the_office_32.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת רוק ~ מתופפים על השולחן - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_18.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה אלקטרונית (קרדיט: Pixabay) - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/program_quietly_19.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ משרד ישראלי - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/energy_in_the_office_33.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה רגועה  ppt music - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/make_presentation_17.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקת להיטים ~ נגמר הקפה השחור - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_24.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקת להיטים ~ תפסיק עם הסוליטייר! - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/energy_in_the_office_34.mp3/playlist.m3u8
+#EXTINF:3600,רוק קליל ~ בלי נקודה בסוף המשפט - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/make_presentation_18.mp3/playlist.m3u8
+#EXTINF:3600,שירי רוק ~ החל על הכל - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/make_presentation_16.mp3/playlist.m3u8
+#EXTINF:3600,שירים שקטים ~ יום חלום - בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_19.mp3/playlist.m3u8
+#EXTINF:3600,אינדי ~ הוא מתחכם איתי - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/match_in_tinder_20.mp3/playlist.m3u8
+#EXTINF:3600,בלדות אהבה ~ דביקים - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/kitsch_and_romance_14.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ  ~ ער? - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/match_in_tinder_19.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ חראם על המצעים - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/make_love_17.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית עצובה ~ מרמרה קשה - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/feel_sorry_for_myself_14.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לחופה ~ הלכתם על בופה? - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/get_married_16.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לסקס ~ המממ… - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/make_love_16.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה מהורהרת ~ פתאום אני בלחץ - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/get_married_17.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ בתכלס, עדיף ככה - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/alone_and_happy_11.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה עצובה ~ חצי כוס מלאה - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/feel_sorry_for_myself_15.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רומנטית ~ נפרדים מהרווקות - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/get_married_15.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת אהבה ישראלית - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_11.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ אהבה זה עסק מסובך - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_12.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה עצובה ~ גלמודים, בודדים, עצובים - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/feel_sorry_for_myself_16.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ בוא נברח מכולם - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/kitsch_and_romance_15.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ הוא קצת תלותי - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/fall_in_love_18.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ היא לגמרי האחת - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/match_in_tinder_21.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ זה ממש זה! - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/match_in_tinder_18.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה ~ פרפרים - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/fall_in_love_19.mp3/playlist.m3u8
+#EXTINF:3600,שירי אהבה חדשים ~ התרגשות - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/fall_in_love_20.mp3/playlist.m3u8
+#EXTINF:3600,שירים על לבד ~ וגם לא אהבתי את ההורים שלך! - בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/alone_and_happy_09.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ עד הקצה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_22.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לאירובי ~ הקיץ מתקרב… - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_21.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ליוגה ~ גוף ותודעה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_10.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לפילאטיס ~ אנרגיה טובה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pilates_16.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לפילאטיס ~ תנועה זורמת - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pilates_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ אוזניות, וקדימה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/sweat_in_the_aerobics_18.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ יש לך את הכוח! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_36.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה לריצה ~ שוב רצים בפארק - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_37.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לאימון ~ וואי, גדלת! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_18.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לאימון ~ ולהרגיש את השריפה! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_23.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לאימון ~ מפזזים במכון - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/training_in_hebrew_10.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לספנינג ~ נגמר לי האוויר - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_19.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה לפילאטיס ~ מזרן רצפה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pilates_15.mp3/playlist.m3u8
+#EXTINF:3600,פלייליסט לחצי מרתון ~ הצלחתי חצי מרתון! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_39.mp3/playlist.m3u8
+#EXTINF:3600,פלייליסט למרתון ~ רצים מרתון! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/to_run_38.mp3/playlist.m3u8
+#EXTINF:3600,שירים לאימון ~ בוא'נה, נהיית סוס! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_17.mp3/playlist.m3u8
+#EXTINF:3600,שירים לאימון ~ הכנה לעונה החמה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/sweat_in_the_aerobics_17.mp3/playlist.m3u8
+#EXTINF:3600,שירים לאימון ~ עוד קצת, עוד! - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_18.mp3/playlist.m3u8
+#EXTINF:3600,שירים לספינינג ~ באינטנסיביות - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_17.mp3/playlist.m3u8
+#EXTINF:3600,שירים לפילאטיס ~ יצירת זרימה - עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pilates_14.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ בילוי של גברים - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/boys_night_19.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ (קרדיט: unsplash) - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/boys_night_18.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ונשמה ~ שעה עם החבר'ה - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_20.mp3/playlist.m3u8
+#EXTINF:3600,להיטי פופ ~ קלטת מה היא לובשת? - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/girls_night_18.mp3/playlist.m3u8
+#EXTINF:3600,להיטים ~ הרמה משפחתית - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_28.mp3/playlist.m3u8
+#EXTINF:3600,להיטים שבנות אוהבות ~ מה קבעתן לערב? - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/girls_night_17.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה אלקטרונית ~ ניפגש אצלנו לדרינק לפני? - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_27.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית ~ ערב שקט - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_11.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה מזרחית ~ מזרח תיכון ישן - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_12.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ החבר'ה קפצו  - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_21.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה נעימה ~ זמן איכות - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_13.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה רגועה ~ שעה של המשפחה - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_14.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ חתיכת שבוע - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_26.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ כיף עם החבר'ה - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_22.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ מתי יוצא חג שני? - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_27.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ בא לכם שנקפוץ? - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_24.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת להיטים ~ קצב טוב, חברים טובים - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_23.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקת פולק ~ אחי, יהיה בסדר - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/boys_night_20.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקת להיטים ~ ספת הלהיטים - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_25.mp3/playlist.m3u8
+#EXTINF:3600,נשים בלבד girl power - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/surprise_me_10.mp3/playlist.m3u8
+#EXTINF:3600,שירי רוק ~ תביאו פיצוחים בדרך - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_26.mp3/playlist.m3u8
+#EXTINF:3600,שירים לקיץ ~ שעון קיץ - עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/sea_all_the_year_18.mp3/playlist.m3u8
+#EXTINF:3600,אוריינטאלי ~ בגרוב - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_21.mp3/playlist.m3u8
+#EXTINF:3600,היפ הופ ~ קורצים - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_move_18.mp3/playlist.m3u8
+#EXTINF:3600,להיטי ניינטיז ~ בחזרה ל~ 1999 - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/nineties_19.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה אייטיז ~ חותלות - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/eighties_20.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה ישראלית שמחה ~ כמו ביום העצמאות - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/israeli_party_09.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה מזרחית ~ חפלה! - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/israeli_party_07.mp3/playlist.m3u8
+#EXTINF:3600,מוזיקה שמחה ~ בקצב! - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_pick_39.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה אלטרנטיבית ~ כזה אני, מיוחד - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_22.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה חדשה ~ טוב לי בלב - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_pick_40.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה ישראלית ~ ישראלי בגרוב - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/israeli_party_08.mp3/playlist.m3u8
+#EXTINF:3600,מוסיקה שקטה ~ מיוחדים שכמונו - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_20.mp3/playlist.m3u8
+#EXTINF:3600,רגאיי ~ רוטס רגאיי - רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/dance_reggae_31.mp3/playlist.m3u8
 
 #EXTINF:3600,Reggae in the 2000 רגאיי 2000 - eco 2000
 http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_09.mp3/playlist.m3u8
