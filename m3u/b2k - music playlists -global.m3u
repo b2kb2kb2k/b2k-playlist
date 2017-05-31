@@ -1,45 +1,48 @@
 #EXTM3U
 #EXTINF:0, <<<<<< B2K ~ Music Playlists >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<<<<< Rev 3.1 ~ 7.5.2017 >>>>>>>
+#EXTINF:0,<<<<<< Rev 3.2 ~ 31.5.2017 >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<< פליילסטים ישראלים ולועזיים מאתרים: תאגיד כאן גלגל"צ רדיוס ואקו99 >>
+#EXTINF:0,<<תחנות רדיו, ופליילסטים ישראלים ולועזיים מאתרים: תאגיד כאן, גלגל"צ, רדיוס, ואקו99 >>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:0,<<https://goo.gl/EaERCt ~ למידע >> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:0,<<תבלו :)>> 
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:0,<<עדכונים>> 
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+#EXTINF:0,<<נוספו ברשימה תחנות רדיו>> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:0, <<<<<< תאגיד כאן דיגטל >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:86400, נוסטלגיה ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCNostalgiaLA
+http://62.90.90.34/ipbc_IPBCNostalgiaLARepeat/_definst_/smil:IPBCNostalgiaLA.smil/playlist.m3u8
 	
 #EXTINF:86400, ים תיכוני ~ כאן - כאן	
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCOrientalLA
+http://82.80.192.11/ipbc_IPBCOrientalLARepeat/_definst_/smil:IPBCOrientalLA.smil/playlist.m3u8
 	
 #EXTINF:86400, שיא הרגש ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCRegeshLA
+http://82.80.192.11/ipbc_IPBCRegeshLARepeat/_definst_/smil:IPBCRegeshLA.smil/playlist.m3u8
 	
 #EXTINF:86400, קצת אחרת ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCAlternativeLA
-	
+http://82.80.192.11/ipbc_IPBCAlternativeLARepeat/_definst_/smil:IPBCAlternativeLA.smil/playlist.m3u8
+
 #EXTINF:86400, 80-90 ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC80-90LA
+http://82.80.192.11/ipbc_IPBC80-90LARepeat/_definst_/smil:IPBC80-90LA.smil/playlist.m3u8
 	
 #EXTINF:86400, להיטים ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA
+http://82.80.192.11/ipbc_IPBCHitsLARepeat/_definst_/smil:IPBCHitsLA.smil/playlist.m3u8
 	
 #EXTINF:86400, קלאסי ~ כאן - כאן
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA
+http://82.80.192.30/ipbc_IPBCClassicLARepeat/_definst_/smil:IPBCClassicLA.smil/playlist.m3u8
 
 
 #EXTINF:0, <<<<<< גלגל"צ דיגיטל >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:86400, שידור חי ~ גלגל"צ - גלגל"צ
-http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glglz
 #EXTINF:86400, סופשבוע רגוע ~ גלגל"צ - גלגל"צ
 http://player.gl.bynetcdn.com/Redirector/glz/glglz_sofshavua/ICE-live
 #EXTINF:86400, להיטים חמים ~ גלגל"צ - גלגל"צ
@@ -110,15 +113,161 @@ http://digital.100fm.co.il/stream/100Djset
 http://digital.100fm.co.il/stream/100Selfie
 #EXTINF:86400, Gamer ~ רדיוס - רדיוס
 http://digital.100fm.co.il/stream/100Gamer
-#EXTINF:86400, רדיוס ~ רדיוס - רדיוס
-http://digital.100fm.co.il/stream/100fmAudio
+
+
+#EXTINF:0, <<<<<< תחנות רדיו >>>>>>
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+#EXTINF:86400,רדיו ~ 88FM ~ כאן ~ 88FM - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
+
+#EXTINF:86400,רדיו ~ מורשת ~ כאן ~ מורשת - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM
+
+#EXTINF:86400,רדיו ~ קול המוזיקה ~ כאן ~ קול המוזיקה - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM
+
+#EXTINF:86400,רדיו ~ רשת ב' ~ כאן ~ רשת ב' - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM
+
+#EXTINF:86400,רדיו ~ רשת ג' ~ כאן ~ רשת ג' - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
+
+#EXTINF:86400,רדיו ~ תרבות ~ כאן ~ תרבות - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM
+
+#EXTINF:86400,רדיו ~ 100FM רדיוס - תחנות רדיו
+http://213.8.143.168/100fmAudio
+#EXTINF:86400,רדיו ~ 101.1FM רדיו אשמס - תחנות רדיו
+http://ashams.livecdn.biz/ashams_aac
+#EXTINF:86400,רדיו ~ 101.5FM רדיו דרום - תחנות רדיו
+http://audio-darom.ecast.co.il/darom101
+#EXTINF:86400,רדיו ~ 101FM רדיו ירושלים - תחנות רדיו
+http://server1.live1.co.il:8004/jrs101fm
+#EXTINF:86400,רדיו ~ 102FM קול הים האדום אילת - תחנות רדיו
+http://eilat.cdnwz.net/102fm
+#EXTINF:86400,רדיו ~ 102FM רדיו תל אביב - תחנות רדיו
+http://102.livecdn.biz/102fm_aac
+#EXTINF:86400,רדיו ~ 103FM רדיו ללא הפסקה - תחנות רדיו
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+#EXTINF:86400,רדיו ~ 105.3FM קול הגליל העליון - תחנות רדיו
+http://212.179.6.235:8000/galil
+#EXTINF:86400,רדיו ~ 106.2FM אורנים - תחנות רדיו
+http://oranim.cdnwz.net:8016/oranim
+#EXTINF:86400,רדיו ~ 106.2FM הרדיו הבינתחומי - תחנות רדיו
+http://194.153.101.160:8000/idc123.mp3
+#EXTINF:86400,רדיו ~ 106.2FM קול ראשונים - תחנות רדיו
+http://switch2-streaming-212-83-eu.ilcast.com:8090/;stream/1
+#EXTINF:86400,רדיו ~ 106.5FM גלי ישראל - תחנות רדיו
+http://gly-switch1.level1.co.il:9000/live
+#EXTINF:86400,רדיו ~ 106FM קול גלים - תחנות רדיו
+http://switch2-streaming-212-83-eu.ilcast.com:8055/;stream/1
+#EXTINF:86400,רדיו ~ 106FM קול גת - תחנות רדיו
+http://kolgat.livecast.co.il/livegat
+#EXTINF:86400,רדיו ~ 106FM קול הקמפוס - תחנות רדיו
+http://106fm.livecdn.biz:7075/;stream.mp3
+#EXTINF:86400,רדיו ~ 106FM קול יזרעאל - תחנות רדיו
+http://yezreel.cdnwz.net/yezreel
+#EXTINF:86400,רדיו ~ 106FM קול נס ציונה - תחנות רדיו
+http://kolness.livecast.co.il/liveness
+#EXTINF:86400,רדיו ~ 106FM קול נתניה - תחנות רדיו
+http://netanya.cdnwz.net/netanya
+#EXTINF:86400,רדיו ~ 106FM קול רמלה - תחנות רדיו
+http://84.94.229.99:5693/
+#EXTINF:86400,רדיו ~ 106FM קול רמת השרון - תחנות רדיו
+http://1036fm.livecast.co.il/live1036fm
+#EXTINF:86400,רדיו ~ 106FM רדיו אשל הנשיא - תחנות רדיו
+http://stream.eshelnet.com/xstream?1473838878565.mp3
+#EXTINF:86400,רדיו ~ 106FM רדיו קול הכנרת - תחנות רדיו
+http://kinneret.cdnwz.net/kinneret
+#EXTINF:86400,רדיו ~ 107.5FM רדיו חיפה - תחנות רדיו
+http://1075.livecdn.biz/radiohaifa?type=.flv
+#EXTINF:86400,רדיו ~ 109FM - תחנות רדיו
+http://cuead.cdnwiz.com/cuead-109fmmp3-64
+#EXTINF:86400,רדיו ~ 88FM - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
+#EXTINF:86400,רדיו ~ 89.1FM Первое радио - תחנות רדיו
+http://213.8.143.168/891fm
+#EXTINF:86400,רדיו ~ 90FM אמצע הדרך - תחנות רדיו
+http://90.cdnwz.net/90fm
+#EXTINF:86400,רדיו ~ 91FM לב המדינה - תחנות רדיו
+http://213.8.143.168/91fmAudio
+#EXTINF:86400,רדיו ~ 92.1FM רדיו קול ברמה - תחנות רדיו
+http://server1.live1.co.il:8004/livemp3
+#EXTINF:86400,רדיו ~ 93FM רדיו קול חי - תחנות רדיו
+http://www.ereznet.info:9393/
+#EXTINF:86400,רדיו ~ 96FM רדיו קול רגע - תחנות רדיו
+http://radio.96fm.co.il/96fm
+#EXTINF:86400,רדיו ~ 99.5FM רדיו חם אש - תחנות רדיו
+http://46.4.41.68:8000/995fm?type=.flv
+#EXTINF:86400,רדיו ~ Click2Dance - תחנות רדיו
+http://listen.clickfm.co.il/click2dance
+#EXTINF:86400,רדיו ~ Click2Love - תחנות רדיו
+http://listen.clickfm.co.il/click2love
+#EXTINF:86400,רדיו ~ ClickCafe - תחנות רדיו
+http://listen.clickfm.co.il/clickcafe
+#EXTINF:86400,רדיו ~ ClickFM - תחנות רדיו
+http://listen.clickfm.co.il/clickfm
+#EXTINF:86400,רדיו ~ ClickHipHop - תחנות רדיו
+http://listen.clickfm.co.il/hip.mp3
+#EXTINF:86400,רדיו ~ ClickIsrael - תחנות רדיו
+http://listen.clickfm.co.il/clickil
+#EXTINF:86400,רדיו ~ ECO99FM - תחנות רדיו
+http://99.livecdn.biz/99fm_aac?type=.flv
+#EXTINF:86400,רדיו ~ Radio 1FM - תחנות רדיו
+http://listen.clickfm.co.il/1FM
+#EXTINF:86400,רדיו ~ Radio Dance ISRAEL - תחנות רדיו
+http://cp11.livecdn.biz/radiodance_aac
+#EXTINF:86400,רדיו ~ אזורית - תחנות רדיו
+http://knight.wavestreamer.com:8474/stream/1/
+#EXTINF:86400,רדיו ~ גלגלצ - תחנות רדיו
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
+#EXTINF:86400,רדיו ~ גלי צהל - תחנות רדיו
+http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glz
+#EXTINF:86400,רדיו ~ הקצה - תחנות רדיו
+http://s2.kzradio.net/live/mp3/icecast.audio
+#EXTINF:86400,רדיו ~ כחול יוון - תחנות רדיו
+http://radio.kaholyavan.co.il/livegreece_aac
+#EXTINF:86400,רדיו ~ נושמים מזרחית - תחנות רדיו
+http://www.rs.mizrahit.co.il:7777/
+#EXTINF:86400,רדיו ~ צפון ללא הפסקה 104.5FM - תחנות רדיו
+http://1045fm.cdnwz.net/1045fm
+#EXTINF:86400,רדיו ~ קול המוזיקה - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM
+#EXTINF:86400,רדיו ~ קול המזרח - תחנות רדיו
+http://radio.menta-fm.co.il:8888
+#EXTINF:86400,רדיו ~ קול השלום קלאסיקות - תחנות רדיו
+http://uk3-vn.mixstream.net:8264/
+#EXTINF:86400,רדיו ~ קול השלום - תחנות רדיו
+http://uk2-vn.mixstream.net:8004/
+#EXTINF:86400,רדיו ~ קול עכו - תחנות רדיו
+http://radio.ilcast.com:8052/;
+#EXTINF:86400,רדיו ~ קול רמה 102.5FM - תחנות רדיו
+http://icecast.radiodance.co.il/kolramah
+#EXTINF:86400,רדיו ~ רדיו ביט - תחנות רדיו
+http://live.radio-beat.com/stream1
+#EXTINF:86400,רדיו ~ רדיו יאסו - תחנות רדיו
+http://radio-yasoo.ath.cx:7500/
+#EXTINF:86400,רדיו ~ רדיו סול - תחנות רדיו
+http://sol.video.cdnwz.net/sol/studio_a/playlist.m3u8
+#EXTINF:86400,רדיו ~ רדיו עפולה - תחנות רדיו
+http://radioafula.cdnwiz.com/stream
+#EXTINF:86400,רדיו ~ רדיו קול הצפון - תחנות רדיו
+http://mms1.no-ip.net:8030/
+#EXTINF:86400,רדיו ~ רקע - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCrekaLAM
+#EXTINF:86400,רדיו ~ רשת ב - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM
+#EXTINF:86400,רדיו ~ רשת ג - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
+#EXTINF:86400,רדיו ~ רשת מורשת - תחנות רדיו
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM
 
 #EXTINF:0, <<<<<< ECO99 fm דיגיטל >>>>>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:0, <<< פלייליסטים חדשים 330 >>>
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-
 
 #EXTINF:3600,god is a dj די ג'יי - eco 2000
 http://99sets.livecdn.biz/99sets/eco_two_thousands/eco_two_thousands_11.mp3/playlist.m3u8
