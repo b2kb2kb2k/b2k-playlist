@@ -1,19 +1,31 @@
 ﻿#EXTM3U
-#EXTINF:0, <<<<<< B2K ~ Music Playlists >>>>>>
+
+#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< קאשבק דואר ישראל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<<<<< Rev 3.6 ~ 12.09.2017 >>>>>>
+#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< קבלו כסף בחזרה על קניות באינטרנט >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<תחנות רדיו, ופליילסטים ישראלים ולועזיים מאתרים: תאגיד כאן, גלגל"צ, רדיוס, ואקו99 >>
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<עדכונים - נוספו קבוצות בתפריט האפליקציה iptv, תמונות,ופלייליסטים חדשים>> 
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:0,<<עדכונים - נוספו 300 פלייליסטים חדשים eco99>> 
+#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< לפרטים http://tiny.cc/cashback100 >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:0,<<תבלו :)>> 
+
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , < B2K ~ Music Playlists >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" ,< Rev 3.6 ~ 12.09.2017 >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <תחנות רדיו ופליילסטים ישראלים ולועזיים מאתרים תאגיד כאן גלגלצ רדיוס ואקו99 >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <נוספו קבוצות בתפריט האפליקציה iptv תמונות ופלייליסטים חדשים> 
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <נוספו 300 פלייליסטים חדשים eco99> 
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <תבלו :)> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:0, <<<<<< תאגיד כאן דיגטל >>>>>>
+
+
+
+
+#EXTINF:-1 group-title="כאן דיגיטל" tvg-logo="" , < תאגיד כאן דיגטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="כאן דיגיטל" tvg-logo="http://www.kan.org.il/images/radio_video_bgr_3.jpg" , תאגיד כאן - נוסטלגיה
@@ -31,7 +43,7 @@ http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA
 #EXTINF:-1 group-title="כאן דיגיטל" tvg-logo="http://www.kan.org.il/images/classic.jpg" , תאגיד כאן - קלאסי
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA
 
-#EXTINF:0, <<<<<< גלגל"צ דיגיטל >>>>>>
+#EXTINF:-1 group-title="גלגלצ" tvg-logo="" , < גלגל"צ דיגיטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="גלגלצ" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/46/GLGLTZ_NewLogo_2013.jpg/300px-GLGLTZ_NewLogo_2013.jpg" , גלגל"צ - שידור חי
@@ -49,7 +61,7 @@ http://player.gl.bynetcdn.com/Redirector/glz/glglz_rock/ICE-live
 #EXTINF:-1 group-title="גלגלצ" tvg-logo="https://glz.co.il/media/1186/glglz_streaming_120-1206.jpg" , גלגל"צ - אלטרנטיבי
 http://player.gl.bynetcdn.com/Redirector/glz/glglz_alt/ICE-live
 
-#EXTINF:0, <<<<<< רדיוס דיגיטל >>>>>>
+#EXTINF:-1 group-title="רדיוס" tvg-logo="" , < רדיוס דיגיטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="רדיוס" tvg-logo="http://digital.100fm.co.il/img/pic-16.jpg" , רדיוס - Radios 100FM
@@ -109,7 +121,7 @@ http://digital.100fm.co.il/stream2/100Special
 #EXTINF:-1 group-title="רדיוס" tvg-logo="http://digital.100fm.co.il/img/pic_gamer.jpg" , רדיוס - Gamer
 http://digital.100fm.co.il/stream2/100Gamer
 
-#EXTINF:0, <<<<<< תחנות רדיו >>>>>>
+#EXTINF:-1 group-title="רדיו" tvg-logo="" < תחנות רדיו >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="רדיו" tvg-logo="http://www.rlive.co.il/up/glgltz.png" , גלגלצ
@@ -474,10 +486,10 @@ http://switch2-streaming-212-83-eu.ilcast.com:8812/;livestream.mp3
 http://switch2-streaming-212-83-eu.ilcast.com:8810/;livestream.mp3
 
 
-#EXTINF:0, <<<<<< ECO99 fm דיגיטל >>>>>>
+#EXTINF:0, < ECO99 fm דיגיטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-#EXTINF:0, <<<<<< חדשים 12.9.2017 >>>>>>
+#EXTINF:0, < חדשים 12.9.2017 >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 
@@ -1048,7 +1060,7 @@ http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_21.mp3/playlist.m
 #EXTINF:-1 group-title="המומלצים של טל ואביעד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/17613_48_3__267.jpg" , eco99fm - המומלצים של טל ואביעד - הבוקר - טל ברמן ואביעד קיסוס #####eco99 ~ המומלצים של טל ואביעד
 http://99sets.livecdn.biz/99sets/tal_aviad/moran_12_9_17.mp3/playlist.m3u8
 
-#EXTINF:0, <<<<<<  >>>>>>
+#EXTINF:0, <  >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 
