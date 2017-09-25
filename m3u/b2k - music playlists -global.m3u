@@ -1,15 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< קאשבק דואר ישראל >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< קבלו כסף בחזרה על קניות באינטרנט >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< הרשמה ופרטים בלינק >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:-1 group-title="קאשבק" tvg-logo="https://www.postcashback.co.il/images/logo_tp.png" ,< tiny.cc/cashback100 >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-
-
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , < B2K ~ Music Playlists >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" ,< Rev 3.6 ~ 12.09.2017 >
@@ -23,9 +13,14 @@ http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <תבלו :)> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
-
-
-
+#EXTINF:-1 group-title="פודקסטים" tvg-logo="https://www.highgate-creative.com/xm_client/client_images/podcast-128.png" ,< חדש: כאן פודקסטים >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פודקסטים" tvg-logo="https://www.highgate-creative.com/xm_client/client_images/podcast-128.png" ,< שימו את הלינק הבא >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פודקסטים" tvg-logo="https://www.highgate-creative.com/xm_client/client_images/podcast-128.png" ,< בנגן שלכם >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+#EXTINF:-1 group-title="פודקסטים" tvg-logo="https://www.highgate-creative.com/xm_client/client_images/podcast-128.png" ,< https://tiny.cc/b2k-podacst-playlist >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="כאן דיגיטל" tvg-logo="" , < תאגיד כאן דיגטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
