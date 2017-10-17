@@ -2,13 +2,13 @@
 
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , < B2K ~ Music Playlists >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" ,< Rev 3.6 ~ 12.09.2017 >
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" ,< Rev 3.7 ~ 17.10.2017 >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <תחנות רדיו ופליילסטים ישראלים ולועזיים מאתרים תאגיד כאן גלגלצ רדיוס ואקו99 >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <נוספו קבוצות בתפריט האפליקציה iptv תמונות ופלייליסטים חדשים> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <נוספו 300 פלייליסטים חדשים eco99> 
+#EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <נוספו 155 פלייליסטים חדשים eco99> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 #EXTINF:-1 group-title="פרטים" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Cute_ball_info.png" , <תבלו :)> 
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
@@ -117,6 +117,325 @@ http://digital.100fm.co.il/stream2/100Trance
 http://digital.100fm.co.il/stream2/100Special
 #EXTINF:-1 group-title="רדיוס" tvg-logo="http://digital.100fm.co.il/img/pic_gamer.jpg" , רדיוס - Gamer
 http://digital.100fm.co.il/stream2/100Gamer
+
+#EXTINF:0, < ECO99 fm דיגיטל >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+#EXTINF:0, < חדשים 17.10.2017 >
+http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
+
+
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/11.jpg" , בועז כהן התכנית המלאה 11.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_11_09_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/spinning_24_unsplash.jpg" , מוזיקה לאימון - עד הקצה, ואז עוד קצת eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_24_unsplash.jpg" , בועז כהן - תולדות הבס העברי - חלק 3 eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco playlist" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/eco_playlist_26_12092017_unsplash.jpg" , להיטים חדשים - פלייליסט החדשים והנכונים 12.9.17 eco99fm ♪♫ #####eco99 ~ eco playlist
+http://99sets.livecdn.biz/99sets/best_99/eco_playlist_26_12092017.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/12.jpg" , בועז כהן התכנית המלאה 12.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_12_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/make_presentation_25_unsplash.jpg" , פלייליסט למשרד - לבד במשרד eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/make_presentation_25.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בקטע רומנטי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/feel_sorry_for_myself_22_unsplash.jpg" , מוזיקה רומנטית - הלילה לבד eco99fm ♪♫ #####eco99 ~ בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/feel_sorry_for_myself_22.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_25_unsplash.jpg" , רוק ישראלי - כשהגיטרה מנסרת... eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_25.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_stupid_series.jpg" , מוזיקה מהסדרה - מטומטמת eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_stupid_series.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/13_1.jpg" , בועז כהן התכנית המלאה 13.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_13_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/love_in_hebrew_13_autumn_unsplash.jpg" , אהבה ישראלית - ריח גשם באויר eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_13.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nineties_21_autumn_unsplash.jpg" , מוזיקה לסתיו - רשרוש עלי שלכת eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/dance/nineties_21.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/make_love_18_autumn_unsplash.jpg" , פלייליסט רומנטי - מרעננים מעילים eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/emotional/make_love_18.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/reception_at_work_07_autumn_unsplash.jpg" , פלייליסט בוקר - בוקר אפרורי ונפלא eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/at_work/reception_at_work_07.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/love_in_hebrew_14_autumn_unsplash.jpg" , מוזיקה רומנטית - אהבה בסוף הקיץ eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/emotional/love_in_hebrew_14.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_autumn_2017_01_unsplash.jpg" , מוזיקה לסתיו - הביאו את הסתיו! eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/eco_autumn/special_autumn_2017_01.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_241_unsplash.jpg" , מוזיקה עברית - ושוב אתכם eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_241.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_242_unsplash.jpg" , מוזיקה מפעם - האיש ההוא eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_242.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_53_unsplash.jpg" , להיטים מכל הזמנים - עונג שישי eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_53.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_243_unsplash.jpg" , נוסטלגיה ישראלית - הזמן עובר הזמן עבר eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_243.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_cook_39_unsplash.jpg" , מוזיקה מזרחית - אוריינט אקספרס eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/to_cook_39.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בקטע רומנטי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/match_in_tinder_27_unsplash.jpg" , מוזיקה רומנטית - חשבתי שיהיה רומנטי eco99fm ♪♫ #####eco99 ~ בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/match_in_tinder_27.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/lose_weight_2_kg_29_unsplash.jpg" , מוזיקה לאימון - דם, יזע ודמעות! eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_29.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/espresso_08_unsplash.jpg" , פלייליסט אולדיז - הבוקר בא כל כך מהר eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/espresso_08.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/14_4.jpg" , בועז כהן התכנית המלאה 14.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_14_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_244_unsplash.jpg" , מוזיקה עברית - זה קורה eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_244.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_autumn_2017_06_unsplash.jpg" , מוזיקה לערב - הטמפרטורה צונחת, תודה רבה. eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/eco_autumn/special_autumn_2017_06.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_ecotickets_17_23_092017_unsplash.jpg" , בא לי קצת מוזיקה eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_ecotickets_17_23_092017.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_clam_46_unsplash.jpg" , מוזיקה לבוקר - יקיצה טבעית eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_clam_46.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_israeli_cinema_unsplashnew.jpg" , פסקולים - והאופיר הולך ל... eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_israeli_cinema.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/17_1.jpg" , בועז כהן התכנית המלאה 17.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_17_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_245new_unsplash.jpg" , מוזיקה ישראלית - ימים לבנים eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_245.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/be_a_dj_office_32new_unsplash.jpg" , פלייליסט רגאיי - געגועי לגנג'ה eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_32.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_26new_unsplash.jpg" , בועז כהן - שירים על בנים חלק א' eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_26.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_autumn_2017_03new_unsplash.jpg" , אינדי - נעים בגוף, נעים באוזן eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/eco_autumn/special_autumn_2017_03.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/18.jpg" , בועז כהן התכנית המלאה 18.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_18_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_27new_unsplash.jpg" , בועז כהן - שירים על בנים - חלק ב' eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_27.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/traveling_with_friends_08new_unsplash.jpg" , מוזיקה טובה - לשרוק כל הדרך לים eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/traveling_with_friends_08.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_srogimnew_unsplash.jpg" , רוק דתי - לך אלי eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_srogim.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/anti_mainstream_24new_unsplash.jpg" , אלטרנטיבי - עילאיים ומתנשאים: הפסקול eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_249new_unsplash.jpg" , שירי ארץ ישראל - סוף העונה eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_249.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_tarantino_new.jpg" , מוזיקה מהסרטים - טרנטינו eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_tarantino.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/19.jpg" , בועז כהן התכנית המלאה 19.9.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_19_9_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_249_holyday_new_unsplash.jpg" , שירי ארץ ישראל - שנה נגמרה, שנת מתחילה eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_249.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_249_autumnnew_unsplash.jpg" , שירי ארץ ישראל - הסתיו התחיל eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_249.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_30new_unsplash.jpg" , מוזיקה סבנטיז - המופע של שנות השבעים eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_30.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/israeli_night_19new_unsplash.jpg" , מוזיקה ישראלית - נפגשים הערב? eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/israeli_night_19.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/cut_home_22new_unsplash.jpg" , להיטים - לנקות שולחן eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/cut_home_22.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/be_a_dj_office_33new_unsplash.jpg" , ניינטיז - נוסטלגיית ניינטיז מופלאה eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_33.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_pick_47new_unsplash.jpg" , היפ הופ - שחור בלב eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_pick_47.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/happy_thursday_38new_unsplash.jpg" , מוזיקה שמחה - חמישי וחופשי! eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_38.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/happy_thursday_39new_unsplash.jpg" , מוזיקה שמחה - ליפסינג בלי בושה eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_39.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/traveling_with_friends_07new_unsplash.jpg" , מוזיקה לטיול - אחי, איפה אתה? eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/traveling_with_friends_07.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/pump_in_the_fitness_center_22new_unsplash.jpg" , מוזיקה לאימון - מסה קריטית eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_22.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_of_fun_41new_unsplash.jpg" , מוזיקה קצבית - על הרגלים מחמש eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_41.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/israeli_morning_42new_unsplash.jpg" , שירים בעברית - מקושקשת וסלט קצוץ eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/israeli_morning_42.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/boys_night_24new_unsplash.jpg" , רוק - אסטרוגן אאוט! eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/boys_night_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/girls_night_23new_unsplash.jpg" , מוזיקה למסיבה - טסטוסטרון אאוט! eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/girls_night_23.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_246new_unsplash2.jpg" , קלאסיקה ישראלית - בארץ אהבתי eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_246.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco baby" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/eco_baby_12_hasut_maternanew_unsplash.jpg" , מוזיקה לתינוקות - נוסעים לאט! eco99fm ♪♫ #####eco99 ~ eco baby
+http://99sets.livecdn.biz/99sets/eco_baby/eco_baby_12_hasut_materna.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_series_grays_anatomynew.jpg" , מוזיקה מהסדרה - האנטומיה של גריי eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_series_grays_anatomy.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_247new_unsplash.jpg" , זמר עברי - לא יודע איך לומר לך eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_247.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_248new_unsplash.jpg" , שירה בציבור - הוא לא כל כך eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_248.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_cook_36new_unsplash.jpg" , מוזיקה בישולים - לבשל בארבע ידיים eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/to_cook_36.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/concentrate_alone_26new2_unsplash.jpg" , מוזיקה למשרד - עם האוזניות ושישרף העולם eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_26.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/mop_up_31_sokotnew_unsplash.jpg" , דיסקו - כדור מראות בסוכה eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/mop_up_31.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/kitsch_and_romance_17_sokotnew_unsplash.jpg" , מוזיקה רומנטית - לא לבד במדבר eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/kitsch_and_romance_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/fall_in_love_23_sokotnew_unsplash.jpg" , מוזיקה ישראלית - מרגישה את האהבה באוויר eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/fall_in_love_23.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/israeli_morning_42_sokotnew_unsplash.jpg" , מוזיקה ישראלית - שלומית בונה פלייליסט eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/israeli_morning_42.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nineties_14_sokotnew_unsplash.jpg" , דואטים - סוכה לשניים eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/nineties_14.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_cook_39_sokotnew_unsplash.jpg" , ים תיכוני - יש לך מתכון עם אתרוג? eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/to_cook_39.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/good_shower_27new_unsplash.jpg" , מוזיקה לבוקר - בריזה של בוקר eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/good_shower_27.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/anti_mainstream_25new_unsplash.jpg" , אלטרנטיב - הפסקול האחר של תשע"ז eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_25.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_50new_unsplash.jpg" , מוזיקה נעימה - עם העיתון של הסופ"ש eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_50.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/speciel_eco_autumn_04_2017new_unsplash.jpg" , רוק לועזי - איפה תקעתי את הצעיף? eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/eco_autumn/special_autumn_2017_04.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_250new_unsplash.jpg" , מוזיקה ישראלית - אני אוהב לישון eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_250.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_28new_unsplash.jpg" , מוזיקה צרפתית - נשיקה צרפתית eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_28.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_29new_unsplash.jpg" , מוזיקה צרפתית - סרג', שארל ומישל eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_29.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_clam_47new_unsplash.jpg" , מוזיקה לבוקר - לא לדבר איתי לפני הקפה! eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_clam_47.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_move_22new_unsplash.jpg" , רוק - בואי לרקוד eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_move_22.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_251new_unsplash.jpg" , קלאסיקה ישראלית - על ראש שמחתי eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_251.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_251_sokotnew_unsplash.jpg" , קלאסיקה ישראלית - ארבעת המינים eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_251.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_255new_unsplash_1.jpg" , מוזיקה ישראלית - כמה טוב יהיה eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_255.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_255_sokotnew_unsplash.jpg" , מוזיקה ישראלית - כמה טוב יהיה eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_255.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco top hits" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/anti_mainstream_25_top_hitsnew_unsplash.jpg" , אלטרנטיב - טופ היטס האלטרנטיבי של תשע"ז eco99fm ♪♫ #####eco99 ~ eco top hits
+http://99sets.livecdn.biz/99sets/dance/anti_mainstream_25.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco family" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_walk_with_the_dog_22_discount.jpg" , פלייליסט אבות מייסדים - מבצע סבתא eco99fm ♪♫ #####eco99 ~ eco family
+http://99sets.livecdn.biz/99sets/eco_family/morning_walk_with_the_dog_22_discount.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco family" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/drive_far_away_27_discount.jpg" , מוזיקה משפחתית - עץ משפחה eco99fm ♪♫ #####eco99 ~ eco family
+http://99sets.livecdn.biz/99sets/eco_family/drive_far_away_27_discount.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco family" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/sing_in_the_car_27_discount.jpg" , מוזיקה משפחתית - משפחתי וחיות אחרות eco99fm ♪♫ #####eco99 ~ eco family
+http://99sets.livecdn.biz/99sets/eco_family/sing_in_the_car_27_discount.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco family" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_52_discount.jpg" , מוזיקה לכל המשפחה - מדורת השבט eco99fm ♪♫ #####eco99 ~ eco family
+http://99sets.livecdn.biz/99sets/eco_family/friday_afternoons_52_discount.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_ecotickets_0210_0910__2017new_unsplash.jpg" , מופעים אוקטובר - פותחים את אוקטובר עם... eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_ecotickets_01_07_102017.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco top hits" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/eco_top_hits_61new_unsplash.jpg" , להיטים חדשים - ספטמבר 2017 - לועזי eco99fm ♪♫ #####eco99 ~ eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_61.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco top hits" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/eco_top_hits_62new_unsplash.jpg" , להיטים חדשים - ספטמבר 2017 - ישראלי eco99fm ♪♫ #####eco99 ~ eco top hits
+http://99sets.livecdn.biz/99sets/best_99/eco_top_hits_62.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/sokot_eco_top_hits_62_unsplashnew_unsplash_1.jpg" , להיטים - להיטים מכאן לסוכות eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_top_hits_62.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco holidays" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/sokot_eco_top_hits_61_sokotnew_unsplash_1.jpg" , להיטים - להיטים מכאן לסוכות eco99fm ♪♫ #####eco99 ~ eco holidays
+http://99sets.livecdn.biz/99sets/eco_holidays/eco_top_hits_61.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_28new_unsplash.jpg" , גרוב  - בקצב של הגלים eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/sea_all_the_year_28.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_252new_unsplash_2.jpg" , מוזיקה ישראלית - יש לי גן eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_252.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/2_3.jpg" , מוזיקה יפה - אני אוהבת הכול! eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_plugin_loazi_hasut.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/1_2.jpg" , להיטי קיץ - להיטים בסוף הקיץ eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_plugin_israeli_hasut.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/3_2.jpg" , מוזיקה לועזית - קול החבר'ה eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/bands_special/with_friends_on_the_couch_21_hasut_plugin.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/4_2.jpg" , להיטים - המיקסטייפ של החבר'ה eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/bands_special/with_friends_on_the_couch_23_hasut_plugin.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/5_1.jpg" , מוזיקה מהמילואים - הפסקול מהמילואים eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/bands_special/with_friends_on_the_couch_25_hasut_plugin.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/6_2.jpg" , אלקטרוני  - ערב פוקר eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/bands_special/with_friends_on_the_couch_27_hasut_plugin.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/1_3.jpg" , בועז כהן התכנית המלאה 1.10.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_01_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/silent_israeli_at_work_17new_unsplash.jpg" , מוזיקה למשרד - ריטלין באוזניים eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/silent_israeli_at_work_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_253new_unsplash.jpg" , מוזיקה ישראלית - כולם היו בנאי eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_253.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/2_4.jpg" , בועז כהן התכנית המלאה 2.10.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_2_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/3_3.jpg" , בועז כהן התכנית המלאה 3.10.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_03_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/spinning_25new_unsplash.jpg" , מוזיקה לספינינג - אני לאנס פא**נג ארמסטרונג! eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/spinning_25.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/pump_in_the_fitness_center_23new_unsplash.jpg" , מוזיקה לאימון - אני מלך הקרוספיט! eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/pump_in_the_fitness_center_23.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בקטע רומנטי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/kitsch_and_romance_18new_unsplash.jpg" , מוזיקה רומנטית - אוהבים שירי אהבה eco99fm ♪♫ #####eco99 ~ בקטע רומנטי
+http://99sets.livecdn.biz/99sets/emotional/kitsch_and_romance_18.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_series_real_detectivenew_unsplash.jpg" , מוזיקה מהסדרה - בלש אמיתי eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_series_real_detective.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_of_fun_42new_unsplash.jpg" , מוזיקה לבוקר - יקיצה מתוקה eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_of_fun_42.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדרכים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/rhythmic_drive_34new_unsplash.jpg" , מוזיקה לנסיעה - נוסעים במכונית הישנה eco99fm ♪♫ #####eco99 ~ בדרכים
+http://99sets.livecdn.biz/99sets/roads/rhythmic_drive_34.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדרכים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/drive_far_away_28new_unsplash.jpg" , מוזיקה לנסיעה - רצועת טיימינג eco99fm ♪♫ #####eco99 ~ בדרכים
+http://99sets.livecdn.biz/99sets/roads/drive_far_away_28.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדרכים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nighttime_driving_24new_unsplash.jpg" , מוזיקה ללילה - הלילה לא לבד eco99fm ♪♫ #####eco99 ~ בדרכים
+http://99sets.livecdn.biz/99sets/roads/nighttime_driving_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדרכים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/on_the_road_with_family_39_new_unsplash.jpg" , מוזיקה משפחתית - הרמוניה eco99fm ♪♫ #####eco99 ~ בדרכים
+http://99sets.livecdn.biz/99sets/roads/on_the_road_with_family_39.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco autumn" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_autumn_2017_05new_unsplash.jpg" , מוזיקה לסתיו - מי אמר שאין לנו סתיו? eco99fm ♪♫ #####eco99 ~ eco autumn
+http://99sets.livecdn.biz/99sets/eco_autumn/special_autumn_2017_05.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/sweat_in_the_aerobics_24new_unsplash.jpg" , מוזיקה לאירובי - שעת כושר eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/sweat_in_the_aerobics_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עם החברים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/happy_thursday_40new_unsplash.jpg" , מוזיקה להיטים - מיינסטרים זה הכי אחי! eco99fm ♪♫ #####eco99 ~ עם החברים
+http://99sets.livecdn.biz/99sets/with_friends/happy_thursday_40.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/israeli_party_17new_unsplash_2.jpg" , מוזיקה מזרחית - זה כל הקצב eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/israeli_party_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_pick_48new_unsplash.jpg" , מסיבה ישראלית - יותר מרים מזה אין! eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
+http://99sets.livecdn.biz/99sets/dance/to_pick_48.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/be_a_dj_office_34new_unsplash.jpg" , אייטיז - יושבים על הזירוקס eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_34.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/mop_up_38new_unsplash.jpg" , מוזיקה לבית - ככה סתם, בבית eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/mop_up_38.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/home_with_family_38new_unsplash.jpg" , רוק ישראלי - חינוך מוזיקלי eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/home_with_family_38.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/at_home_on_the_couch_42new_unsplash.jpg" , אלטרנטיב - טריפ טוב eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/at_home_on_the_couch_42.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco artists" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_kendrick_lamarnew.jpg" , קנדריק לאמאר - Kendrick Lamar eco99fm ♪♫ #####eco99 ~ eco artists
+http://99sets.livecdn.biz/99sets/eco_artist/special_kendrick_lamar.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_256new_unsplash.jpg" , מוזיקה עברית - מזמור לדויד eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_256.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_31new_unsplash.jpg" , בועז כהן - שקיעה בווטרלו eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_31.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_32new_unsplash.jpg" , בועז כהן - לונדון קוראת eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_32.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_33new_unsplash.jpg" , בועז כהן - ערפל על הנשמה eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_33.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_257new_unsplash.jpg" , זמר עברי - אהבתיה eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_257.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_258new_unsplash.jpg" , שירת הארץ - שיר ארץ eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_258.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_259new2_unsplash.jpg" , שירים בעברית - לאט לאט eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_259.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_34new_unsplash.jpg" , בועז כהן - מצ'לסי ועד התמזה eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_34.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_35new_unsplash.jpg" , בועז כהן - יושב בלונדון על המים eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_35.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/get_out_quickly_22_newunsplash.jpg" , מוזיקה לבוקר - נתאפר כבר באוטו eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/get_out_quickly_22.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/concentrate_alone_27new_unsplash.jpg" , היפ הופ - שחור באוזניים eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/concentrate_alone_27.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/be_a_dj_office_35new_unsplash.jpg" , מוזיקה למשרד - שעות נוספות eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/be_a_dj_office_35.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_hair_revolution_newunsplash.jpg" , פלייליסט שירי מחאה - תנו לשמש יד! eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_hair_revolution.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_260new_unsplash.jpg" , מוזיקה ישראלית - ההר הירוק תמיד eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_260.mp3/playlist.m3u8
+#EXTINF:-1 group-title="עושה ספורט" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/lose_weight_2_kg_30new_unsplash_1.jpg" , מוזיקה לאירובי - מהר יותר, גבוה יותר, חזק יותר! eco99fm ♪♫ #####eco99 ~ עושה ספורט
+http://99sets.livecdn.biz/99sets/doing_sports/lose_weight_2_kg_30_02.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בעבודה" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/energy_in_the_office_42new_unsplash_1.jpg" , מוזיקה לעבודה - פידבק חיובי eco99fm ♪♫ #####eco99 ~ בעבודה
+http://99sets.livecdn.biz/99sets/at_work/energy_in_the_office_42_02.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_54new_unsplash_1.jpg" , ים תיכוני - לקראת שבת בכרם eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_54_02.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco special" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_israelis_who_succeed_abroad2.jpg" , ישראלים בחו"ל - כמה טוב (שלא) באתם הביתה eco99fm ♪♫ #####eco99 ~ eco special
+http://99sets.livecdn.biz/99sets/bands_special/special_israelis_who_succeed_abroad.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/work_from_home_28_newunsplash.jpg" , מוזיקה לבית - אקסל בנעלי הבית eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/work_from_home_28.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בבית" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_55_newunsplash.jpg" , מוזיקה רגועה - שישי מעונן eco99fm ♪♫ #####eco99 ~ בבית
+http://99sets.livecdn.biz/99sets/at_home/friday_afternoons_55.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/morning_walk_with_the_dog_23_newunsplash.jpg" , מוזיקה לבוקר - רק אני, פג'ויה ומחלק העיתונים eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/morning_walk_with_the_dog_23.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/15_1_1.jpg" , בועז כהן התכנית המלאה 15.10.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_15_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_254new_unsplash.jpg" , זמר עברי - הכל דבש eco99fm ♪♫ #####eco99 ~ eco ישראל מפעם
+http://99sets.livecdn.biz/99sets/nostalgic/nostalgic_254.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדיוק קמתי" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/espresso_09new_unsplash_1.jpg" , מוזיקה לבוקר - המקינטה שורקת eco99fm ♪♫ #####eco99 ~ בדיוק קמתי
+http://99sets.livecdn.biz/99sets/open_your_eyes/espresso_09.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/set_boaz_cohen_39new_unsplash.jpg" , בועז כהן - שיק פריזאי eco99fm ♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_39.mp3/playlist.m3u8
+#EXTINF:-1 group-title="בדרכים" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/relaxing_drive_24new_unsplash.jpg" , מוזיקה לנסיעה - קרוזינג בשכונה eco99fm ♪♫ #####eco99 ~ בדרכים
+http://99sets.livecdn.biz/99sets/roads/relaxing_drive_24.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco nightshift" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/16_1.jpg" , בועז כהן התכנית המלאה 16.10.2017 eco99fm♪♫ #####eco99 ~ eco nightshift
+http://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_16_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="המומלצים של טל ואביעד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/17613_48_3__278.jpg" , eco99fm - המומלצים של טל ואביעד - הבוקר - טל ברמן ואביעד קיסוס #####eco99 ~ המומלצים של טל ואביעד
+http://99sets.livecdn.biz/99sets/tal_aviad/adams_17_10_17.mp3/playlist.m3u8
+#EXTINF:-1 group-title="eco artists" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/special_uzi_hitmannew.jpg" , עוזי חיטמן - eco99fm ♪♫ #####eco99 ~ eco artists
+http://99sets.livecdn.biz/99sets/eco_artist/special_uzi_hitman.mp3/playlist.m3u8
+
 
 #EXTINF:-1 group-title="רדיו" tvg-logo="" < תחנות רדיו >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
@@ -482,13 +801,8 @@ http://switch2-streaming-212-83-eu.ilcast.com:8812/;livestream.mp3
 #EXTINF:-1 group-title="רדיו" tvg-logo="http://www.rlive.co.il/up/channel-10.png" , ערוץ 10 - אודיו
 http://switch2-streaming-212-83-eu.ilcast.com:8810/;livestream.mp3
 
-
-#EXTINF:0, < ECO99 fm דיגיטל >
+#EXTINF:0, <  >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-
-#EXTINF:0, < חדשים 12.9.2017 >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
-
 
 #EXTINF:-1 group-title="רוצה לרקוד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/to_pick_45_unsplash.jpg" , מוזיקה ישראלית שמחה - ישראלים מרימים eco99fm ♪♫ #####eco99 ~ רוצה לרקוד
 http://99sets.livecdn.biz/99sets/dance/to_pick_45.mp3/playlist.m3u8
@@ -1057,8 +1371,6 @@ http://99sets.livecdn.biz/99sets/ecoalternative/set_boaz_cohen_21.mp3/playlist.m
 #EXTINF:-1 group-title="המומלצים של טל ואביעד" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/17613_48_3__267.jpg" , eco99fm - המומלצים של טל ואביעד - הבוקר - טל ברמן ואביעד קיסוס #####eco99 ~ המומלצים של טל ואביעד
 http://99sets.livecdn.biz/99sets/tal_aviad/moran_12_9_17.mp3/playlist.m3u8
 
-#EXTINF:0, <  >
-http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 
 #EXTINF:-1 group-title="ישראל מפעם" tvg-logo="http://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_01.jpg" , מוזיקה ישראלית של פעם- זוהי רק ההתחלה eco99fm #####eco99 ~ eco ישראל מפעם
