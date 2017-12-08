@@ -58,7 +58,7 @@ http://player.gl.bynetcdn.com/Redirector/glz/glglz_rock/ICE-live
 #EXTINF:-1 group-title="גלגלצ" tvg-logo="https://glz.co.il/media/1186/glglz_streaming_120-1206.jpg" , גלגל"צ - אלטרנטיבי
 http://player.gl.bynetcdn.com/Redirector/glz/glglz_alt/ICE-live
 
-#EXTINF:-1 group-title="רדיוס" tvg-logo="http://www.972radio.com/_/rsrc/1476356474905/radius-100-fm/רדיוס%20100%20FM.png" , < רדיוס דיגיטל >
+#EXTINF:-1 group-title="רדיוס" tvg-logo="http://www.100fm.co.il/images/logo.png" , < רדיוס דיגיטל >
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="רדיוס" tvg-logo="http://digital.100fm.co.il/img/pic-16.jpg" , רדיוס - Radios 100FM
@@ -122,7 +122,7 @@ http://digital.100fm.co.il/stream2/100Gamer
 http://www.noiseaddicts.com/samples_1w72b820/3723.mp3
 
 #EXTINF:-1 group-title="רדיו" tvg-logo="https://lh3.googleusercontent.com/jq2CMGk8keF9w2ynJncTqdj9-z3J7OOF7eNYxwEowYQIBH5wXAzE3MYk3-zlAeqMzJ0=w300" , רדיו ארץ
-http://cp11.livecdn.biz:80/eretz-aac
+http://radio.eretz.fm/eretz-aac
 #EXTINF:-1 group-title="רדיו" tvg-logo="http://www.rlive.co.il/up/glgltz.png" , גלגלצ
 http://glglzwizzlv.bynetcdn.com/glglz_aes
 #EXTINF:-1 group-title="רדיו" tvg-logo="http://www.rlive.co.il/up/glz.png" , גלי צהל
